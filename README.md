@@ -1,6 +1,62 @@
 # Today I Learned
 
-## December 2020
+## January 2021
+
+### Sun Jan 10
+- [Wikipedia has a list of all the famous public signage typefaces](https://en.wikipedia.org/wiki/List_of_public_signage_typefaces)
+
+### Sat Jan 9
+- [On the PS1/PSX, the region data was encoded in the discs through different frequencies of wobbles etched into the grooves](https://hackaday.com/2018/11/05/how-the-sony-playstation-was-hacked/)
+
+### Fri Jan 8
+- [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor
+) is a site that indexes unused and cut content from video games.
+
+### Thu Jan 7
+- A [camouflage passport](https://en.wikipedia.org/wiki/Camouflage_passport) is a passport-like document issued in the name of a non-existent country or location.
+  - A famous examples is the [World Passport](https://en.wikipedia.org/wiki/World_Passport)
+
+## WINTER BREAK
+
+## December 2020q
+
+### Wed Dec 23
+- A [bezoar](https://en.wikipedia.org/wiki/Bezoar) is a mass found trapped in the gastrointestinal system. Gross.
+
+### Tue Dec 22
+- [Tulip mania](https://en.wikipedia.org/wiki/Tulip_mania) was a period during the Dutch Golden Age when contract prices for some bulbs of the recently introduced and fashionable tulip reached extraordinarily high levels, and then dramatically collapsed in February 1637. It is generally considered to have been the first recorded speculative bubble in history.
+
+### Mon Dec 21
+- A [topological game](https://en.wikipedia.org/wiki/Topological_game) is an infinite game of perfect information played between two players on a topological space. Players choose objects with topological properties such as points, open sets, closed sets and open coverings. Time is generally discrete, but the plays may have transfinite lengths, and extensions to continuum time have been put forth. The conditions for a player to win can involve notions like topological closure and convergence. It doesn't seem very fun.
+
+### Sun Dec 20
+- [Joseph Darby](https://en.wikipedia.org/wiki/Joseph_Darby_%28jumper%29) was a world renowned jumper who often did trick jumps for show. The Pittsburgh Press in November 1893 listed the following jumps in Darby's repertoire:
+  - Jumps over twenty chairs placed ten feet apart.
+  - Jumps over six chairs in one jump.
+  - Clears two chairs 18 ft apart.
+  - Jumps off one brick, end up, over a chair, lands on another brick end up, and backwards without knocking the bricks down.
+  - Jumps on to a man's face while lying down and off again without hurting the man.
+  - Jumps 36 ft in three successive jumps and in the third jump lands on a man's back, whilst he is lying across the edge of two chairs, and off again without hurting him.
+  - Jumps off one brick, end up, over a horse 15 hands high.
+
+### Sat Dec 19
+- The paper bit on a Hershey's kiss is called the [plume](https://en.wikipedia.org/wiki/Hershey's_Kisses#Paper_plume)
+
+### Fri Dec 18
+- **[Milquetoast](https://en.wiktionary.org/wiki/milquetoast)**: Meek, timid; lacking character or effectiveness. From the character Caspar Milquetoast of the comic strip The Timid Soul.
+- [Milk toast](https://en.wikipedia.org/wiki/Milk_toast) is actually a thing though??
+
+### Thu Dec 17
+- The [1984 Rajneeshee bioterror attack](https://en.wikipedia.org/wiki/1984_Rajneeshee_bioterror_attack), where salad bars at local restaurants were contaminated with Salmonella in hopes of incapacitating voters ahead of the county elections, was the first and largest bioterrorist attack in US history.
+
+### Wed Dec 16
+- [The shortest war ever was the Anglo-Zanzibar war, which lasted only 38 minutes](https://en.wikipedia.org/wiki/Anglo-Zanzibar_War).
+
+### Tue Dec 15
+- [Larry](https://en.wikipedia.org/wiki/Larry_(cat)) is a cat that serves as Chief Mouser to the Cabinet Office at 10 Downing Street.
+
+### Mon Dec 14
+- The phrase 'going postal' [originates from a series of incidents from 1986 onward in which United States Postal Service (USPS) workers shot and killed managers, fellow workers, and members of the police or general public in acts of mass murder](https://en.wikipedia.org/wiki/Going_postal).
 
 ### Sun Dec 13
 - All maps to the empty set are bijections, because the only function that maps to the empty set is the identity mapping from the empty set to itself, which is a bijection.
