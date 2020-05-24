@@ -2,6 +2,16 @@
 
 ## May 2020
 
+### Sun May 24
+- I learned more words from my crosswords:
+  - **Assent**: the expression of approval or agreement
+  - **Bivouac**: a temporary camp without tents or cover, used especially by soldiers or mountaineers
+  - **Lariat**: rope
+  - **Pall**: become less appealing or interesting through familiarity
+- [Nothing-up-my-sleeve numbers](https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number) are numbers (in cryptography) that are above suspicion of hidden properties, based on how they are chosed or constructed.
+- The "tropical" in [tropical geometry](https://en.wikipedia.org/wiki/Tropical_geometry) because the person who first wrote on it was from Brazil.
+- The en-dash (–) is the same width as a capital N, and is used to separate items in a list. The em-dash (—) is the same width as a capital M, and is used to signal a separate but related clause.
+
 ### Sat May 23
 - The green stuff you eat in sushi restaurants is probably not real wasabi (it's more likely [a combination of horseradish, mustard, and green food coloring](https://en.wikipedia.org/wiki/Wasabi#Surrogates)). Real wasabi is very expensive because it only grows by fresh mountain streams in Japan. It requires rocky soil, constant fresh water, and has to be kept at a certain temperature. It then has to be harvested by hand, and when it is grated, it only retains it's flavor for ~30 minutes.
 - Along with the classic "Alice" and "Bob" placeholders used in cryptography as placeholders for the names of different communicating parties, there is a whole [cast of characters](https://en.wikipedia.org/wiki/Alice_and_Bob#Cast_of_characters).
