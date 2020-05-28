@@ -2,6 +2,23 @@
 
 ## May 2020
 
+### Wed May 27
+- More definitions:
+  - **Abbot** - a man who is the head of an abbey of monks
+  - **Catarrh** - excessive discharge or buildup of mucus in the nose or throat, associated with inflammation of the mucous membrane. Gross.
+  - **Genial** - friendly and cheerful
+  - **Impinge** - have an effect or impact, especially a negative one.
+
+### Tue May 26
+- 57 is often called "[Groethendieck's prime](https://en.wikipedia.org/wiki/57_(number)#In_mathematics)" after a story in which mathematician Alexander Grothendieck supposedly gave it as an example of a particular prime number.
+- A [repdigit](https://en.wikipedia.org/wiki/Repdigit) (or monodigit) is a number that is made of a single number repeated multiple times
+  - A [repunit](https://en.wikipedia.org/wiki/Repunit) is a repdigit that uses only 1s
+  - A [Brazilian number] is a number that can be written as a repdigit in some base, not allowing the repdigit 11.
+- A [Mersenne prime](https://en.wikipedia.org/wiki/Mersenne_prime) is a prime number that is one less that a power of two (and therefore can be represented by all 1s in binary)
+
+### Mon May 25
+- If you accidentally make/write in a file in `vim` without sudo, you can write the changes as sudo anyways by using `:w !sudo tee %`
+
 ### Sun May 24
 - I learned more words from my crosswords:
   - **Assent**: the expression of approval or agreement
