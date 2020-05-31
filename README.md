@@ -2,6 +2,16 @@
 
 ## May 2020
 
+### Fri May 29
+- The [Waffle House Index](https://en.wikipedia.org/wiki/Waffle_House_Index) is an informal metric named after the Waffle House restaurant chain and is used by the Federal Emergency Management Agency (FEMA) to determine the effect of a storm and the likely scale of assistance required for disaster recovery.
+  - It has 3 different levels:
+    - GREEN: full menu – restaurant has power and damage is limited or no damage at all.
+    - YELLOW: limited menu – no power or only power from a generator, or food supplies may be low.
+    - RED: the restaurant is closed – indicating severe damage or severe flooding.
+
+### Thu May 28
+- The difference between a logomark and a logotype is that logomarks do not have any words in them (think the Twitter bird, the Apple apple) while a logotype is made of stylized words (think Coca Cola). A "logo" could refer to either, both, or a combination of the two.
+
 ### Wed May 27
 - More definitions:
   - **Abbot** - a man who is the head of an abbey of monks
