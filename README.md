@@ -2,6 +2,13 @@
 
 ## May 2020
 
+### Sun May 31
+- [Pink Capitalism](https://en.wikipedia.org/wiki/Pink_capitalism) is the incorporation of the LGBTQ+ movement as a way to capitalism and the market economy; using LGBTQ+ imagery for economic gain.
+- Suffix alises in zsh allow you to launch files with a specific extension (or suffix) in your favorite tool. To register a suffix alias, use the `alias -s extension=name-of-the-tool` pattern.
+
+### Sat May 30
+- [Solo garlic](https://en.wikipedia.org/wiki/Solo_garlic) is garlic that only has one clove despite being roughly the size of a normal head of garlic
+
 ### Fri May 29
 - The [Waffle House Index](https://en.wikipedia.org/wiki/Waffle_House_Index) is an informal metric named after the Waffle House restaurant chain and is used by the Federal Emergency Management Agency (FEMA) to determine the effect of a storm and the likely scale of assistance required for disaster recovery.
   - It has 3 different levels:
