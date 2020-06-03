@@ -1,5 +1,30 @@
 # Today I Learned
 
+## June 2020
+
+### Tue June 2
+- While reading some articles about package manager security, I learned that `npm` does not require the code in your published package to match the code in your git repo. In fact, `npm` doesn't require you to have a public mirror of your code at all.
+- I learned the difference between a package and a module in `npm`. The `npm` registry contains packages, many of which are also Node modules, or contain Node modules.
+  - **Packages**: A package is a file or directory that is described by a package.json file
+    - a) A folder containing a program described by a package.json file.
+    - b) A gzipped tarball containing (a).
+    - c) A URL that resolves to (b).
+    - d) A <name>@<version> that is published on the registry with (c).
+    - e) A <name>@<tag> that points to (d).
+    - f) A <name> that has a latest tag satisfying (e).
+    - g) A git url that, when cloned, results in (a).
+  - **Modules**: A module is any file or directory in the node_modules directory that can be loaded by the Node.js require() function.
+    - A folder with a package.json file containing a "main" field.
+    - A folder with an index.js file in it.
+    - A JavaScript file.
+
+### Mon June 1
+- I learned about [SemVer](https://semver.org/) (Semantic Versioning), which is a standard for numbering package versions
+  - Given a version number `MAJOR.MINOR.PATCH`, increment the:
+    - `MAJOR` version when you make incompatible API changes,
+    - `MINOR` version when you add functionality in a backwards compatible manner, and
+    - `PATCH` version when you make backwards compatible bug fixes.
+
 ## May 2020
 
 ### Sun May 31
