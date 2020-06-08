@@ -2,6 +2,16 @@
 
 ## June 2020
 
+### Wed June 3
+- [Schaefer's Dichotomy Theorem](https://en.wikipedia.org/wiki/Schaefer%27s_dichotomy_theorem) states that there are 6 classes of SAT problems that are in P, while all of the rest are NP-complete. The 6 classes are
+  - all relations which are not constantly false are true when all its arguments are true;
+  - all relations which are not constantly false are true when all its arguments are false;
+  - all relations are equivalent to a conjunction of binary clauses;
+  - all relations are equivalent to a conjunction of Horn clauses;
+  - all relations are equivalent to a conjunction of dual-Horn clauses;
+  - all relations are equivalent to a conjunction of affine formulae.
+- [Warhol superstars](https://en.wikipedia.org/wiki/Warhol_superstars) were a clique of New York City personalities promoted by the pop artist Andy Warhol during the 1960s and early 1970s. These personalities appeared in Warhol's artworks and accompanied him in his social life, epitomizing his famous dictum, "In the future everyone will be famous for fifteen minutes". Warhol would simply film them, and declare them "superstars".
+
 ### Tue June 2
 - While reading some articles about package manager security, I learned that `npm` does not require the code in your published package to match the code in your git repo. In fact, `npm` doesn't require you to have a public mirror of your code at all.
 - I learned the difference between a package and a module in `npm`. The `npm` registry contains packages, many of which are also Node modules, or contain Node modules.
