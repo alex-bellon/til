@@ -2,6 +2,24 @@
 
 ## June 2020
 
+### Mon June 8
+- [Proper left/right](https://en.wikipedia.org/wiki/Proper_right_and_proper_left) refer to the left/right of a figure or person being described. If you were looking at a statue, their right hand would be "proper right" despite which side it appeared to be on to you.
+
+### Sun June 7
+- This character: `ˆ` is called a [circumflex](https://en.wikipedia.org/wiki/Circumflex)
+
+### Sat June 6
+- Differences between sea lions and seals
+  - Noises: seals make a snorting noise, sea lions bark
+  - Movement: seals scoot around, sea lions walk with their hind flippers
+  - Ears: seals have small ear holes, sea lions have little ear flaps
+
+### Fri June 5
+- [Icelandic police](https://en.wikipedia.org/wiki/Icelandic_Police) don't carry weapons (they are kept in their car) .The first (and only) time a person was shot and killed by Icelandic police in modern history was in 2013, when a man was firing a shotgun in his home and began shooting at the police.
+
+### Thu June 4
+- Both [tortoises](https://www.thetortoiseshop.com/basic-tortoise-anatomy-biology) and [turtles](http://www.austinsturtlepage.com/Info/info.htm) can feel through their shells
+
 ### Wed June 3
 - [Schaefer's Dichotomy Theorem](https://en.wikipedia.org/wiki/Schaefer%27s_dichotomy_theorem) states that there are 6 classes of SAT problems that are in P, while all of the rest are NP-complete. The 6 classes are
   - all relations which are not constantly false are true when all its arguments are true;
