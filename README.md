@@ -2,6 +2,22 @@
 
 ## June 2020
 
+### Fri June 12
+- [Symlinks](https://en.wikipedia.org/wiki/Symbolic_link) work with Git! For some reason I assumed they didn't and never bothered to check. I will be spending my weekend combining a lot of files across my different repos :)
+
+### Thu June 11
+- **Consternate**: Fill with anxiety
+- Not really "learning", but I finished the book [Countdown to Zero Day](https://www.penguinrandomhouse.com/books/219931/countdown-to-zero-day-by-kim-zetter/) and started [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things). Honestly I didn't really like Countdown to Zero Day, as I was expecting more technical/security content than there actually was, and the book kind of dragged on with not-very-relevant details (in my opinion).
+
+### Wed June 10
+- [Cement is actually an ingredient in concrete](https://www.ccagc.org/resources/whats-the-difference-between-cement-and-concrete/). Concrete is a composite material composed of fine and coarse aggregate bonded together with a fluid cement (cement paste) that hardens (cures) over time.
+
+### Tue June 9
+- Jelly vs. Jam vs. Preserves:
+  - In **jelly**, the fruit comes in the form of fruit juice. Jelly has the smoothest consistency and is usually clear.
+  - In **jam**, the fruit comes in the form of fruit pulp or crushed fruit. This makes jam less stiff than jelly.
+  - In **preserves**, the fruit comes in the form of chunks in a gel or syrup. Preserves will have more fruit in them than jam will. Marmalade is a type of preserve with citrus fruits in it.
+
 ### Mon June 8
 - [Proper left/right](https://en.wikipedia.org/wiki/Proper_right_and_proper_left) refer to the left/right of a figure or person being described. If you were looking at a statue, their right hand would be "proper right" despite which side it appeared to be on to you.
 
@@ -31,7 +47,7 @@
 - [Warhol superstars](https://en.wikipedia.org/wiki/Warhol_superstars) were a clique of New York City personalities promoted by the pop artist Andy Warhol during the 1960s and early 1970s. These personalities appeared in Warhol's artworks and accompanied him in his social life, epitomizing his famous dictum, "In the future everyone will be famous for fifteen minutes". Warhol would simply film them, and declare them "superstars".
 
 ### Tue June 2
-- While reading some articles about package manager security, I learned that `npm` does not require the code in your published package to match the code in your git repo. In fact, `npm` doesn't require you to have a public mirror of your code at all.
+- While reading some articles about .package manager security, I learned that `npm` does not require the code in your published package to match the code in your git repo. In fact, `npm` doesn't require you to have a public mirror of your code at all.
 - I learned the difference between a package and a module in `npm`. The `npm` registry contains packages, many of which are also Node modules, or contain Node modules.
   - **Packages**: A package is a file or directory that is described by a package.json file
     - a) A folder containing a program described by a package.json file.
