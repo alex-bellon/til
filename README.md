@@ -2,6 +2,16 @@
 
 ## June 2020
 
+### Mon June 15
+- I was wondering how seedless watermelons are grown since the desired fruit that you'd want to make more of, ya know, has no seeds. This is how they do it:
+  > By contrast, seedless watermelons are grown from seeds. These seeds are produced by crossing diploid and tetraploid lines of watermelon, with the resulting seeds producing sterile triploid plants. Fruit development is triggered by pollination, so these plants must be grown alongside a diploid strain to provide pollen.
+
+### Sun June 14
+- The word "con-man" comes from [confidence trick](https://en.wikipedia.org/wiki/Confidence_trick), which is an attempt to defraud a person or group after first gaining their trust. So basically, what a con-man does.
+
+### Sat June 13
+- A **[crevasse](https://en.wikipedia.org/wiki/Crevasse)** is a deep crack in ice or a glacier, while a **crevice** is a deep crack in rock.
+
 ### Fri June 12
 - [Symlinks](https://en.wikipedia.org/wiki/Symbolic_link) work with Git! For some reason I assumed they didn't and never bothered to check. I will be spending my weekend combining a lot of files across my different repos :)
 
