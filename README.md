@@ -2,6 +2,17 @@
 
 ## June 2020
 
+### Wed June 17
+- [Verdigris](https://en.wikipedia.org/wiki/Verdigris) is  a green pigment formed when copper, brass or bronze is weathered and exposed to air or seawater over time
+- [Vellum](https://en.wikipedia.org/wiki/Vellum) is prepared animal skin/membrane used to write/print on
+- [San Seriffe](https://en.wikipedia.org/wiki/San_Serriffe) is a fictional island created for April Fools' Day by the Guardian, filled with lots of typorgraphic puns and references
+
+(Can you tell I started reading a [typography book](https://en.wikipedia.org/wiki/Just_My_Type)?)
+
+### Tue June 16
+- [Cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk) are activists who advocate for strong crypto and privacy.
+- [The XY Problem](https://en.wikipedia.org/wiki/XY_problem) occurs when a person has X problem, and thinks that solving a secondary issue Y will help them solve X, when in reality it's a poor solution or doesn't help at all.
+
 ### Mon June 15
 - I was wondering how seedless watermelons are grown since the desired fruit that you'd want to make more of, ya know, has no seeds. This is how they do it:
   > By contrast, seedless watermelons are grown from seeds. These seeds are produced by crossing diploid and tetraploid lines of watermelon, with the resulting seeds producing sterile triploid plants. Fruit development is triggered by pollination, so these plants must be grown alongside a diploid strain to provide pollen.
