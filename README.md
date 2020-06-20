@@ -2,6 +2,14 @@
 
 ## June 2020
 
+### Fri June 19
+- The [Baby Tooth Survey](https://en.wikipedia.org/wiki/Baby_Tooth_Survey) was a program where kids would turn in their baby teeth to their school in exchange for a nice button. The government was actually using these teeth to gauge the effects of nuclear testing on the human body.
+- [Somatoparaphrenia](https://en.wikipedia.org/wiki/Somatoparaphrenia) is a phenomenon where one denies ownership of one of their limbs or one side of their body.
+
+### Thu June 18
+- During development of the Xbox 360, the circular pulses that appear around the Xbox logo on the menu screen were unique to each Xbox and were based on the serial number of the Xbox. This was done so anyone that broke an NDA and leaked footage of the Xbox 360 could be identified. ([Source](https://news.ycombinator.com/item?id=18643987))
+- [Apparently](https://jeopardyarchive.com/circus-wardrobe-fun-fact-the-average-size-of-these-is-28eeeee), the average size of clown shoes is 28EEEEE.
+
 ### Wed June 17
 - [Verdigris](https://en.wikipedia.org/wiki/Verdigris) is  a green pigment formed when copper, brass or bronze is weathered and exposed to air or seawater over time
 - [Vellum](https://en.wikipedia.org/wiki/Vellum) is prepared animal skin/membrane used to write/print on
