@@ -2,6 +2,34 @@
 
 ## June 2020
 
+### Sat June 27
+- [.xpi](https://developer.mozilla.org/en-US/docs/Mozilla/XPI) files (archives usually used for Firefox add-ons and the like) are actually just ZIP archives. Might use this in a CTF problem...
+
+### Fri June 26
+- Cancelled and canceled are actually both valid spellings. 'Cancelled' is usually used in British English, while 'canceled' is used in American English. (I prefer 'cancelled'. 'Canceled' looks wrong for some reason)
+
+### Thu June 25
+- I knew about `snake_case` and `camelCase`, but there are actually 4 (common) programming cases:
+  - `camelCase`
+  - `PascalCase`
+  - `snake_case`
+  - `kebab-case`
+
+### Wed June 24
+- The [Easter Islands](https://en.wikipedia.org/wiki/Easter_Island) are actually a part of Chile. I always thought it was its own country ¯\_(ツ)_/¯
+
+### Tue June 23
+- During the 1918 Influenza Pandemic, there was an [Anti-Mask League](https://en.wikipedia.org/wiki/Anti-Mask_League_of_San_Francisco) in San Francisco
+
+### Mon June 22
+- The man who we usually refer to as "Fibonacci" [was never actually called Fibonacci during his lifetime](https://en.wikipedia.org/wiki/Fibonacci). His name was Leonardo Bonacci, and the name he is commonly called, Fibonacci, was made up in 1838 by the Franco-Italian historian Guillaume Libri and is short for filius Bonacci ('son of Bonacci').
+
+### Sun June 21
+- There's actually a formal name (and a Wikipedia article) for ["Donald Duck talk"](https://en.wikipedia.org/wiki/Donald_Duck_talk)
+
+### Sat June 20
+- [Verdana-gate](https://en.wikipedia.org/wiki/Verdana-gate) was the giant controversy that was the result of IKEA changing it's main font from Futura to Verdana.
+
 ### Fri June 19
 - The [Baby Tooth Survey](https://en.wikipedia.org/wiki/Baby_Tooth_Survey) was a program where kids would turn in their baby teeth to their school in exchange for a nice button. The government was actually using these teeth to gauge the effects of nuclear testing on the human body.
 - [Somatoparaphrenia](https://en.wikipedia.org/wiki/Somatoparaphrenia) is a phenomenon where one denies ownership of one of their limbs or one side of their body.
