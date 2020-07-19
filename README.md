@@ -1,6 +1,85 @@
 # Today I Learned
 
+## July 2020
+
+### Sun July 19
+- The staff with 2 snakes around it that is usually used to represent medicine is called a caduceus, and was actually Hermes' (the messenger) staff and had nothing to do with medicine. The one that should actually be used is the staff with one snake around it, called the staff of Asclepius (Asclepius being the Greek god associated with healing).
+
+### Sat July 18
+- [Most mammals have 7 bones in their neck](https://en.wikipedia.org/wiki/Cervical_vertebrae)
+
+### Fri July 17
+- The sun takes up 99% of the mass in our solar system
+
+### Thu July 16
+- A group of jellyfish is called a smack
+
+### Wed July 15
+- You can make a repo with your GitHub username as the title and put a README in it to create a [profile README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
+
+### Tue July 14
+- You can use [repo.new](https://repo.new) to make a new GitHub repo and [docs.new](https://docs.new) to make a new Google Doc
+
+### Mon July 13
+- [Denatured alcohol](https://en.wikipedia.org/wiki/Denatured_alcohol) is just ethanol with things added to it to make it poisonous or bad-tasting (and thus undrinkable).
+- [Torpedo juice](https://en.wikipedia.org/wiki/Torpedo_juice) is slang for an alcoholic beverage from WWII, made from pineapple juice and the 180-proof grain alcohol fuel used in Navy torpedo motors. Various poisonous additives were mixed into the fuel alcohol by Navy authorities to render the alcohol undrinkable, and various methods were employed by the U.S. sailors to separate the alcohol from the poison.
+
+### Sun July 12
+- [f-Strings](https://realpython.com/python-f-strings/) in Python allows you to make inline format strings
+
+### Sat July 11
+- Instead of using `json.loads()` on a response from a request, you can just use `response.json()`
+
+### Fri July 10
+- The `.raise_for_status()` method in the `requests` Python library will throw an error for 400 and 500 return codes
+
+### Thu July 9
+- [Lake Superior](http://law2.umkc.edu/faculty/projects/ftrials/superior/superiorfacts.html) contains more water than all the other Great Lakes combined
+
+### Wed July 8
+- Technically, the [Scandanavian countries are Sweden, Norway and Denmark, while the Nordic countries additionally include](https://en.wikipedia.org/wiki/Scandinavia#Use_of_Nordic_countries_vs._Scandinavia):
+  - Finland (parliamentary republic)
+  - Iceland (parliamentary republic)
+  - Åland Islands (an autonomous province of Finland since 1920)
+  - Faroe Islands (an autonomous territory within the Kingdom of Denmark (The unity of the Realm), self-governed since 1948)
+  - Greenland (an autonomous territory within the Kingdom of Denmark (The unity of the Realm), self-governed since 1979)
+  - Jan Mayen, which is under Norwegian sovereignty, is not considered part of Scandinavia as a cultural-historical region, but as a part of the Kingdom of Norway.
+  - Svalbard, which is under Norwegian sovereignty, is not considered part of Scandinavia as a cultural-historical region, but as a part of the Kingdom of Norway (since 1925). It is part of the Nordic countries (Norden).
+
+### Tue July 7
+- [Nils Olav](https://en.wikipedia.org/wiki/Nils_Olav) is a brigadier and colonel-in-chief of the Norwegian King's Guard. He also happens to be a penguin.
+
+### Mon July 6
+- The [crumbling skull rule](https://en.wikipedia.org/wiki/Crumbling_skull_rule) is defined as follows:
+  > It holds that where a plaintiff had a condition or injury that predates the tort and would have naturally deteriorated or worsened over time (e.g. a crumbling skull), the defendant is not responsible to the degree that the condition or injury would have naturally worsened over time. A defendant is only liable for the degree the injury was worsened or the hastening or acceleration of the damage caused by the tort
+
+### Sun July 5
+- The [eggshell skull rule](https://en.wikipedia.org/wiki/Eggshell_skull) in tort law states that the unexpected frailty of the injured person is not a valid defense to the seriousness of any injury caused to them.
+- A [tort](https://en.wikipedia.org/wiki/Tort) is a a civil wrong that causes a claimant to suffer loss or harm, resulting in legal liability for the person who commits a tortious act
+
+### Sat July 4
+- The [Champernowne constant](https://en.wikipedia.org/wiki/Champernowne_constant) (in base 10) is `0.12345678910111213141516…`, which contains every natural number as a substring
+
+### Fri July 3
+- A [normal number](https://en.wikipedia.org/wiki/Normal_number) is a number in which no finite combination of digits occurs more frequently than any other
+
+### Thu July 2
+- [Seaweed is a term used to generally describe sea plants, but kelp is the largest subgroup of seaweed](https://www.seaweedandco.com/sea-kelp-versus-seaweed/)
+  - > You can break seaweed down into three groups — red, brown and green. This colour has a direct effect on how much light seaweed absorbs via photosynthesis, which decides how close to the ocean’s surface it grows. Sea kelp is officially labelled as a brown seaweed, even though it can vary in colour.
+
+### Wed July 1
+- The difference between [PAL and NTSC](https://www.howtogeek.com/428987/whats-the-difference-between-ntsc-and-pal/) is mostly in the refresh rate and subsequent FPS: 60 Hz NTSC TVs operate at 29.97 FPS, and 50 Hz PAL TVs run at 25 FPS. The United States are the only country to use NTSC, the rest of the world uses PAL.
+
 ## June 2020
+
+### Tue June 30
+- In the late 1980s, unable to cover the cost of their Pepsi deal with vodka, the [USSR paid Pepsi with 17 submarines, a cruiser, a frigate, and a destroyer](https://www.businessinsider.com/how-pepsi-briefly-became-the-6th-largest-military-in-the-world-2018-7). This temporarily made Pepsi the 6th most powerful military in the world (they then sold the ships for scrap).
+
+### Mon June 29
+- [ReDoS](https://en.wikipedia.org/wiki/ReDoS) is a denial of service attack that hogs resources by making a program evaluate a very difficult regex pattern
+
+### Sun June 28
+- The toilet handles that stick out sideways apparently have a name - [flushometers](https://en.wikipedia.org/wiki/Flushometer)
 
 ### Sat June 27
 - [.xpi](https://developer.mozilla.org/en-US/docs/Mozilla/XPI) files (archives usually used for Firefox add-ons and the like) are actually just ZIP archives. Might use this in a CTF problem...
