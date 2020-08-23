@@ -2,6 +2,31 @@
 
 ## July 2020
 
+### Mon July 27
+- 'Female' is actually [not etymologically related to 'male'](https://www.etymonline.com/word/female)
+
+### Sun July 26
+- This one is probably obvious, but I realized that birds don't live in their nests, they just lay their eggs there and then leave when they hatch and grow up
+
+### Sat July 25
+- An attorney is someone who has passed the bar exam in their state and is allowed to practice law, while a lawyer is someone who has "only" gotten a law degree
+- A Realtor is a trademarked term that refers to a real estate agent who is an active member of the National Association of Realtors (NAR), the largest trade association in the United States
+
+### Fri July 24
+- The longest quote from [Nim Chimpsky](https://en.wikipedia.org/wiki/Nim_Chimpsky), a chimp that was taught sign language was: "Give orange me give eat orange me eat orange give me eat orange give me you"
+
+### Thu July 23
+- [As Slow as Possible](https://en.wikipedia.org/wiki/As_Slow_as_Possible) is a musical piece that is currently being played on an organ at St. Burchardi church in Halberstadt, Germany. The performance began in 2001 and will end in 2640
+
+### Wed July 22
+- The Quaker Oats company, in collaboration with MIT, fed ~100 young boys [oatmeal laced with radioactive tracers](https://www.smithsonianmag.com/history/spoonful-sugar-helps-radioactive-oatmeal-go-down-180962424/) as part of an experiment trying to see how nutrients passed through the body
+
+### Tue July 21
+- United Nations delegates are given [United Nations laissez-passer](https://en.wikipedia.org/wiki/United_Nations_laissez-passer), which is a "passport" that allows them entry into almost any country
+
+### Mon July 20
+- [Coloring a map on a torus can take up to 7 colors](https://en.wikipedia.org/wiki/Four_color_theorem)
+
 ### Sun July 19
 - The staff with 2 snakes around it that is usually used to represent medicine is called a caduceus, and was actually Hermes' (the messenger) staff and had nothing to do with medicine. The one that should actually be used is the staff with one snake around it, called the staff of Asclepius (Asclepius being the Greek god associated with healing).
 
