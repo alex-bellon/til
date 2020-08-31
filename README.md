@@ -1,5 +1,31 @@
 # Today I Learned
 
+## August 2020
+
+### Sun Aug 30
+- [The Walt Disney Company is the largest consumer of fireworks in the world and the second largest purchaser of explosive devices, after the US military](https://www.businessinsider.com/crazy-facts-disney-2016-10?utm_source=reddit.com)
+
+### Sat Aug 29
+- There are [set theoretic definitions of the natural numbers](https://en.wikipedia.org/wiki/Set-theoretic_definition_of_natural_numbers) that doesn't use any numbers in the definition/proof
+
+### Fri Aug 28
+- Illicit is an adjective that means illegal/forbidden, while elicit is a verb that means 'to evoke'
+
+### Thu Aug 27
+- The hair on the dolls at the It's a Small World ride grows and has to be cut (due ot gravity + humidity)
+  - The only [sources](https://twitter.com/jennyenicholson/status/1205057884259643392?lang=en) I could find were social media sites, so take this with a grain of salt. Sounds plausible though
+
+### Wed Aug 26
+- Category theory is sometimes referred to as [abstract nonsense](https://en.wikipedia.org/wiki/Abstract_nonsense) by some mathematicians
+- The term "freelance" comes from medieval times, when it was used to [describe a mercenary with a "free lance",](https://en.wiktionary.org/wiki/freelance) i.e. they swore their sword to whoever paid them
+
+### Tue Aug 25
+- In mathematics, [racks and quandles](https://en.wikipedia.org/wiki/Racks_and_quandles) are sets with binary operations satisfying axioms analogous to the Reidemeister moves used to manipulate knot diagrams.
+
+-----
+INTERMISSION
+-----
+
 ## July 2020
 
 ### Mon July 27
