@@ -1,6 +1,30 @@
 # Today I Learned
 
+## September 2020
+
+### Sun Sep 6
+- Your fingernails curve when they grow long because the keratin on top grows faster than the keratin on the bottom
+
+### Sat Sep 5
+- [Popcorn](https://en.wikipedia.org/wiki/Popcorn) is actually a specific species of corn specfically made to be popped
+- There are 6 major types of corn: popcorn, dent corn, flint corn, pod corn, flour corn, and sweet corn
+
+### Fri Sep 4
+- Rhinos [rub their horns down](https://www.livescience.com/4306-mystery-solved-rhino-horns-curved-pointed.html) into different shapes
+
+### Thu Sep 3
+- A [Munchausen Number](https://en.wikipedia.org/wiki/Perfect_digit-to-digit_invariant) is a natural number in a given number base b that is equal to the sum of its digits each raised to the power of itself.
+
+### Wed Sep 2
+- [The People Walker](https://en.wikipedia.org/wiki/The_People_Walker) is a service where people can hire someone to walk with them and provide motivation through conversation and companionship.
+
+### Tue Sep 1
+- Isle/island and day/diary are not etymologically related
+
 ## August 2020
+
+### Mon Aug 31
+- The [Bouba-Kiki](https://en.wikipedia.org/wiki/Bouba/kiki_effect) is a non-arbitrary mapping between speech sounds and the visual shape of objects
 
 ### Sun Aug 30
 - [The Walt Disney Company is the largest consumer of fireworks in the world and the second largest purchaser of explosive devices, after the US military](https://www.businessinsider.com/crazy-facts-disney-2016-10?utm_source=reddit.com)
