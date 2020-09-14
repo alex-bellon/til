@@ -2,6 +2,26 @@
 
 ## September 2020
 
+### Sat Sep 12
+- A [dead metaphor](https://en.wikipedia.org/wiki/Dead_metaphor) is a figure of speech which has lost the original imagery of its meaning due to extensive, repetitive, and popular usage.
+  - E.g.: to "hang up" the phone
+
+### Fri Sep 11
+- To **oppress** means to keep (someone) down by unjust force or authority. To **repress** is (1) to hold back, or (2) to put down by force. **Suppress**, which is broader and more common than the other two, means (1) to put an end to, (2) to inhibit, and (3) to keep from being revealed.
+
+### Thu Sep 10
+- [Mirror life](https://en.wikipedia.org/wiki/Mirror_life) is a hypothetical form of life with mirror-reflected molecular building blocks
+
+### Wed Sep 9
+- [Atoms have chirality](https://en.wikipedia.org/wiki/Chirality_(chemistry)), so if you found yourself reflected through the 4th dimension, you would be unable to eat anything because all food would have the "wrong" chirality
+
+### Tue Sep 8
+- [Women in refrigerators](https://en.wikipedia.org/wiki/Women_in_Refrigerators) is the name for the superhero comic-book trope whereby female characters are injured, raped, killed, or depowered (an event colloquially known as fridging) as a plot device intended to move a male character's story arc forward.
+  - It refers to an incident in Green Lantern #54 (1994), written by Ron Marz, in which Kyle Rayner, the title hero, comes home to his apartment to find that his girlfriend, Alexandra DeWitt, had been killed by the villain Major Force and stuffed into a refrigerator.
+
+### Mon Sep 7
+- [The many-worlds interpretation](https://en.wikipedia.org/wiki/Many-worlds_interpretation) is an interpretation of quantum mechanics that asserts that the universal wavefunction is objectively real, and that there is no wavefunction collapse. This implies that all possible outcomes of quantum measurements are physically realized in some "world" or universe.
+
 ### Sun Sep 6
 - Your fingernails curve when they grow long because the keratin on top grows faster than the keratin on the bottom
 
