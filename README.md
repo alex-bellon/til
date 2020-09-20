@@ -2,6 +2,33 @@
 
 ## September 2020
 
+### Sun Sep 20
+- [Colombian women would encode messages into hair with different braids](https://www.washingtonpost.com/lifestyle/style/afro-colombian-women-braid-messages-of-freedom-in-hairstyles/2011/07/08/gIQA6X9W4H_story.html)
+
+### Sat Sep 19
+- IBM's technology [was used to facilitate genocide](https://en.wikipedia.org/wiki/IBM_and_the_Holocaust) during the Holocaust
+  - [More info](https://en.wikipedia.org/wiki/IBM_during_World_War_II)
+- [Volvo made their patent for the 3 point seatbelt available to all](https://www.forbes.com/sites/douglasbell/2019/08/13/60-years-of-seatbelts-volvos-great-gift-to-the-world/#69cb1f7c22bc)
+
+### Fri Sep 18
+- You can add metadata to a PNG image using ImageMagick convert: `convert IN.png -set 'Title' 'Foobar' OUT.png`
+
+### Thu Sep 17
+- [PPM and PGM](https://en.wikipedia.org/wiki/Netpbm#File_formats) are two simple file formats for color and grayscale pictures respectively
+
+### Wed Sep 16
+- [Mise-en-scène](https://en.wikipedia.org/wiki/Mise-en-sc%C3%A8ne) is the stage design and arrangement of actors in scenes for a theatre or film production, both in visual arts through storyboarding, visual theme, and cinematography, and in narrative storytelling through direction.
+
+### Tue Sep 15
+- [Uptalk](https://en.wikipedia.org/wiki/High_rising_terminal) is when your rise in inflection at the end of your sentence
+- [Vocal fry](https://en.wikipedia.org/wiki/Vocal_fry_register) is the lowest vocal register and is produced through a loose glottal closure that permits air to bubble through slowly with a popping or rattling sound of a very low frequency.
+
+### Mon Sep 14
+- The [Quantum Zeno effect](https://en.wikipedia.org/wiki/Quantum_Zeno_effect) allows you to force a qubit to stay in a certain position by measuring it frequently enough
+
+### Sun Sep 13
+- 17% of Americans live in the [Bos-Wash Corridor](https://en.wikipedia.org/wiki/Northeast_megalopolis)
+
 ### Sat Sep 12
 - A [dead metaphor](https://en.wikipedia.org/wiki/Dead_metaphor) is a figure of speech which has lost the original imagery of its meaning due to extensive, repetitive, and popular usage.
   - E.g.: to "hang up" the phone
