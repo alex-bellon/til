@@ -2,6 +2,29 @@
 
 ## September 2020
 
+### Sun Sep 27
+- [In the *N* door case of the Monty Hall problem, it's always to the player's advantage to switch doors](https://en.wikipedia.org/wiki/Monty_Hall_problem#N_doors)
+
+### Sat Sep 26
+- The reason that the [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) gives you a 2/3 chance of being correct when you switch doors doesn't have much to do with the door being revealed - assuming your switch, your probability is already set when you pick your first door. This is because originally, you have a 2/3 chance of picking a goat. If the door you choose has a goat, and Monty reveals the goat in the 3rd door, then the car must be behind the door you didn't choose. Thus you should switch because you *know* where the car is. 1/3 of the time, you pick the door with the car. When you switch, you switch to the door with another goat. But, this only happens 1/3 of the time, so it's to your advantage to switch every time, because you most likely picked the goat the first time.
+  - [With 4 doors, switching gives you a 3/8 chance of winning](https://math.stackexchange.com/questions/682586/monty-hall-question-with-4-doors)
+
+### Fri Sep 25
+- To remove all commits from a project from an author, you can make a new branch and then cherry pick all of the commits that weren't made by that author:
+  - `git log --author "<name>" --invert-grep --reverse --format="format:%H" HEAD..master | xargs git cherry-pick`
+
+### Thu Sep 24
+- A [Shannon](https://en.wikipedia.org/wiki/Shannon_(unit)) is another name for a bit
+
+### Wed Sep 23
+- There's really not much difference between [MicroSD cards and TF cards](https://www.quora.com/Whats-the-difference-between-a-TF-card-and-a-Micro-SD-card)
+
+### Tue Sep 22
+- [The gpl-violations.org project](https://gpl-violations.org/) is a project that aims to raise awareness about GPL license infringement.
+
+### Mon Sep 21
+- [Cockygate](https://www.vox.com/culture/2018/5/15/17339578/cockygate-explained-romance-publishing-faleena-hopkins) was a whole ordeal that happened after an author trademarked the word "cocky"
+
 ### Sun Sep 20
 - [Colombian women would encode messages into hair with different braids](https://www.washingtonpost.com/lifestyle/style/afro-colombian-women-braid-messages-of-freedom-in-hairstyles/2011/07/08/gIQA6X9W4H_story.html)
 
