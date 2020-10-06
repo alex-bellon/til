@@ -1,6 +1,32 @@
 # Today I Learned
 
+## October 2020
+
+### Sun Oct 4
+- It's FOSS has a [category of articles where they explain Linux Jargon](https://itsfoss.com/category/explain/)
+
+### Sat Oct 3
+- Wikipedia has a list of [scholarly publishing stings](https://en.wikipedia.org/wiki/List_of_scholarly_publishing_stings). These are nonsense papers that were accepted by an academic journal or academic conference; the list does not include cases of scientific misconduct. The intent of such publications is typically to expose shortcomings in a journal's peer review process or to criticize the standards of pay-to-publish journals.
+
+### Fri Oct 2
+- [Milk cars](https://en.wikipedia.org/wiki/Milk_car) are a specialized type of railroad car intended to transport raw milk from collection points near dairy farms to a processing creamery. Some milk cars were intended for loading with multiple cans of milk, while others were designed with a single tank for bulk loading. Milk cars were often equipped with high-speed passenger trucks, passenger-type buffer plates, and train signal and steam lines seldom found on conventional refrigerator cars.
+
+### Thu Oct 1
+- The [Damm algorithm](https://en.wikipedia.org/wiki/Damm_algorithm) is a check digit algorithm that detects all single-digit errors and all adjacent transposition errors. It was presented by H. Michael Damm in 2004.
+- The [Verhoeff algorithm](https://en.wikipedia.org/wiki/Verhoeff_algorithm) is a checksum formula for error detection developed by the Dutch mathematician Jacobus Verhoeff and was first published in 1969. It was the first decimal check digit algorithm which detects all single-digit errors, and all transposition errors involving two adjacent digits, which was at the time thought impossible with such a code.
+
 ## September 2020
+
+### Wed Sep 30
+- The [cat state](https://en.wikipedia.org/wiki/Cat_state), named after Schrödinger's cat, is a quantum state that is composed of two diametrically opposed conditions at the same time, such as the possibilities that a cat be alive and dead at the same time.
+
+### Tue Sep 29
+- [Missing white woman syndrome](https://en.wikipedia.org/wiki/Missing_white_woman_syndrome)  is a term used by social scientists and media commentators to refer to extensive media coverage, especially in television, of missing person cases involving young, white, upper-middle-class women or girls.
+- [Gray goo](https://en.wikipedia.org/wiki/Gray_goo) is a hypothetical global catastrophic scenario involving molecular nanotechnology in which out-of-control self-replicating machines consume all biomass on Earth while building more of themselves, a scenario that has been called ecophagy ("eating the environment", more literally "eating the habitation").
+
+### Mon Sep 28
+- The [Chaocipher](https://en.wikipedia.org/wiki/Chaocipher) is a cipher method invented by John Francis Byrne in 1918 and described in his 1953 autobiographical Silent Years. He believed Chaocipher was simple, yet unbreakable. Byrne stated that the machine he used to encipher his messages could be fitted into a cigar box. He offered cash rewards for anyone who could solve it.
+- [Solitaire](https://en.wikipedia.org/wiki/Solitaire_%28cipher%29) is a cryptographic algorithm was designed by Bruce Schneier at the request of Neal Stephenson for use in his novel Cryptonomicon, in which field agents use it to communicate securely without having to rely on electronics or having to carry incriminating tools. It was designed to be a manual cryptosystem calculated with an ordinary deck of playing cards.
 
 ### Sun Sep 27
 - [In the *N* door case of the Monty Hall problem, it's always to the player's advantage to switch doors](https://en.wikipedia.org/wiki/Monty_Hall_problem#N_doors)
