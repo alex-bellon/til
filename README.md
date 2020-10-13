@@ -2,6 +2,29 @@
 
 ## October 2020
 
+### Sun Oct 11
+- **Apocryphal**: of doubtful authenticity, although widely circulated as being true.
+- The [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes) is an intelligence alliance comprising Australia, Canada, New Zealand, the United Kingdom and the United States.
+
+### Sat Oct 10
+- Trix yogurt came after Trix cereal
+- Also, Trix cereal was originally just ball shaped. In 1991 they changed to the fruit shaped pieces, then reverted to balls again in 2007. Eventually in 2019 they returned to the fruit shapes.
+
+### Fri Oct 9
+- [Chicken George (politics)](https://en.wikipedia.org/wiki/Chicken_George_(politics)) was a campaign tactic in the 1992 U.S. presidential election, where one or more people in chicken costumes heckled President George H. W. Bush over his refusal to participate in a debate with Democratic candidate Bill Clinton.
+
+### Thu Oct 8
+- Wikipedia has a [list of wheel-well stowaway flights](https://en.wikipedia.org/wiki/List_of_wheel-well_stowaway_flights). Of the 113 people having been recorded doing this, 86 of them died.
+
+### Wed Oct 7
+- A **flugelhorn** is a brass instrument played by trumpet players primarily in jazz music and sometimes in chamber settings. It is pitched in Bb. A **mellophone** is a forward facing french horn played by french horn players in a marching band. It is pitched in F. Mellophones are larger and MUCH heavier.
+
+### Tue Oct 6
+- [Polar bear jail](https://en.wikipedia.org/wiki/Polar_bear_jail) is a special building in Churchill, Manitoba where polar bears that are considered troublesome or dangerous are isolated before they can be relocated.
+
+### Mon Oct 5
+- A ludic loop is the cycle of doing the same thing again and again because you get just enough reward to keep you coming back
+
 ### Sun Oct 4
 - It's FOSS has a [category of articles where they explain Linux Jargon](https://itsfoss.com/category/explain/)
 
