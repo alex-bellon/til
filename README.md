@@ -2,6 +2,35 @@
 
 ## October 2020
 
+### Sun Oct 18
+- **Classical vs Acoustic Guitar**
+  - Classical: Nylon strings, wider neck, inner tuning peg
+  - Acoustic: Steel strings, smaller neck, outer tuning peg
+
+### Sat Oct 17
+- **Pecuniary**: relating to or consisting of money.
+
+### Fri Oct 16
+- Mandarins vs clementines vs tangerines
+  - **Oranges** are second in size to the grapefruit. This citrus fruit has a thick skin, is round in shape, and has a tart flavor.
+  - **Mandarins** are a type of orange and the overarching category that Tangerines, Clementines, and Satsumas fall into. They are generally smaller and sweeter than oranges, a little flatter in shape, and they and have a thinner, looser skin that makes them easier to peel.
+  - **Tangerines** are a specific type of mandarin orange. They are a bright orange color, slightly tougher skins, and their flavor is a little less sweet and a bit more tart.
+  - **Clementines** are the smallest type of mandarin orange. They are super sweet, seedless, and have red-orange skins that are smooth and shiny. The mandarins you see in grocery stores called Cuties and Sweeties are Clementines. They are easier to peel than tangerines, but not as easy to peel as Satsumas.
+  - **Satsuma Mandarins** are a specific type of mandarin orange, originating in Japan more than 700 years ago. They are a lighter orange, sweet, juicy, and seedless. They are also the easiest variety to peel. The most tender, easily damaged type of mandarin, Satsuma mandarin oranges are harder to find fresh in stores.
+
+### Thu Oct 15
+- Wikipedia has a [list of guitars](https://en.wikipedia.org/wiki/List_of_guitars)
+
+### Wed Oct 14
+- [Carcinisation](https://en.wikipedia.org/wiki/Carcinisation) is an example of convergent evolution in which a crustacean evolves into a crab-like form from a non-crab-like form.
+- **Polemic**: a strong verbal or written attack on someone or something.
+
+### Tue Oct 13
+- **Talmud vs Torah**: The Jewish belief is that Moses received the Torah as a written text alongside a commentary: the Talmud. The Talmud is considered the oral traditions that coincide with the Torah. It is a depiction of the primary codification of the Jewish decrees. It explains the written texts of the Torah so that people know how to apply it to their lives.
+
+### Mon Oct 12
+- [Canadian Holidays Explained](https://canadianholidaysexplained.tumblr.com/) is, well, a website that explains Canadian holidays.
+
 ### Sun Oct 11
 - **Apocryphal**: of doubtful authenticity, although widely circulated as being true.
 - The [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes) is an intelligence alliance comprising Australia, Canada, New Zealand, the United Kingdom and the United States.
