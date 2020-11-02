@@ -1,6 +1,56 @@
 # Today I Learned
 
+## November 2020
+
+### Sun Nov 1
+- [You can create a pseudo-esolang using operators and `undefined`s in JavaScript](https://www.reddit.com/r/esolangs/comments/jlgs3b/im_not_sure_if_this_counts_but_it_turns_out_that/)
+
 ## October 2020
+
+### Sat Oct 31
+- **Pablum**: bland or insipid intellectual fare, entertainment
+  - Named after a processed baby cereal
+
+### Fri Oct 30
+- Google got its data for Google Maps [from the US Census Bureau](https://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/). This is then augmented and corrected manually, with the data from Google Maps cars, and with feedback from users.
+
+### Thu Oct 29
+- [Some abolsute wizards are working on a Super Mario Sunshine ROMhack for Super Mario 64 DS.](https://www.youtube.com/watch?v=N3yMw70Dcq8)
+
+### Wed Oct 28
+- The logo in the Discord logo is named Clyde
+
+### Tue Oct 27
+- **Jelly**: Jelly is made with strained fruit juice. There are no pieces of fruit in jelly.
+- **Jam**: Jam is made with mashed fruit.
+- **Preserves**: Preserves have whole fruit or large pieces of fruit. Some fruits such as blackberries or raspberries will not stay whole during the processing so there may not be much difference between raspberry jam and raspberry preserve.
+- **Fruit spreads (only fruit)**: These are 100% fruit with no sugar added. If needed, a sweet fruit juice such as white grape juice or apple juice may be added. Because of the sugar in the fruit we cannot call these products sugarless. These spreads offer the most amount of pure fruit flavor.
+- **Butters**: Butters are made from pureed fruit. They are not as sweet as preserves, jams, or jellies but offer a full fruit flavor. Butters are cooked for over 6 hours ,at a low temperature, allowing the product to thicken. Butters tend to be dark because of the exposure to air during the cooking. These are also available with no sugar added.
+
+### Mon Oct 26
+- [The moon is wet](https://www.popsci.com/story/science/water-on-sunlit-side-of-moon/)
+- On the other hand, a [wet moon](https://en.wikipedia.org/wiki/Wet_moon) is the visual phenomenon when the "horns" of the crescent Moon point up at an angle, away from the horizon, so that the crescent takes on the appearance of a bowl or smile.
+
+### Sun Oct 25
+- The Mulford act is a [1967 California bill that repealed a law allowing public carrying of loaded firearms.](https://en.m.wikipedia.org/wiki/Mulford_Act) with the goal of disarming the Black Panthers. It was heavily supported by the NRA, because they weren't too happy that people who didn't look like them were exercising the same rights that they did.
+
+### Sat Oct 24
+- Pound cake is called pound cake because it requires a pound each of the four ingredients: flour, butter, eggs and sugar.
+
+### Fri Oct 23
+- [A man walked across the whole of Wales in a straight(ish) line](https://www.youtube.com/playlist?list=PL_japiE6QKWphPxjqn0KJjfoRnuVSELaI)
+
+### Thu Oct 22
+- While streaming audio in Discord doesn't work natively on Linux, [you can route your audio output through your mic as a temporary fix](https://www.reddit.com/r/discordapp/comments/g4kd8o/streaming_game_audio_on_linux_client/).
+
+### Wed Oct 21
+- Since fluids behave differently in space, you have to use very [specifically shaped coffee cups](https://science.nasa.gov/science-news/science-at-nasa/2013/15jul_coffeecup)
+
+### Tue Oct 20
+- To **wax poetic** is to become increasingly verbose
+
+### Mon Oct 19
+- [Pizza to the Polls](https://polls.pizza/) delivers pizzas to people waiting in really long polling lines!
 
 ### Sun Oct 18
 - **Classical vs Acoustic Guitar**
