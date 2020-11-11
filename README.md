@@ -2,8 +2,34 @@
 
 ## November 2020
 
+### Sun Nov 8
+- [**Anatopism**](https://en.wikipedia.org/wiki/Anatopism) - An anatopism is something that is out of its proper place.
+- [**Path dependence**](https://en.wikipedia.org/wiki/Path_dependence) - Path dependence is when the decisions presented to people are dependent on prior decisions or experiences made in the past.
+- [**Presentism**](https://en.wikipedia.org/wiki/Presentism_(literary_and_historical_analysis)) - In literary and historical analysis, presentism is the anachronistic introduction of present-day ideas and perspectives into depictions or interpretations of the past.
+
+### Sat Nov 7
+- [LanguageSquad](https://www.languagesquad.com/) is an online game similar to GeoGuessr: it plays audio of someone speakinng and you have to guess the language. You can also have it quiz you on different alphabet systems.
+
+### Fri Nov 6
+- The `cp` command natively supports hardlinking instead of actually copying (useful for hardlinking files between different git workspaces)
+  - `cp -al dirA dirB`
+
+### Thu Nov 5
+- [Stambovsky vs. Ackley](https://en.wikipedia.org/wiki/Stambovsky_v._Ackley) commonly known as the Ghostbusters ruling, is a case in the New York Supreme Court held that held that a house, which the owner had previously advertised to the public as haunted by ghosts, legally was haunted for the purpose of an action for rescission brought by a subsequent purchaser of the house
+
+### Wed Nov 4
+- [Physics envy](https://en.wikipedia.org/wiki/Physics_envy) is a phrase used to criticize the overused, complicated mathematical jargon that is used in softer science, liberal arts, etc. to seem more rigorous (like physics).
+
+### Tue Nov 3
+- [Eye-rolling](https://en.wikipedia.org/wiki/Eye-rolling) has been present in literature since at least the 16th century
+- **Bluster**: talk in a loud, aggressive, or indignant way with little effect (verb) or loud, aggressive, or indignant talk with little effect (noun)
+
+### Mon Nov 2
+- PAL runs at roughly 25 FPS while NTSC runs at roughlt 30 FPS, meaning that when you play video games on PAL, it's running at roughly 5/6 the speed of NTSC and therefore seems slower. In older games like Mario Kart 64 that didn't account for this, this lead to the same race time differing between regions.
+
 ### Sun Nov 1
 - [You can create a pseudo-esolang using operators and `undefined`s in JavaScript](https://www.reddit.com/r/esolangs/comments/jlgs3b/im_not_sure_if_this_counts_but_it_turns_out_that/)
+- The main difference between `apt` and `apt-get` is that `apt` is more user-oriented while `apt-get` is now more useful for scripts/parsing
 
 ## October 2020
 
