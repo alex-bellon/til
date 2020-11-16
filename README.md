@@ -2,6 +2,34 @@
 
 ## November 2020
 
+### Sun Nov 15
+- [Buttock mail](https://en.wikipedia.org/wiki/Buttock_mail) was the colloquial term for a Scottish Poor Law tax which was introduced in 1595. Enforced by the ecclesiastical courts, buttock mail was levied as a fine for sexual intercourse out of wedlock. 
+
+### Sat Nov 14
+- A [massive astrophysical compact halo object (MACHO)](https://en.wikipedia.org/wiki/Massive_compact_halo_object) is any kind of astronomical body that might explain the apparent presence of dark matter in galaxy halos.
+- [Strongly interacting massive particles (SIMPs)](https://en.wikipedia.org/wiki/Strongly_interacting_massive_particle) are hypothetical particles that interact strongly between themselves and weakly with ordinary matter, but could form the inferred dark matter despite this.
+- [Weakly interacting massive particles (WIMPs)](https://en.wikipedia.org/wiki/Massive_compact_halo_object) are hypothetical particles that are one of the proposed candidates for dark matter.
+
+### Fri Nov 13
+- [Democracy sausage](https://en.m.wikipedia.org/wiki/Democracy_sausage) is a type of sausage that Australians often get after they go vote (usually as part of a fundraiser)
+
+### Thu Nov 12
+- **[Anthimeria](https://en.wikipedia.org/wiki/Anthimeria)** is using one part of speech as another, such as using a noun as a verb: "The little old lady turtled along the road." In linguistics, this is called conversion; when a noun becomes a verb, it is a denominal verb, when a verb becomes a noun, it is a deverbal noun.
+  - **[Denominal verb](https://en.wikipedia.org/wiki/Denominal_verb)**
+  - **[Deverbal noun](https://en.wikipedia.org/wiki/Deverbal_noun)**
+- **[Antimetabole](https://en.wikipedia.org/wiki/Antimetabole)** is the repetition of words in successive clauses, but in transposed order; for example, "I know what I like, and I like what I know".
+- **[Symploce](https://en.wikipedia.org/wiki/Symploce)** is a figure of speech in which a word or phrase is used successively at the beginning of two or more clauses or sentences and another word or phrase with a similar wording is used successively at the end of them. It is the combination of anaphora and epistrophe.
+- **[Verbification](https://en.wikipedia.org/wiki/Conversion_(word_formation)#Verbing)** is the creation of a verb from a noun, adjective or other word.
+
+### Wed Nov 11
+- ["It ain't over till the fat lady sings"](https://en.wikipedia.org/wiki/It_ain%27t_over_till_the_fat_lady_sings) comes from the ending of Wagner's opera Der Ring des Nibelungen. The "fat lady" is the valkyrie Brünnhilde, who was traditionally presented as a very buxom lady. Her farewell scene lasts almost twenty minutes and leads directly to the finale of the whole Ring Cycle.
+
+### Tue Nov 10
+- [Saccular acoustic sensitivity](https://en.wikipedia.org/wiki/Saccular_acoustic_sensitivity) is a measurement of the ear's affectability to sound. Saccular acoustic sensitivity has a variety physiological as well as mental/emotional effects. Perhaps the most observable physical response is goose bumps. Certain sounds, such as fingernails drawn down a blackboard, cause strong feelings of aversion or even fear in most humans.
+
+### Mon Nov 9
+- 'Lay down' is used to refer to laying down other objects. 'Lie' down is used to refer to you yourself going to lie down.
+
 ### Sun Nov 8
 - [**Anatopism**](https://en.wikipedia.org/wiki/Anatopism) - An anatopism is something that is out of its proper place.
 - [**Path dependence**](https://en.wikipedia.org/wiki/Path_dependence) - Path dependence is when the decisions presented to people are dependent on prior decisions or experiences made in the past.
