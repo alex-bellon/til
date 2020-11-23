@@ -2,8 +2,30 @@
 
 ## November 2020
 
+### Sun Nov 22
+- [Test Card F](https://en.wikipedia.org/wiki/Test_Card_F) is a test card used by the BBC that was the first to be broadcast in color in the UK and the first to feature a person.
+
+### Sat Nov 21
+- When large amounts of candy are spilled, spoiled, or otherwise ruined, they are often [sold to farmers to use as cheap feed for their animals](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Beating_Frequency.svg/214px-Beating_Frequency.svg.png).
+
+### Fri Nov 20
+- In Atom, you can use `CTRL + UP/DOWN` to move entire lines up or down in order
+
+### Thu Nov 19
+- [Voix céleste](https://en.wikipedia.org/wiki/Voix_c%C3%A9leste) is an organ stop consisting of either one or two ranks of pipes slightly out of tune. The term celeste refers to a rank of pipes detuned slightly so as to produce a beating effect when combined with a normally tuned rank.
+- This is probably obvious, but a [beat](https://en.wikipedia.org/wiki/Beat_(acoustics)) is a sort of combination of [two waves](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Beating_Frequency.svg/214px-Beating_Frequency.svg.png).
+
+### Wed Nov 18
+- There's a [list of soups](https://en.wikipedia.org/wiki/List_of_soups)!
+
+### Tue Nov 17
+- [Dasein](https://en.wikipedia.org/wiki/Dasein) is a German word that means "being there" or "presence" (German: da "there"; sein "to be"), and is often translated into English with the word "existence". It is a fundamental concept in the existential philosophy of Martin Heidegger. Heidegger uses the expression Dasein to refer to the experience of being that is peculiar to human beings.
+
+### Mon Nov 16
+- [Russian political jokes](https://en.wikipedia.org/wiki/Russian_political_jokes) are a part of Russian humour and can be grouped into the major time periods: Imperial Russia, Soviet Union and finally post-Soviet Russia.
+
 ### Sun Nov 15
-- [Buttock mail](https://en.wikipedia.org/wiki/Buttock_mail) was the colloquial term for a Scottish Poor Law tax which was introduced in 1595. Enforced by the ecclesiastical courts, buttock mail was levied as a fine for sexual intercourse out of wedlock. 
+- [Buttock mail](https://en.wikipedia.org/wiki/Buttock_mail) was the colloquial term for a Scottish Poor Law tax which was introduced in 1595. Enforced by the ecclesiastical courts, buttock mail was levied as a fine for sexual intercourse out of wedlock.
 
 ### Sat Nov 14
 - A [massive astrophysical compact halo object (MACHO)](https://en.wikipedia.org/wiki/Massive_compact_halo_object) is any kind of astronomical body that might explain the apparent presence of dark matter in galaxy halos.
