@@ -2,6 +2,32 @@
 
 ## November 2020
 
+### Sun Nov 29
+- A [trencher](https://en.wikipedia.org/wiki/Trencher_(tableware)) was originally a piece of (usually stale) bread that was used as a plate during medieval times
+
+### Sat Nov 28
+- [The Human Interference Task Force](https://en.wikipedia.org/wiki/Human_Interference_Task_Force) was a team of engineers, anthropologists, nuclear physicists, behavioral scientists and others convened on behalf of the U.S. Department of Energy and Bechtel Corp. to find a way to reduce the likelihood of future humans unintentionally intruding on radioactive waste isolation systems. Specifically, the task force was to research the use of long-time warning messages to prevent future access to the planned, but stalled, deep geological nuclear repository project of Yucca Mountain.
+- [Long-time nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages) are intended to deter human intrusion at nuclear waste repositories in the far future, within or above the order of magnitude of 10,000 years. They are intended to warn people of the dangers regardless of linguistic ability or cultural influence.
+
+### Fri Nov 27
+- [There are Mailboxes inside Disneyland that (kind of) work](https://www.snopes.com/fact-check/disneyland-mailboxes/)
+- [A lot of companies that are still in business profited from the Holocaust](https://en.wikipedia.org/wiki/List_of_companies_involved_in_the_Holocaust)
+
+### Thu Nov 26
+- A [99 Flake](https://en.wikipedia.org/wiki/99_Flake) is a soft serve ice cream with a Cadbury Flake in it
+- [The boy Jones](https://en.wikipedia.org/wiki/The_boy_Jones) was a British teenager who became notorious for breaking into Buckingham Palace multiple times between 1838 and 1841.
+
+### Wed Nov 25
+- Soup is where the contents are more liquid than solid, and stew is the opposite.
+- [Key Wrap](https://en.wikipedia.org/wiki/Key_Wrap) constructions are a class of symmetric encryption algorithms designed to encrypt cryptographic key material.
+
+### Tue Nov 24
+- [There's a machine at the Exploratorium in San Francisco that consists of so many gear reductions that the final gear is embedded in concrete yet causes no problems](https://www.exploratorium.edu/exhibits/machine-with-concrete)
+- [There's a statue in Hiroshima made up of cog wheels that speeds up whenever nuclear weapons are tested.](http://www.pcf.city.hiroshima.jp/virtual/VirtualMuseum_e/tour_e/ireihi/tour_55_e.html) If the cog wheel speed sup too much, it will cause the clock to self destruct.
+
+### Mon Nov 23
+- **Imbroglio**: an extremely confused, complicated, or embarrassing situation.
+
 ### Sun Nov 22
 - [Test Card F](https://en.wikipedia.org/wiki/Test_Card_F) is a test card used by the BBC that was the first to be broadcast in color in the UK and the first to feature a person.
 
