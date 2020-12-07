@@ -1,6 +1,30 @@
 # Today I Learned
 
+## December 2020
+
+### Sun Dec 6
+- [There's a speedrunning community for sharpening pencils](https://www.speedrun.com/pss#In_Real_Life)
+
+### Sat Dec 5
+- Seeds can be patented and protected
+  - There are initiatives like [OSSI](https://osseeds.org/) that aim to combat this
+
+### Fri Dec 4
+- [The BBC has their own personal backup of every television and radio broadcast they have output since around 2007, which is several petabytes in size](https://en.wikipedia.org/wiki/BBC_Redux).
+
+### Thu Dec 3
+- The [Aral Sea](https://en.wikipedia.org/wiki/Aral_Sea), once the fourth largest lake in the world, has been shrinking since the 60s, when rivers that fed it were diverted for Soviet irrigation projects.
+
+### Wed Dec 2
+- The term "ricing", used to describe customizing your computer setup (usually involving Linux), comes from the car modding scene. There, the term came from "[rice burner](https://en.wikipedia.org/wiki/Rice_burner)" - a pejorative term originally applied to Japanese motorcycles and which later expanded to include Japanese cars or any East Asian-made vehicles.
+
+### Tue Dec 1
+- The "Luling Effect" is something that happens in Austin where there's a natural gas smell in the air. The odor comes from the oil fields in Luling and Lockhart: when we have a cold, still night, that sulfur smell collects at the ground instead of dissipating like normal, so in the morning the wind brings up the smell and it spreads across the city.
+
 ## November 2020
+
+### Mon Nov 30
+- [Benford's law](https://en.wikipedia.org/wiki/Benford's_law) states that in many naturally occurring collections of numbers, the leading digit is likely to be small. In sets that obey the law, the number 1 appears as the leading significant digit about 30% of the time, while 9 appears as the leading significant digit less than 5% of the time.
 
 ### Sun Nov 29
 - A [trencher](https://en.wikipedia.org/wiki/Trencher_(tableware)) was originally a piece of (usually stale) bread that was used as a plate during medieval times
