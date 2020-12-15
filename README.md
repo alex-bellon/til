@@ -2,6 +2,32 @@
 
 ## December 2020
 
+### Sun Dec 13
+- All maps to the empty set are bijections, because the only function that maps to the empty set is the identity mapping from the empty set to itself, which is a bijection.
+
+### Sat Dec 12
+- [Foreign accent syndrome](https://en.wikipedia.org/wiki/Foreign_accent_syndrome) is a medical condition in which patients develop speech patterns that are perceived as a foreign accent that is different from their native accent, without having acquired it in the perceived accent's place of origin.
+
+### Fri Dec 11
+- [Thankful Villages](https://en.wikipedia.org/wiki/Thankful_Villages) are settlements in England and Wales where all residents that served in WWI survived. There are currently 53 identified.
+  - 14 are doubly thankful - all their residents who served in WWII also survived
+
+### Thu Dec 10
+- [James Buckley, who played Jay on the Inbetweeners has a Twitch channel aplty named 'CompletedItMate'](https://www.twitch.tv/completeditmate/)
+
+### Wed Dec 9
+- [There are giant server-rack sized matrix switches that connect a BUNCH of different video inputs/outputs together](https://twitter.com/ShankMods/status/1337357338395750400?s=19)
+
+### Tue Dec 8
+- [Diegesis](https://en.wikipedia.org/wiki/Diegesis) is a style of fiction storytelling that presents an interior view of a world in which:
+  - Details about the world itself and the experiences of its characters are revealed explicitly through narrative.
+  - The story is told or recounted, as opposed to shown or enacted.
+  - There is a presumed detachment from the story of both the speaker and the audience.
+
+### Mon Dec 7
+- ["Nickelodeon"](https://en.wikipedia.org/wiki/Nickelodeon_(movie_theater)) was the name for the first kind of theaters. Its name came from "nickel" (the price of a movie) and "odeion", Greek for a roofed-over theater.
+- [Sleeve garters](https://en.wikipedia.org/wiki/Sleeve_garter) (the bands men wore on their upper arms in early 1900s) were used to keep the sleeves of the single sized shirts of the time at the right length.
+
 ### Sun Dec 6
 - [There's a speedrunning community for sharpening pencils](https://www.speedrun.com/pss#In_Real_Life)
 
