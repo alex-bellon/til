@@ -2,6 +2,36 @@
 
 ## January 2021
 
+### Sun Jan 17
+- Norway is not part of the European Union
+- A [panopticon](https://en.wikipedia.org/wiki/Panopticon) is a type of prison where one guard can see all of the prisoners at (almost) the same time, and none of the prisoners know when they are being watched.
+
+### Sat Jan 16
+- Squinting works because you are reducing the amount of light into your eye, allowing in only a small amount of focused light
+- The only countries in Europe that have yellow license plates (for normal cars) are the Netherlands and Luxembourg
+  - [Vehicle registration plates of Europe](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Europe)
+
+### Fri Jan 15
+- The ¶ character is called a [pilcrow](https://en.wikipedia.org/wiki/Pilcrow)
+
+### Thu Jan 14
+- A [vacuous truth](https://en.wikipedia.org/wiki/Vacuous_truth) is a conditional statement that is only true because the initial part of the statement is impossible to satisfy.
+- A [double-barreled question](https://en.wikipedia.org/wiki/Double-barreled_question) is a question that asks about two issues but only allows for one answer
+
+### Wed Jan 13
+- The Wikipedia article for [email storm](https://en.wikipedia.org/wiki/Email_storm) has some pretty insane stories:
+  - On 31 March 1987, Jordan Hubbard, using rwall, intended to message every machine at UC Berkeley, but the message was sent to every machine on the internet. This message was not an email.
+  - On 7 December 2018, the Utah state government experienced an email storm originating in a holiday potluck invite that was mistakenly sent to 25,000 state employees, nearly the entire state workforce. Utah Lt. Gov. Spencer Cox called it "an emergency".
+
+### Tue Jan 12
+- Wikipedia has a very helpful [list of dips](https://en.wikipedia.org/wiki/Dipping_sauce#List_of_common_dips)
+
+### Mon Jan 11
+- The [politician's syllogism](https://en.wikipedia.org/wiki/Politician%27s_syllogism) is the logical fallacy of the form
+  - We must do something
+  - This is something
+  - Therefore, we must do this.
+
 ### Sun Jan 10
 - [Wikipedia has a list of all the famous public signage typefaces](https://en.wikipedia.org/wiki/List_of_public_signage_typefaces)
 
@@ -18,7 +48,7 @@
 
 ## WINTER BREAK
 
-## December 2020q
+## December 2020
 
 ### Wed Dec 23
 - A [bezoar](https://en.wikipedia.org/wiki/Bezoar) is a mass found trapped in the gastrointestinal system. Gross.
