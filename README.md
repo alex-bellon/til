@@ -2,6 +2,31 @@
 
 ## January 2021
 
+### Sun Jan 24
+- [Aoshima](https://en.wikipedia.org/wiki/Aoshima,_Ehime) is an island in Japan that currently has a ratio of cats to residents of almost 36:1 (only 6 people still live on the island).
+
+### Sat Jan 23
+- [Auxetics](https://en.wikipedia.org/wiki/Auxetics) are structures or materials that have a negative Poisson's ratio. When stretched, they become thicker perpendicular to the applied force.
+
+### Fri Jan 22
+- ["He never married"](https://en.wikipedia.org/wiki/He_never_married) was a phrase commonly used by obituary writers in the United Kingdom as a euphemism for the deceased having been homosexual.
+
+### Thu Jan 21
+- The [candy bar protest](https://en.wikipedia.org/wiki/Candy_bar_protest) was a protest by Canadian children in 1947 over the price of chocolate bars being raised from 5 cents to 8 cents.
+
+### Wed Jan 20
+- [There are a ton of cities and places with "Silicon" in the name](https://en.wikipedia.org/wiki/List_of_technology_centers#Places_with_%22Silicon%22_names) (a la Silicon Valley)
+
+### Tue Jan 19
+- The [singular 'they'](https://en.wikipedia.org/wiki/Singular_they) has been used since the 14th century.
+- [Epicenity](https://en.wikipedia.org/wiki/Epicenity) is the lack of gender distinction
+
+### Mon Jan 18
+- [Sealioning](https://en.wikipedia.org/wiki/Sealioning) is a type of trolling that consists of pestering people with repeated questions while maintaining a guise of politeness and sincerity. The goal is to erode the patience or goodwill of the target to the point where they appear unreasonable.
+- The [Gish gallop](https://en.wikipedia.org/wiki/Gish_gallop) is a technique in which a debater attempts to overwhelm an opponent by excessive number of arguments, without regard for the accuracy or strength of those arguments.
+- [Brandolini's law](https://en.wikipedia.org/wiki/Brandolini%27s_law) states that "The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it".
+- A [Chewbacca defense](https://en.wikipedia.org/wiki/Chewbacca_defense) is a legal strategy in which a criminal defense lawyer tries to confuse the jury rather than refute the case of the prosecutor.
+
 ### Sun Jan 17
 - Norway is not part of the European Union
 - A [panopticon](https://en.wikipedia.org/wiki/Panopticon) is a type of prison where one guard can see all of the prisoners at (almost) the same time, and none of the prisoners know when they are being watched.
@@ -46,7 +71,9 @@
 - A [camouflage passport](https://en.wikipedia.org/wiki/Camouflage_passport) is a passport-like document issued in the name of a non-existent country or location.
   - A famous examples is the [World Passport](https://en.wikipedia.org/wiki/World_Passport)
 
-## WINTER BREAK
+-----
+INTERMISSION - WINTER RBEAK
+-----
 
 ## December 2020
 
