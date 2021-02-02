@@ -2,6 +2,34 @@
 
 ## January 2021
 
+### Sun Jan 31
+- A [catenary](https://en.wikipedia.org/wiki/Catenary) is the shape made by a chain hanging from two ends.
+- [Entoptic phenomenon](https://en.wikipedia.org/wiki/Entoptic_phenomenon) are visual effects whose source is from within the eye itself.
+
+### Sat Jan 30
+- A [fossil word](https://en.wikipedia.org/wiki/Fossil_word) is a word that is almost obsolete but is only used because it is part of an idiom
+- An [eponym](https://en.wikipedia.org/wiki/Eponym) is a person, place, or thing after whom or which someone or something is, or is believed to be, named.
+
+### Fri Jan 29
+- [Caravaggio's name was Michelangelo](https://en.wikipedia.org/wiki/Caravaggio)
+- [The first steam engine exploded](https://en.wikipedia.org/wiki/List_of_boiler_explosions)
+
+### Thu Jan 28
+- A [Googlewhack](https://en.wikipedia.org/wiki/Googlewhack) is a contest where you try to find a Google Search query where there is only one result
+- A [donkey sentence](https://en.wikipedia.org/wiki/Donkey_sentence) is a sentence that contains a pronoun with clear meaning (it is bound semantically) but whose syntactical role in the sentence poses challenges to grammarians.
+- A [garden path sentence](https://en.wikipedia.org/wiki/Garden-path_sentence)  is a grammatically correct sentence that starts in such a way that a reader's most likely interpretation will be incorrect; the reader is lured into a parse that turns out to be a dead end or yields a clearly unintended meaning.
+
+### Wed Jan 27
+- [Wikipedia has a list of writing systems](https://en.wikipedia.org/wiki/List_of_writing_systems)
+  - [Abjad](https://en.wikipedia.org/wiki/Abjad) is a type of writing system where each symbol or glyph stands for a consonant, in effect leaving it to readers to infer or otherwise supply an appropriate vowel.
+
+### Tue Jan 26
+- [Wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd) is the phenomenon where the average answer of multiple people in a group is often more accurate than any single member of the group
+- [Walgreens and Boots are both owned by the same company](https://en.wikipedia.org/wiki/Walgreens_Boots_Alliance)
+
+### Mon Jan 25
+- [Ecash](https://en.wikipedia.org/wiki/Ecash) is an anonymous electronic money system (Bitcoin, etc. is not anonymous)
+
 ### Sun Jan 24
 - [Aoshima](https://en.wikipedia.org/wiki/Aoshima,_Ehime) is an island in Japan that currently has a ratio of cats to residents of almost 36:1 (only 6 people still live on the island).
 
