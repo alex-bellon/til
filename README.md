@@ -1,5 +1,33 @@
 # Today I Learned
 
+## February 2021
+
+### Sun Feb 7
+- A [Kafkatrap](https://en.wiktionary.org/wiki/Kafkatrap) is a rhetorical device in which any denial by an accused person serves as evidence of guilt
+
+### Sat Feb 6
+- [Chaffing and winnowing](https://en.wikipedia.org/wiki/Chaffing_and_winnowing) is a cryptographic technique that involves hiding sensitive data within extraneous data that the receiver must then remove
+
+### Fri Feb 5
+- [Post hoc ergo propter hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc) is a fallacy that states: "Since event Y followed event X, event Y must have been caused by event X."
+- [Considered harmful](https://en.wikipedia.org/wiki/Considered_harmful) is a part of a phrasal template "X considered harmful". As of 2009, its snowclones have been used in the titles of at least 65 critical essays in computer science and related disciplines. Its use in this context originated with a 1968 letter by Edsger Dijkstra published as "Go To Statement Considered Harmful".
+  - [Snowclone](https://en.wikipedia.org/wiki/Snowclone) is a cliché and phrasal template that can be used and recognized in multiple variants.
+
+### Thu Feb 4
+- [Dystheism](https://en.wikipedia.org/wiki/Dystheism) is the belief that a god is not wholly good and is possibly evil
+- [Misotheism](https://en.wikipedia.org/wiki/Misotheism) is the "hatred of God" or "hatred of the gods"
+- [Gnosticism](https://en.wikipedia.org/wiki/Gnosticism) is a collection of religious ideas and systems that emphasised personal spiritual knowledge (gnosis) over the orthodox teachings, traditions, and authority of the church. Viewing material existence as flawed or evil, Gnostic cosmogony generally presents a distinction between a supreme, hidden God and a malevolent lesser divinity (sometimes associated with the Yahweh of the Old Testament) who is responsible for creating the material universe.
+
+### Wed Feb 3
+- [Stephanie "Steve" Shirley](https://en.wikipedia.org/wiki/Steve_Shirley) was a female computer scientist who started a software company in 1962 called Freelance Programmers that employed over 300 women (including mothers, gay women and trans women). When the [Sex Discrimination Act 1975](https://en.wikipedia.org/wiki/Sex_Discrimination_Act_1975) was enacted, she actually had to hire a bunch of men so she was not in violation of the act. She also adopted the name "Steve" to help her in the male-dominated business world, given that company letters signed using her real name were not responded to.
+
+### Tue Feb 2
+- Longlisting (as opposed to shortlisting) is the process of being added to a list that will later be whittled down (the shortlist)
+- [Differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) is a system for sharing information about a dataset without exposing information about the individuals in the dataset
+
+### Mon Feb 1
+- [Apollo insurance covers](https://en.wikipedia.org/wiki/Apollo_insurance_covers) were letters and envelopes that the Apollo astronauts signed to use in place of life insurance (since nobody wanted to insure them) in case they died. The assumption was that if they died during the mission, these covers would be come so valuable that their families would be able to sell them and get as much money as they would have from life insurance.
+
 ## January 2021
 
 ### Sun Jan 31
