@@ -2,6 +2,55 @@
 
 ## February 2021
 
+### Sun Feb 21
+- [There are **dozens** of barcode systems, including both one and two dimensional varieties](https://en.wikipedia.org/wiki/Barcode#Linear_barcodes)
+
+### Sat Feb 20
+- The [Zone of Death](https://en.wikipedia.org/wiki/Zone_of_Death_(Yellowstone)) is a section of Yellowstone National Park where a criminal could theoretically not be prosecuted due to the fact that they could not have a jusry made of their peers (since nobody lived in that portion of the park)
+
+### Fri Feb 19
+- [Because of discrepancies in interpreting Base64, you can input padding characters (`==`) between each chunk and still generate valid Base64](https://n0.lol/encmute/)
+
+### Thu Feb 18
+- A [sponson](https://en.wikipedia.org/wiki/Sponson) is a projection from the sides of vehicles to provide protection, stability, storage, or mounting space.
+
+### Wed Feb 17
+- [Catullus 16](https://en.wikipedia.org/wiki/Catullus_16) is a Latin poem that was considered so explicit that a full English translation was not published until the late twentieth century. The first line has been called "one of the filthiest expressions ever written in Latin—or in any other language, for that matter."
+
+### Tue Feb 16
+- [There are an alarming number of anumals with fraudulent diplomas](https://en.wikipedia.org/wiki/List_of_animals_with_fraudulent_diplomas)
+
+### Mon Feb 15
+- A [fairy ring](https://en.wikipedia.org/wiki/Fairy_ring) is a naturally occuring ring of mushrooms
+
+### Sun Feb 14
+- A [patois](https://en.wikipedia.org/wiki/Patois) is speech or language that is considered nonstandard, although the term is not formally defined in linguistics. As such, patois can refer to pidgins, creoles, dialects or vernaculars, but not commonly to jargon or slang, which are vocabulary-based forms of cant.
+- A [pidgin language](https://en.wikipedia.org/wiki/Pidgin) is a grammatically simplified means of communication that develops between two or more groups that do not have a language in common: typically, its vocabulary and grammar are limited and often drawn from several languages.
+- A [creole language](https://en.wikipedia.org/wiki/Creole_language) is a stable natural language that develops from the simplifying and mixing of different languages into a new one within a fairly brief period of time: often, a pidgin evolved into a full-fledged language.
+
+### Sat Feb 13
+- You can use the `listings` LaTeX package to input inline code
+  - Use `\begin{lstlisting}` and `\end{lstlisting}` and put code in between or,
+  - Use `\lstinputlisting[language=foo]{bar.foo}` to input it directly from the file `bar.foo`
+
+### Fri Feb 12
+- The [jelly bean rule](https://en.wikipedia.org/wiki/Jelly_bean_rule) is a rule that says that just because foods are low in fat, cholesterol, and sodium, they cannot claim to be "healthy" unless they contain at least 10 percent of the Daily Value of: vitamin A, vitamin C, calcium, protein, fiber, or iron. The FDA also made a policy that companies could not fortify foods with the sole intent of making that claim.
+
+### Thu Feb 11
+- Words that have 2 opposite meaning are called [contronyms](https://en.wikipedia.org/wiki/Auto-antonym) (among other names), but I can't figure out the name for words that look like opposites but mean the same thing (flammable/inflammable, bone/debone, caregiver/caretaker)
+- A [skunked term](https://en.wikipedia.org/wiki/Skunked_term) is a word that becomes difficult to use because it transitions from one meaning to another
+
+### Wed Feb 10
+- [Ogham](https://en.wikipedia.org/wiki/Ogham) is an early alphavet used to write early Irish
+  - [Forfeda](https://en.wikipedia.org/wiki/Forfeda) are the "additional" letters of the Ogham alphabet
+
+### Tue Feb 9
+- The [Universal nut sheller](https://en.wikipedia.org/wiki/Universal_nut_sheller) is a nut shelling machine that costs less than $10 to make and can shell up to 126lbs of peanuts per hour
+
+### Mon Feb 8
+- A [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow) is a metaphor for extremely simplified scientific models of real life phenomena.
+- ["Assume a can opener"](https://en.wikipedia.org/wiki/Assume_a_can_opener) is a catchphrase used to mock economists and other theorists who base their conclusions on unjustified or oversimplified assumptions.
+
 ### Sun Feb 7
 - A [Kafkatrap](https://en.wiktionary.org/wiki/Kafkatrap) is a rhetorical device in which any denial by an accused person serves as evidence of guilt
 
