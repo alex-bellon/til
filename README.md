@@ -2,6 +2,49 @@
 
 ## February 2021
 
+### Sun Feb 28
+- [Truce term](https://en.wikipedia.org/wiki/Truce_term) is a word or short phrase accepted within a community of children as an effective way of calling for a temporary respite or truce during a game or activity, such as tag or its variants.
+
+### Sat Feb 27
+- [Wikipedia has a list of all of the equivalents of "it's all Greek to me" in other languages](https://en.wikipedia.org/wiki/Greek_to_me#In_other_languages)
+  - [Someone made a directed graph of these relationships](https://languagelog.ldc.upenn.edu/nll/?p=1024)
+  - [The Steagles](https://en.wikipedia.org/wiki/Steagles) was a team created for the 1943 NFL season because of roster shortages, made of players from the Philadelphia Eagles and the Pittsburgh Steelers
+
+### Fri Feb 26
+- An [illegal prime](https://en.wikipedia.org/wiki/Illegal_prime) is a prime number that represents data that is illegal to posses or transmit
+  - It's a special case of an [illegal number](https://en.wikipedia.org/wiki/Illegal_number)
+  - One example is [DeCSS](https://www.cs.cmu.edu/~dst/DeCSS/Gallery/Stego/illegal-primes.html), a program that could circumvent DVDs' copyright protections
+
+### Thu Feb 25
+- The ["nothing to hide" argument](https://en.wikipedia.org/wiki/Nothing_to_hide_argument) is an argument often used against privacy, claiming that "I don't need to worry about privacy because I have nothing to hide"
+
+### Wed Feb 24
+- [Wrongful birth](https://en.wikipedia.org/wiki/Wrongful_birth) is a legal cause of action in some common law countries in which the parents of a congenitally diseased child claim that their doctor failed to properly warn of their risk of conceiving or giving birth to a child with serious genetic or congenital abnormalities.
+- [Wrongful life](https://en.wikipedia.org/wiki/Wrongful_life) is the name given to a legal action in which someone is sued by a severely disabled child (through the child's legal guardian) for failing to prevent the child's birth. Typically, a child and the child's parents will sue a doctor or a hospital for failing to provide information about the disability during the pregnancy, or a genetic disposition before the pregnancy. Had the mother been aware of this information, it is argued, she would have had an abortion, or chosen not to conceive at all.
+
+### Tue Feb 23
+- [Taxicab geometry](https://en.wikipedia.org/wiki/Taxicab_geometry) is a form of geometry where distance is measured by the total sum of the absolute differences of their coordinates. More simply, the amound of streets a taxi would have to go on to traverse across city blocks.
+- **Scry**: to foretell the future using a crystal ball or other reflective object or surface
+
+### Mon Feb 22
+- The [Vito Russo test](https://www.glaad.org/sri/2014/vitorusso) is a test similar to the [Bechdel test](https://en.wikipedia.org/wiki/Bechdel_test) where in order for a piece of media to pass, the following must be true:
+  - The film contains a character that is identifiably lesbian, gay, bisexual, and/or transgender.
+  - That character must not be solely or predominantly defined by their sexual orientation or gender identity. i.e. they are made up of the same sort of unique character traits commonly used to differentiate straight characters from one another.
+  - The LGBTQ character must be tied into the plot in such a way that their removal would have a significant effect. Meaning they are not there to simply provide colorful commentary, paint urban authenticity, or (perhaps most commonly) set up a punchline. The character should “matter.”
+- Similarly, the [Deggans' rule](https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/DeggansRule) has the following requirements for a piece of media to pass:
+  - At least two non-white human characters in the main cast...
+  -...in a show that's not about race.
+- There is a similar test for talking about women scientists in the news, the [Finkbeiner test](https://en.wikipedia.org/wiki/Finkbeiner_test) which has the following requirements for an article to pass:
+  - To pass the test, an article about a female scientist must not mention:
+    - That she is a woman
+    - Her husband's job
+    - Her childcare arrangements
+    - How she nurtures her underlings
+    - How she was taken aback by the competitiveness in her field
+    - How she is a role model for other women
+    - How she's the "first woman to..."
+- Also related: [Johanson analysis](https://en.wikipedia.org/wiki/Johanson_analysis), [Smurfette principle](https://en.wikipedia.org/wiki/Smurfette_principle), [Mary Sue](https://en.wikipedia.org/wiki/Mary_Sue), [Gamine](https://en.wikipedia.org/wiki/Gamine), [Manic Pixie Dream Girl](https://en.wikipedia.org/wiki/Manic_Pixie_Dream_Girl), [Magical Negro](https://en.wikipedia.org/wiki/Magical_Negro), [Noble savage](https://en.wikipedia.org/wiki/Noble_savage)
+
 ### Sun Feb 21
 - [There are **dozens** of barcode systems, including both one and two dimensional varieties](https://en.wikipedia.org/wiki/Barcode#Linear_barcodes)
 
