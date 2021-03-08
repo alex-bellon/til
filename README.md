@@ -1,5 +1,31 @@
 # Today I Learned
 
+## March 2021
+
+### Sun Mar 7
+- An [all-or-nothing transformation](https://en.wikipedia.org/wiki/All-or-nothing_transform) is an encyption mode which allows the data to be understood only if all of it is known
+
+### Sat Mar 6
+- There's a family of languages called the [Karen languages](https://en.wikipedia.org/wiki/Karenic_languages)
+
+### Fri Mar 5
+- Turbinado sugar is a type of brown sugar, but turbinado sugar is sugar that has been spun in a centrifuge to get rid of most of the natural molasses, while brown sugar has all the natural molasses spun off, then added back.
+- There's a Wikipedia article for the ["Eyebrows" Cadbury commercial](https://en.wikipedia.org/wiki/Eyebrows_(advertisement))
+
+### Thu Mar 4
+- [Japanese adult adoption](https://en.wikipedia.org/wiki/Japanese_adult_adoption) is a thing
+  - [Consanguinity](https://en.wikipedia.org/wiki/Consanguinity) is the property of being from the same kinship as another person. In that aspect, consanguinity is the quality of being descended from the same ancestor as another person.
+
+### Wed Mar 3
+- [Wikipedia has a list of media that's famous for being in development hell](https://en.wikipedia.org/wiki/List_of_media_notable_for_being_in_development_hell)
+
+### Tue Mar 2
+- Emboss means to raise the design from the material, while debossing is the opposite effect
+- [ILOVEYOU](https://en.wikipedia.org/wiki/ILOVEYOU) was a computer worm that infected over ten million Windows personal computers on and after 5 May 2000 when it started spreading as an email message with the subject line "ILOVEYOU" and the attachment "LOVE-LETTER-FOR-YOU.txt.vbs".
+
+### Mon Mar 1
+- [Seedfeeder](https://en.wikipedia.org/wiki/Seedfeeder) is the pseudonym of an illustrator known for contributing sexually explicit drawings to Wikipedia. Between 2008 and 2012, the artist created 48 depictions of various sex acts. Seedfeeder's illustrations garnered negative and positive reactions: some Wikipedia editors claimed they contained racist and sexist undertones, while Andy Cush of Gawker called him "Wikipedia's greatest artist of sex acts".
+
 ## February 2021
 
 ### Sun Feb 28
