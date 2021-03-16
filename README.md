@@ -2,6 +2,32 @@
 
 ## March 2021
 
+### Sun Mar 14
+- A [patronymic](https://en.wikipedia.org/wiki/Patronymic) is a component of a personal name based on the given name of one's father, grandfather (avonymic), or an earlier male ancestor.
+  - [Patronymic surname](https://en.wikipedia.org/wiki/Patronymic_surname)
+
+### Sat Mar 13
+- [Dené–Yeniseian languages](https://en.wikipedia.org/wiki/Den%C3%A9%E2%80%93Yeniseian_languages) is a proposed language family consisting of the Yeniseian languages of central Siberia and the Na-Dené languages of northwestern North America.
+- Wikipedia has a list of [ongoing armed conflicts](https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts)
+
+### Fri Mar 12
+- Braille was based on a tactile military code called [night writing](https://en.wikipedia.org/wiki/Night_writing), developed by Charles Barbier in response to Napoleon's demand for a means for soldiers to communicate silently at night and without a light source.
+- [New York Point](https://en.wikipedia.org/wiki/New_York_Point) is a braille-like tactile writing systemthat has contactions and common letter pairings
+
+### Thu Mar 11
+- [Alicia Boole Stott](https://en.wikipedia.org/wiki/Alicia_Boole_Stott) was the daughter of George Boole and was best known for coining the term "polytope" for a convex solid in four (or more) dimensions, and having an impressive grasp of four-dimensional geometry from a very early age.
+
+### Wed Mar 10
+- [Distributed Denial of Secrets](https://en.wikipedia.org/wiki/Distributed_Denial_of_Secrets) is a whistleblower site founded in 2018. Sometimes referred to as a successor to WikiLeaks, it is best known for its June 2020 publication of a large collection of internal police documents, known as BlueLeaks. The group has also published data on Russian oligarchs, fascist groups, shell companies, tax havens, and banking in the Caymans, and has hosted data scraped from Parler in January 2021 and from the February 2021 Gab leak.
+
+### Tue Mar 9
+- [Acoustic cryptanalysis](https://en.wikipedia.org/wiki/Acoustic_cryptanalysis) is a side channel attack that involves learning information from sounds emitted by a computer or other devices
+- A [rng](https://en.wikipedia.org/wiki/Rng_(algebra)) (no that's not misspelled) is an algebraic structure that is basically a ring without a multiplicative identity
+
+### Mon Mar 8
+- [There's a lot of research about the shape of the universe (e.g. topological properties)](https://en.wikipedia.org/wiki/Shape_of_the_universe)
+- [In topology, a [handlebody](https://en.wikipedia.org/wiki/Handlebody) is a decomposition of a manifold into standard pieces.
+
 ### Sun Mar 7
 - An [all-or-nothing transformation](https://en.wikipedia.org/wiki/All-or-nothing_transform) is an encyption mode which allows the data to be understood only if all of it is known
 
