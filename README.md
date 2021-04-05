@@ -1,6 +1,84 @@
 # Today I Learned
 
+## April 2021
+
+### Sun Apr 4
+- [Cf.](https://en.wikipedia.org/wiki/Cf.) is used in writing to refer the reader to other material to make a comparison with the topic being discussed. Style guides recommend that cf. be used only to suggest a comparison, and the word see be used to point to a source of information.
+
+### Sat Apr 3
+- [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) is a huge database that contains metadata about Wikipedia
+
+### Fri Apr 2
+- [Irish potato candy](https://en.wikipedia.org/wiki/Irish_potato_candy) is a candy that looks like a potato and contains, coconut cream and is rolled in cinnamon or cocoa powder. It is not Irish and does not contain potatoes.
+
+### Thu Apr 1
+- A junket is another name for a film promotion, e.g. the process of press releases, advertising campaigns, merchandising, franchising, etc.
+
 ## March 2021
+
+### Wed Mar 31
+- A [magic cookie](https://en.wikipedia.org/wiki/Magic_cookie) is a token or short packet of data passed between communicating programs, where the data is typically not meaningful to the recipient program. The cookie is often used like a ticket – to identify a particular event or transaction.
+  - This is the naming basis for web cookies
+
+### Tue Mar 30
+- A xenobot is a synthetic organisms that is automatically designed by computers to perform some desired function and built by combining together different biological tissues.
+  - They're name after the African clawed frog Xenopus laevis
+
+### Mon Mar 29
+- [Thursday October Christian I](https://en.wikipedia.org/wiki/Thursday_October_Christian_I) was the first child born on the Pitcairn islands after mutineers took refuge on the island. Born on a Thursday in October, he was given his unusual name because Fletcher Christian wanted his son to have "no name that will remind me of England."
+
+### Sun Mar 28
+- The `CR` and `LF` control codes were added to the 1901 [Murray code](https://en.wikipedia.org/wiki/Baudot_code#Murray_code). Similarly, `NUL` and `DEL` were introduced in the 1870 [Baudot code](https://en.wikipedia.org/wiki/Baudot_code)
+  - Wiki article about [control codes](https://en.wikipedia.org/wiki/Control_character)
+- There's also a [bell character](https://en.wikipedia.org/wiki/Bell_character)
+
+### Sat Mar 27
+- [Port tongs](https://en.wikipedia.org/wiki/Port_tongs) are a special set of tongs designed to open wine bottles that are sealed with a cork. The tongs are heated over an open flame and held against the neck of the wine bottle for 20–30 seconds. The heated section of bottle is then cooled with a damp cloth or ice water, causing the glass to fracture due to thermal expansion. The result is generally a clean, predictable break.
+- [Sabrage](https://en.wikipedia.org/wiki/Sabrage) is the name for opening a champagne bottle with a saber.
+
+### Fri Mar 26
+- A [weiner sausage](https://en.wikipedia.org/wiki/Wiener_sausage) is a thing in math
+  - I also just realized that 'wiener' means 'Viennese' in German
+
+### Thu Mar 25
+- A [mass noun](https://en.wikipedia.org/wiki/Mass_noun) is a noun where any quantity of it is treated as an undifferentiated unit.
+- A [plurale tantum](https://en.wikipedia.org/wiki/Plurale_tantum) is a noun that only appears in the plural form (e.g. scissors).
+
+### Wed Mar 24
+- [Milkshake Duck](https://en.wikipedia.org/wiki/Milkshake_Duck) is the name for the phenomenon where people who become popular on the internet for some positive or charming trait are found out to have a history of doing distasteful or offensive things.
+- [dril](https://en.wikipedia.org/wiki/Dril) has a Wikipedia page
+
+### Tue Mar 23
+- [Founder's syndrome](https://en.wikipedia.org/wiki/Founder's_syndrome) is the difficulty faced by organizations, and in particular young companies such as start-ups, where one or more founders maintain disproportionate power and influence following the effective initial establishment of the organization, leading to a wide range of problems. The passion and charisma of the founder(s), often sources of the initial creativity and productivity of the organization, can become limiting or a destructive factor.
+
+### Mon Mar 22
+- The high-vis yellow and blue checkered markings on emergency vehicles are called [Battenburg markings](https://en.wikipedia.org/wiki/Battenburg_markings)
+  - [Battenburg cake](https://en.wikipedia.org/wiki/Battenberg_cake) is a light sponge cake with different sections held together with jam. The cake is covered in marzipan and, when cut in cross section, displays a distinctive two-by-two check pattern alternately coloured pink and yellow.
+
+### Sun Mar 21
+- [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox) is a phenomenon in probability and statistics, in which a trend appears in several different groups of data but disappears or reverses when these groups are combined.
+- The [bamboo ceiling](https://en.wikipedia.org/wiki/Bamboo_ceiling) is a term used to describe the combination of individual, cultural, and organizational factors that impede Asian Americans' career progress inside organizations.
+
+### Sat Mar 20
+- [Mary Kenneth Keller](https://en.wikipedia.org/wiki/Mary_Kenneth_Keller) was a nun and also the first American woman to get a PhD in computer science (she was only a few hours away from being the first American to get a PhD in computer science).
+
+### Fri Mar 19
+- [Pester power](https://en.wikipedia.org/wiki/Pester_power) is advertising phenomenon where children who are bombarded with marketing tend to pester their parents to buy those things.
+- In Linux, `--` denotes the end of arguments
+
+### Thu Mar 18
+- [Indistinguishability obfuscation](https://en.wikipedia.org/wiki/Indistinguishability_obfuscation) is a cryptographic primitive that allows users to run a program while still hiding the implementation.
+- [Learning with errors](https://en.wikipedia.org/wiki/Learning_with_errors) is a... a thing
+
+### Wed Mar 17
+- [PETA domain name disputes](https://en.wikipedia.org/wiki/People_for_the_Ethical_Treatment_of_Animals#Domain_name_disputes): In February 1995, a parody website calling itself "People Eating Tasty Animals" registered the domain name "peta.org". PETA sued, claiming trademark violation, and won the suit in 2001; the domain is currently owned by PETA. While still engaged in legal proceedings over "peta.org", PETA themselves registered the domains "ringlingbrothers.com" and "voguemagazine.com", using the sites to accuse Ringling Brothers and Barnum & Bailey Circus and Vogue of animal cruelty.
+
+### Tue Mar 16
+- An [antimony pill](https://en.wikipedia.org/wiki/Antimony_pill) is a pill made from antimony that was used to "purge and revitalize the bowels". They were typically reused :|
+
+### Mon Mar 15
+- The [sweater curse](https://en.wikipedia.org/wiki/Sweater_curse) is a term used by knitters to describe the belief that if a knitter gives a hand-knit sweater to a significant other, it will lead to the recipient breaking up with the knitter.
+- A [toast sandwich](https://en.wikipedia.org/wiki/Toast_sandwich) is a real thing
 
 ### Sun Mar 14
 - A [patronymic](https://en.wikipedia.org/wiki/Patronymic) is a component of a personal name based on the given name of one's father, grandfather (avonymic), or an earlier male ancestor.
