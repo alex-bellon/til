@@ -2,6 +2,33 @@
 
 ## April 2021
 
+### Sun Apr 11
+- [Open Location Code](https://en.wikipedia.org/wiki/Open_Location_Code), like What3Words, is a way to identify anywhere on Earth.  Google states that plus codes are accepted as postal addresses in Cape Verde, parts of Kolkata, and the Navajo Nation.
+- [Rotated letter](https://en.wikipedia.org/wiki/Rotated_letter)
+
+### Sat Apr 10
+- **Lignification** is the process of becoming wood or woody
+- [Numismatics](https://en.wikipedia.org/wiki/Numismatics) is the study or collection of currency, including coins, tokens, paper money and related objects.
+
+### Fri Apr 9
+- The plan of action for when Queen Elizabeth II dies is called [Operation London Bridge](https://en.wikipedia.org/wiki/Operation_London_Bridge)
+
+### Thu Apr 8
+- A **finial** is a distinctive ornament at the apex of a roof, pinnacle, canopy, or similar structure in a building.
+- **Clandestine** - kept secret or done secretively, especially because illicit.
+- **Despondent** - in low spirits from loss of hope or courage.
+
+### Wed Apr 7
+- The Wikipedia page for [copy protection](https://en.wikipedia.org/wiki/Copy_protection) has lots of interesting examples:
+  - If a player pirated the Nintendo DS version of Michael Jackson: The Experience, vuvuzela noises will play over the notes during a song, which then become invisible. The game will also freeze if the player tries to pause it.
+  - Older versions of Autodesk 3ds Max use a dongle for copy protection; if it is missing, the program will randomly corrupt the points of the user's model during usage, destroying their work.
+
+### Tue Apr 6
+- [Initials at the bottom of a (typewriter) typed sheet were usually for \<secretary\>:\<typist\>](https://twitter.com/nzqrcs/status/1379791829554499585)
+
+### Mon Apr 5
+- [Me at the zoo](https://en.wikipedia.org/wiki/Me_at_the_zoo) is the first video every uploaded to YouTube, featuring founder Jawid Karim talking about elephants at the San Diego Zoo.
+
 ### Sun Apr 4
 - [Cf.](https://en.wikipedia.org/wiki/Cf.) is used in writing to refer the reader to other material to make a comparison with the topic being discussed. Style guides recommend that cf. be used only to suggest a comparison, and the word see be used to point to a source of information.
 
