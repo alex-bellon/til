@@ -1,6 +1,57 @@
 # Today I Learned
 
+
 ## April 2021
+
+### Sun Apr 25
+- ["Embrace, extend, extinguish"](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish) is a phrase that was used internally by Microsoft to describe its strategy for entering product categories involving widely used standards, extending those standards with proprietary capabilities, and then using those differences in order to strongly disadvantage its competitors.
+- [Disparate impact](https://en.wikipedia.org/wiki/Disparate_impact) refers to practices in employment, housing, and other areas that adversely affect one group of people of a protected characteristic more than another, even though rules applied by employers or landlords are formally neutral.
+
+### Sat Apr 24
+- [CRLF Injection](https://owasp.org/www-community/vulnerabilities/CRLF_Injection) is when a user manages to submit a CRLF into an application. This is most commonly done by modifying an HTTP parameter or URL.
+- [Ansombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet) comprises four data sets that have nearly identical simple descriptive statistics, yet have very different distributions and appear very different when graphed. They have the same mean, sample variance, correlation, etc.
+
+### Fri Apr 23
+- A [spite house](https://en.wikipedia.org/wiki/Spite_house) is a building constructed or substantially modified to irritate neighbors or any party with land stakes. Because long-term occupation is not the primary purpose of these houses, they frequently sport strange and impractical structures.
+- A [ransom strip](https://en.wikipedia.org/wiki/Ransom_strip) is a parcel of land needed to access an adjacent property from a public highway, to which the owner is denied access until payment is received.
+- A [holdout](https://en.wikipedia.org/wiki/Holdout_(real_estate)) is a piece of property that did not become part of a larger real estate development because the owner either refused to sell or wanted more than the developer would pay.
+
+### Thu Apr 22
+- A [calque](https://en.wikipedia.org/wiki/Calque) is a word or phrase borrowed from another language by literal word-for-word or root-for-root translation. When used as a verb, "to calque" means to borrow a word or phrase from another language while translating its components, so as to create a new lexeme in the target language.
+
+### Wed Apr 21
+- The [Voynich manuscript](https://en.wikipedia.org/wiki/Voynich_manuscript) is an illustrated codex hand-written in an unknown, possibly meaningless writing system. The Voynich manuscript has been studied by many professional and amateur cryptographers, including American and British codebreakers from both World War I and World War II. The manuscript has never been demonstrably deciphered, and none of the many hypotheses proposed over the last hundred years have been independently verified.
+
+### Tue Apr 20
+- [Brood parasites](https://en.wikipedia.org/wiki/Brood_parasite) are organisms that rely on others to raise their young.
+
+### Mon Apr 19
+- A [Z movie](https://en.wikipedia.org/wiki/Z_movie) is a low-budget film that has qualities lower than a B movie.
+- A [redshirt](https://en.wikipedia.org/wiki/Redshirt_(stock_character)) is a stock character in fiction who dies soon after being introduced.
+
+### Sun Apr 18
+- [One of the London bridges is now in Arizona](https://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City))
+- A [mortsafe](https://en.wikipedia.org/wiki/Mortsafe) was a contraption designed to protect graves from disturbance, specifically from medial students.
+
+### Sat Apr 17
+- [plonk](https://en.wikipedia.org/wiki/Plonk_(Usenet)) is a Usenet jargon term for adding a particular poster to one's kill file so that poster's future postings are completely ignored.
+
+### Fri Apr 16
+- The [Mpemba effect](https://en.wikipedia.org/wiki/Mpemba_effect) is a catch-all term for possible cases in which hot water appears to freeze faster than cold water. The phenomenon is temperature-dependent. There is disagreement about the parameters required to produce the effect and about its theoretical basis.
+
+### Thu Apr 15
+- [Full size SIM cards are the size of a credit card](https://en.wikipedia.org/wiki/SIM_card#Formats)
+- [Data erasure](https://en.wikipedia.org/wiki/Data_erasure)
+  - Because of wear leveling on SSDs, there are special commands you have to use to actually write 0s to all of the disk
+
+### Wed Apr 14
+- [Zulu languages have 3 types of clicks, an 'x' click, a 'c' click and a 'q' click](https://www.youtube.com/watch?v=WHHGOYu6Fl0)
+
+### Tue Apr 13
+- **Largesse** - generosity in bestowing money or gifts upon others.
+
+### Mon Apr 12
+- [Qualia](https://en.wikipedia.org/wiki/Qualia) are individual instances of subjective, conscious experience.
 
 ### Sun Apr 11
 - [Open Location Code](https://en.wikipedia.org/wiki/Open_Location_Code), like What3Words, is a way to identify anywhere on Earth.  Google states that plus codes are accepted as postal addresses in Cape Verde, parts of Kolkata, and the Navajo Nation.
