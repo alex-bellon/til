@@ -1,7 +1,57 @@
 # Today I Learned
 
+## May 2021
+
+### Sun May 9
+- [Hobby tunneling](https://en.wikipedia.org/wiki/Hobby_tunneling) is tunnel construction as a diversion.
+
+### Sat May 8
+- ["I'm not a scientist"](https://en.wikipedia.org/wiki/I'm_not_a_scientist) is a phrase that has been often used by American politicians, primarily Republicans, when asked about a scientific subject, such as global warming, or the age of the earth.
+
+### Fri May 7
+- A [capitonym](https://en.wikipedia.org/wiki/Capitonym) is a word that changes meaning when it is capitalized
+- An [irreversible binomial](https://en.wikipedia.org/wiki/Irreversible_binomial) is a pair of words that is usually only heard one way and not the other (e.g. mac and cheese)
+
+### Thu May 6
+- [IKEA has all of their catalogs, starting in 1950, available online](https://ikeamuseum.com/sv/ikea-kataloger/)
+
+### Wed May 5
+- The [Onion Futures Act](https://en.wikipedia.org/wiki/Onion_Futures_Act) is a United States law banning the trading of futures contracts on onions as well as "motion picture box office receipts".
+  - I had actually heard of this before but was reminded of it when I learned about the [decorative gourd futures guy](https://www.reddit.com/r/wallstreetbets/comments/kzoh1c/i_am_financially_ruined_agricultural_futures/)
+
+### Tue May 4
+- The [Anti-PowerPoint Party](https://en.wikipedia.org/wiki/Anti-PowerPoint_Party) is a Swiss political party dedicated to decreasing professional use of Microsoft PowerPoint, which the party claims "causes national-economic damage amounting to 2.1 billion CHF" and lowers the quality of a presentation in "95% of the cases"
+
+### Mon May 3
+- [Mathpix Snip](https://mathpix.com/) is a program/add-on that will extract the raw TeX for a screenshot of rendered TeX!
+
+### Sun May 2
+- [The Linux Documentation Project](https://tldp.org/docs.html)
+
+### Sat May 1
+- ["The Most Wanted Paintings"](https://awp.diaart.org/km/index.html) are a series of paintings created based on people's responses to a survey about what they would most like to see in a painting, by Vitaly Komar and Alex Melamid.
+  - [They also did they same thing for songs](https://en.wikipedia.org/wiki/The_Most_Unwanted_Song)
 
 ## April 2021
+
+### Fri Apr 30
+- The [Josh fight](https://en.wikipedia.org/wiki/Josh_fight) was a viral internet meme, mock fight, and charity fundraiser at Air Park in Lincoln, Nebraska, on April 24, 2021. The event was originally conceived by a civil engineering student named Josh Swain from Tucson, Arizona on April 24, 2020. Swain encouraged participants of the chat to meet at a set of coordinates and compete for the right to use the name Josh. The event, though initially intended as a joke, drew a crowd of nearly a thousand on the day of the event. Despite the title, the gathering was lighthearted and there was no actual violence involved.
+
+### Thu Apr 29
+- [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
+- A [jobsworth](https://en.wikipedia.org/wiki/Jobsworth) is a person who uses the (typically minor) authority of their job in a deliberately uncooperative way, or who seemingly delights in acting in an obstructive or unhelpful manner. It characterizes one who upholds petty rules even at the expense of effectiveness or efficiency.
+
+### Wed Apr 28
+- The [space cadet keyboard](https://en.wikipedia.org/wiki/Space-cadet_keyboard) is more than just a set of popular keycaps
+  - [Knight keyboard](https://en.wikipedia.org/wiki/Knight_keyboard)
+  - [Lisp machine](https://en.wikipedia.org/wiki/Lisp_machine)
+- A [bucky bit](https://en.wikipedia.org/wiki/Bucky_bit) is a bit in the binary representation of a character that it set by pressing a modifier key
+
+### Tue Apr 27
+- [Project X Haren](https://en.wikipedia.org/wiki/Project_X_Haren) was an event that started out as a public invitation to a birthday party by a girl on Facebook, but ended up as a gathering of thousands of youths causing riots
+
+### Mon Apr 26
+- [Alcohol and Drug Abuse Lake](https://en.wikipedia.org/wiki/Alcohol_and_Drug_Abuse_Lake) is a reservoir in Richland County, South Carolina, United States. The lake was likely named after a place called Morris Village, a nearby residential treatment center for people with substance dependence.
 
 ### Sun Apr 25
 - ["Embrace, extend, extinguish"](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish) is a phrase that was used internally by Microsoft to describe its strategy for entering product categories involving widely used standards, extending those standards with proprietary capabilities, and then using those differences in order to strongly disadvantage its competitors.
