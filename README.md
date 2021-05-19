@@ -1,6 +1,45 @@
 # Today I Learned
 
+
 ## May 2021
+
+### Sun May 16
+- A [numbers station](https://en.wikipedia.org/wiki/Numbers_station) is a radio station that just broadcasts a bunch of formatted numbers. They're believed to be use to communicate with intelligence officers, although they could also be used as a distraction to tie people up in trying to "decode" meaningless sequences.
+
+### Sat May 15
+- A [tepui](https://en.wikipedia.org/wiki/Tepui) is a table-top mountain or mesa found in the Guiana Highlands of South America, especially in Venezuela and western Guyana.
+
+### Fri May 14
+- [Sōkaiya](https://en.wikipedia.org/wiki/S%C5%8Dkaiya) are specialized racketeers unique to Japan, and often associated with the yakuza, who extort money from or blackmail companies by threatening to publicly humiliate companies and their management, usually in their annual meeting (総会, sōkai).
+
+### Thu May 13
+- [There are two main ways to say 'tea' in different languages](https://en.wikipedia.org/wiki/Etymology_of_tea). They both come from the same character, but are prounounced different ways:
+  - 'Te': From Min, so that country was introduced to tea from Dutch merchants that sailed from China
+  - 'Cha': From Mandarin and Cantonese, so that country was introduced to tea from the Silk Road/land
+
+### Wed May 12
+- [Rebracketing](https://en.wikipedia.org/wiki/Rebracketing) is a process in historical linguistics where a word originally derived from one source is broken down or bracketed into a different set of factors. E.g.:
+  - apron: Middle English a napron taken for an apron
+  - lone: Middle English al one (all one) taken for a-lone
+  - nickname: Middle English an eke name ("an additional name") taken for a neke name
+
+### Tue May 11
+- What we normally think of as jellyfish is just [one part of a jellyfish's life cycle](https://en.wikipedia.org/wiki/Jellyfish#/media/File:Schleiden-meduse-2.jpg)
+  - [One specific species of jellyfish](https://en.wikipedia.org/wiki/Turritopsis_dohrnii) can just keep going through its life cycle over and over by rerverting to a polyp, so they're basically immortal.
+  - Jellyfish can reproduce both sexually and asexually (basically by cloning themselves)
+  - Some jellyfish can grow over 10ft in length
+  - [Jellyfish are mostly water, tentacles, and a digestive system](https://www.youtube.com/watch?v=9z8ujpPgUjI)
+- [Submechanophobia](https://en.wikipedia.org/wiki/Submechanophobia) is the fear of submerged man-made objects
+
+### Mon May 10
+- [Timothy Dexter](https://en.wikipedia.org/wiki/Timothy_Dexter) was an American businessman noted for his writing and eccentricity.
+  - At the end of the American Revolutionary War, he bought large amounts of depreciated Continental currency that was worthless at the time. At war's end, the U.S. government made good on its notes at one percent of face value, while Massachusetts paid its own notes at par. His arbitrage enabled him to amass a considerable profit.
+  - He was advised to send bed warmers—used to heat beds in the cold New England winters—for resale in the West Indies, a tropical area. This advice was a deliberate ploy by rivals to bankrupt him. His ship's captain sold them as ladles to the local molasses industry and made a handsome profit.
+  - Next, Dexter sent wool mittens to the same place, where Asian merchants bought them for export to Siberia.
+  - People jokingly told him to "ship coal to Newcastle". Fortuitously, he did so during a Newcastle miners' strike, and his cargo was sold at a premium.
+  - On another occasion, practical jokers told him he could make money by shipping gloves to the South Sea Islands. His ships arrived there in time to sell the gloves to Portuguese boats on their way to China.
+- [Rabbit-skin glue](https://en.wikipedia.org/wiki/Rabbit-skin_glue) is a thing, usually used in older paintings/art.
+  - [Sizing](https://en.wikipedia.org/wiki/Sizing) is a substance that is applied to, or incorporated into, other materials—especially papers and textiles—to act as a protective filler or glaze.
 
 ### Sun May 9
 - [Hobby tunneling](https://en.wikipedia.org/wiki/Hobby_tunneling) is tunnel construction as a diversion.
