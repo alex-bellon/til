@@ -3,6 +3,25 @@
 
 ## May 2021
 
+### Sun May 23
+
+### Sat May 22
+- The US spans 6 time zones, Hawaii and Alaska are each in their own (in terms of states)
+- **Licit**: not forbidden; lawful
+  - I've obviously heard 'illicit' before but never considered the fact that the opposite word would exist
+
+### Fri May 21
+
+### Thu May 20
+
+### Wed May 19
+- CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart
+- Luis von Ahn, the inventor of CAPTCHA, also founded Duolingo
+
+### Tue May 18
+
+### Mon May 17
+
 ### Sun May 16
 - A [numbers station](https://en.wikipedia.org/wiki/Numbers_station) is a radio station that just broadcasts a bunch of formatted numbers. They're believed to be use to communicate with intelligence officers, although they could also be used as a distraction to tie people up in trying to "decode" meaningless sequences.
 
