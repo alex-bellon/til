@@ -1,6 +1,5 @@
 # Today I Learned
 
-
 ## May 2021
 
 ### Sun May 16
