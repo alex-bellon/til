@@ -1,8 +1,10 @@
 # Today I Learned
 
+
 ## May 2021
 
 ### Sun May 23
+- [NIST has a library of all mathematical functions](https://dlmf.nist.gov/idx/)
 
 ### Sat May 22
 - The US spans 6 time zones, Hawaii and Alaska are each in their own (in terms of states)
@@ -10,16 +12,20 @@
   - I've obviously heard 'illicit' before but never considered the fact that the opposite word would exist
 
 ### Fri May 21
+- [Rokus can be controlled with HTTP requests](https://developer.roku.com/docs/developer-program/debugging/external-control-api.md)
 
 ### Thu May 20
+- A [jail tree](https://en.wikipedia.org/wiki/Jail_tree) is a tree used to chain a person up to
 
 ### Wed May 19
 - CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart
 - Luis von Ahn, the inventor of CAPTCHA, also founded Duolingo
 
 ### Tue May 18
+- [Verbal arithmetic](https://en.wikipedia.org/wiki/Verbal_arithmetic) is a type of mathematical game consisting of a mathematical equation among unknown numbers, whose digits are represented by letters of the alphabet. The goal is to identify the value of each letter. The name can be extended to puzzles that use non-alphabetic symbols instead of letters.
 
 ### Mon May 17
+- **Psychiatrists** are trained medical doctors, they can prescribe medications, and they spend much of their time with patients on medication management as a course of treatment. **Psychologists** focus extensively on psychotherapy and treating emotional and mental suffering in patients with behavioral intervention.
 
 ### Sun May 16
 - A [numbers station](https://en.wikipedia.org/wiki/Numbers_station) is a radio station that just broadcasts a bunch of formatted numbers. They're believed to be use to communicate with intelligence officers, although they could also be used as a distraction to tie people up in trying to "decode" meaningless sequences.
