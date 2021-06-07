@@ -1,7 +1,64 @@
 # Today I Learned
 
+## June 2021
+
+### Sun Jun 6
+- The first Costco (kind of, it wasn't originally called Costco but was turned into a Costco after a merger) opened in 1976 in San Diego
+
+### Sat Jun 5
+- There's an article about [Hitler's vegetarianism](https://en.wikipedia.org/wiki/Adolf_Hitler_and_vegetarianism). Also one about [animal welfare in Nazi Germany](https://en.wikipedia.org/wiki/Animal_welfare_in_Nazi_Germany)
+- [Reducto ad Hitlerum](https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum) also known as playing the Nazi card, is an attempt to invalidate someone else's position on the basis that the same view was held by Adolf Hitler or the Nazi Party.
+
+### Fri Jun 4
+- An [embarrassingly parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel) problem is a problem where it takes little effort to parallelize it.
+
+### Thu Jun 3
+- Zootopia is called "Zootropolis" in Europe because there was already a Zoo in Denmark that had trademarked the name "Zootopia"
+
+### Wed Jun 2
+- **Copyright** - Original works of authorship, such as books, articles, songs, photographs, sculptures, choreography, sound recordings, motion pictures, and other works. Lasts for 70 years past the author's lifetime.
+- **Patent** - Inventions, such as processes, machines, manufactures, compositions of matter as well as improvements to these. Lasts 20 years.
+- **Trademark** - Any word, phrase, symbol, and/or design that identifies and distinguishes the source of the goods of one party from those of others. Lasts for as long as the mark is used in commerce.
+
+### Tue Jun 1
+- [Scaly boy](https://en.wikipedia.org/wiki/Scaly_boy)!
 
 ## May 2021
+
+### Mon May 31
+- [There are a lot of landlocked countries that have navies](https://en.wikipedia.org/wiki/Navies_of_landlocked_countries)
+
+### Sun May 30
+- I realized that obviously civil engineers spend a lot of time thinking about how to design road barriers, but [this video](https://www.youtube.com/watch?v=w6CKltZfToY) had a lot of interesting information about it
+
+### Sat May 29
+- [Water jousting](https://en.wikipedia.org/wiki/Water_jousting) is a sport.
+
+### Fri May 28
+- [Leave the gate as you found it](https://en.wikipedia.org/wiki/Leave_the_gate_as_you_found_it) is a rule in countryside areas throughout the world. If a gate is found open, it should be left open, and if it is closed, it should be left closed. If a closed gate absolutely must be traversed, it should be closed again afterwards. Leaving a closed gate open can lead to animals escaping or unwanted mingling. Leaving an open gate closed can prevent livestock from accessing water or other resources.
+- [The Country Code](https://en.wikipedia.org/wiki/The_Country_Code) are a set of rules for rural areas in the UK
+
+### Thu May 27
+- [Egg of Columbus](https://en.wikipedia.org/wiki/Egg_of_Columbus) refers to a brilliant idea that seems obvious after the fact. The expression refers to an apocryphal story, dating from at least the 16th century, in which it is said that Christopher Columbus, having been told that finding a new trade route was inevitable and no great accomplishment, challenges his critics to make an egg stand on its tip. After his challengers give up, Columbus does it himself by tapping the egg on the table to flatten its tip.
+
+### Wed May 26
+- [US v. Vampire Nation](https://en.wikipedia.org/wiki/United_States_v._Vampire_Nation) has little to do with actual vampires; the defendant filed the appeal under that name as it was the name of his electronic music group (consisting of only himself).
+
+### Tue May 25
+- [Wattle and daub](https://en.wikipedia.org/wiki/Wattle_and_daub) is a composite building method used for making walls and buildings, in which a woven lattice of wooden strips called wattle is daubed with a sticky material usually made of some combination of wet soil, clay, sand, animal dung and straw.
+
+### Mon May 24
+- The main LaTeX document classes:
+  - **article** -	For articles in scientific journals, presentations, short reports, program documentation, invitations, ...
+  - **IEEEtran** - For articles with the IEEE Transactions format.
+  - **proc** -	A class for proceedings based on the article class.
+  - **minimal** -	It is as small as it can get. It only sets a page size and a base font. It is mainly used for debugging purposes.
+  - **report** -	For longer reports containing several chapters, small books, thesis, ...
+  - **book** -	For books.
+  - **slides** -	For slides. The class uses big sans serif letters.
+  - **memoir** -	For changing sensibly the output of the document. It is based on the book class, but you can create any kind of document with it [1]
+  - **letter** -	For writing letters.
+  - **beamer** -	For writing presentations (see LaTeX/Presentations).
 
 ### Sun May 23
 - [NIST has a library of all mathematical functions](https://dlmf.nist.gov/idx/)
