@@ -1,6 +1,54 @@
 # Today I Learned
 
+
 ## June 2021
+
+### Sun Jun 20
+- Worcestershire sauce is not vegetarian as it is made with anchovies
+
+### Sat Jun 19
+- [Tumulus](https://en.wikipedia.org/wiki/Tumulus) is a mound of earth and stones raised over a grave or graves. Tumuli are also known as barrows, burial mounds or kurgans, and may be found throughout much of the world.
+- A [cairn](https://en.wikipedia.org/wiki/Cairn) is a pile of stacked stones
+
+### Fri Jun 18
+- The [Odagiri affect](https://en.wikipedia.org/wiki/Odagiri_effect) is a television phenomenon in which a program attracts a larger than expected number of women viewers because the program stars attractive male actors or characters.
+
+### Thu Jun 17
+- [Baseball metaphors for sex](https://en.wikipedia.org/wiki/Baseball_metaphors_for_sex)
+  - There's definitely more than I was aware of
+
+### Wed Jun 16
+- A [minced oath](https://en.wikipedia.org/wiki/Minced_oath) is an expression used to replace a profane phrase that uses misspelling or mispronouncing to avoid saying the actual phrase.
+  - E.g. "beyotch", "cheese and rice"
+- [Different branches of Quakerism](https://quakerinfo.org/quakerism/branches/today)
+
+### Tue Jun 15
+- Scotch whisky is always spelled without an e, while Irish whiskey is always spelled with an e.
+
+### Mon Jun 14
+- [The Salmon Act 1986](https://en.wikipedia.org/wiki/Salmon_Act_1986) is an act of Parliament which outlines the difference between legal and illegal salmon fishery, among other things. The Act also makes it illegal to "handle salmon in suspicious circumstances".
+
+### Sun Jun 13
+- [License plates in Canada's Northwest Territories are shaped like polar bears](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_Northwest_Territories)
+
+### Sat Jun 12
+- To toggle a specific key through the command line (like Caps Lock) : `xdotool key Caps_Lock`
+
+### Fri Jun 11
+- [During the Rwandan genocide, Tusti women were deliberately infected with HIV to try to forcefully control the population](https://en.wikipedia.org/wiki/Rape_during_the_Rwandan_genocide)
+
+### Thu Jun 10
+- Cows don't convert grass directly into protein, they have bacteria living in their stomachs that eat the grass and die, which the cow then digests into protein
+
+### Wed Jun 9
+- [Canoe sprint](https://en.wikipedia.org/wiki/Canoe_sprint) is a sport in which athletes race canoes or kayaks on calm water. In some of the races the racers are in a kneeling position in the boat.
+
+### Tue Jun 8
+- **Wax lyrical** - talk in a highly enthusiastic and effusive way
+
+### Mon Jun 7
+- ![](https://i.redd.it/ojel325xoxb61.png)
+  - Meanings of MicroSD markings
 
 ### Sun Jun 6
 - The first Costco (kind of, it wasn't originally called Costco but was turned into a Costco after a merger) opened in 1976 in San Diego
