@@ -1,7 +1,33 @@
 # Today I Learned
 
-
 ## June 2021
+
+### Sun Jun 27
+- There's a [giraffe chess piece](https://en.wikipedia.org/wiki/Giraffe_(chess)) in (variant) chess
+
+### Sat Jun 26
+- Macedonia was renamed North Macedonia in 2019
+  - [Macedonia naming dispute](https://en.wikipedia.org/wiki/Macedonia_naming_dispute)
+- [Agent 355](https://en.wikipedia.org/wiki/Agent_355) was the code name of a female spy during the American Revolution, part of the Culper Ring. Agent 355 was one of the first spies for the United States, but her real identity is unknown.
+
+### Fri Jun 25
+- The [dining cryptographers problem](https://en.wikipedia.org/wiki/Dining_cryptographers_problem) studies how to perform a secure multi-party computation of the boolean-OR function.
+
+### Thu Jun 24
+- Specifics about Judaism's milk and meat laws:
+  - [The classical rabbis expressed the opinion that each of the food rules could be waived if the portion of food violating the regulations was less than a certain size, known as a shiur (Hebrew: size, שיעור), unless it was still possible to taste or smell it; for the milk and meat regulations, this minimal size was a ke'zayit (כזית), literally meaning anything "similar to an olive" in size. However, the shiur is merely the minimum amount that leads to formal punishment in the classical era, but even half a shiur is prohibited by the Torah.](https://en.wikipedia.org/wiki/Milk_and_meat_in_Jewish_law#Minuscule_quantities)
+
+### Wed Jun 23
+- **Inchoate** - being only partly in existence or operation
+
+### Tue Jun 22
+- [Gropecunt Lane](https://en.wikipedia.org/wiki/Gropecunt_Lane) is a street found in English towns and cities during the Middle Ages, believed to be a reference to the prostitution centred on those areas; it was normal practice for a medieval street name to reflect the street's function or the economic activity taking place within it.
+- [Place names considered unusual](https://en.wikipedia.org/wiki/Place_names_considered_unusual)
+  - [Fucking, Upper Austria](https://en.wikipedia.org/wiki/Fugging,_Upper_Austria) recently (Jan 2021) changed its name to Fugging
+  - There's also [Fugging, Lower Austria](https://en.wikipedia.org/wiki/Fugging,_Lower_Austria)
+
+### Mon Jun 21
+- [Expurgation](https://en.wikipedia.org/wiki/Expurgation) also known as bowdlerization, is a form of censorship that involves purging anything deemed noxious or offensive from an artistic work, or other type of writing of media.
 
 ### Sun Jun 20
 - Worcestershire sauce is not vegetarian as it is made with anchovies
