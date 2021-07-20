@@ -3,8 +3,10 @@
 ## July 2021
 
 ### Sun Jul 18
+- The [Four Pests campaign](https://en.wikipedia.org/wiki/Four_Pests_campaign) was one of the first actions taken in the Great Leap Forward in China from 1958 to 1962. The four pests to be eliminated were rats, flies, mosquitoes, and sparrows. The extermination of sparrows is also known as smash sparrows campaign or eliminate sparrows campaign which resulted in severe ecological imbalance, being one of the causes of the Great Chinese Famine. In 1960, Mao Zedong ended the campaign against sparrows and redirected the fourth focus to bed bugs.
 
 ### Sat Jul 17
+- The [Matilda effect](https://en.wikipedia.org/wiki/Matilda_effect) is a bias against acknowledging the achievements of those women scientists whose work is attributed to their male colleagues.
 
 ### Fri Jul 16
 - [Temporary gentlemen (sometimes abbreviated to TG) is a colloquial term referring to officers of the British Army who held temporary (or war-duration) commissions, particularly when such men came from outside the traditional "officer class".](https://en.wikipedia.org/wiki/Temporary_gentlemen)
@@ -13,9 +15,11 @@
 - Jack Black's mother, [Judith Love Cohen](https://en.wikipedia.org/wiki/Judith_Love_Cohen), worked at NASA on the Hubble Space Telescope and the Apollo Space Program
 
 ### Wed Jul 14
+- The [Revenge dress](https://en.wikipedia.org/wiki/Revenge_dress) is a dress once worn by Diana, Princess of Wales. The dress has been interpreted as having been worn "in revenge" for the televised admission of adultery by her husband, Charles, Prince of Wales.
 
 ### Tue Jul 13
 - Swaziland was officially renamed Eswatini in 2018
+- A [memory law](https://en.wikipedia.org/wiki/Memory_laws) is a legal provision governing the interpretation of a historical event and showcases the legislator's or judicial preference for a certain narrative about the past. In the process, competing interpretations may be downplayed, sidelined, or even prohibited.
 
 ### Mon Jul 12
 - [Ladybugs start out as caterpillar-looking larvae](https://en.wikipedia.org/wiki/Coccinellidae)
@@ -738,7 +742,7 @@
   - A famous examples is the [World Passport](https://en.wikipedia.org/wiki/World_Passport)
 
 -----
-INTERMISSION - WINTER RBEAK
+INTERMISSION - WINTER BREAK
 -----
 
 ## December 2020
