@@ -1,6 +1,72 @@
 # Today I Learned
 
+## July 2021
+
+### Sun Jul 18
+
+### Sat Jul 17
+
+### Fri Jul 16
+- [Temporary gentlemen (sometimes abbreviated to TG) is a colloquial term referring to officers of the British Army who held temporary (or war-duration) commissions, particularly when such men came from outside the traditional "officer class".](https://en.wikipedia.org/wiki/Temporary_gentlemen)
+
+### Thu Jul 15
+- Jack Black's mother, [Judith Love Cohen](https://en.wikipedia.org/wiki/Judith_Love_Cohen), worked at NASA on the Hubble Space Telescope and the Apollo Space Program
+
+### Wed Jul 14
+
+### Tue Jul 13
+- Swaziland was officially renamed Eswatini in 2018
+
+### Mon Jul 12
+- [Ladybugs start out as caterpillar-looking larvae](https://en.wikipedia.org/wiki/Coccinellidae)
+
+### Sun Jul 11
+- [Wabi-sabi](https://en.wikipedia.org/wiki/Wabi-sabi) is a world view centered on the acceptance of transience and imperfection. The aesthetic is sometimes described as one of appreciating beauty that is "imperfect, impermanent, and incomplete" in nature.
+
+### Sat Jul 10
+- [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) is the collective pseudonym of a group of mathematicians, predominantly French alumni of the École normale supérieure (ENS). Founded in 1934–1935, the Bourbaki group originally intended to prepare a new textbook in analysis. Over time the project became much more ambitious, growing into a large series of textbooks published under the Bourbaki name, meant to treat modern pure mathematics. The series is known collectively as the Éléments de mathématique (Elements of Mathematics), the group's central work. Topics treated in the series include set theory, abstract algebra, topology, analysis, Lie groups and Lie algebras.
+
+### Fri Jul 9
+- Wagyu beef refers to any cattle that is bred in Japan or the Hapanese style. Kobe beef is actually from the specific Kobe region in Japan (and is therefore a type of wagyu).
+- There are 423 national park sites, 63 of which are actual National Parks
+
+### Thu Jul 8
+- **[Scrump](https://en.wiktionary.org/wiki/scrump)** - To steal fruit, especially apples, from a garden or orchard
+- Rapunzel is actually named after the [rapunzel plant](https://en.wikipedia.org/wiki/Campanula_rapunculus)
+
+### Wed Jul 7
+- Coconut water is the actual liquid contained inside the coconut. Coconut milk comes from the grated pulp of coconuts.
+
+### Tue Jul 6
+- The way that flux works for soldering is that it cleans the PCB/contacts/etc from any oxides and impurities. It also protects metal surfaces from re-oxidizing during soldering.
+
+### Mon Jul 5
+- **Plint** - a panel between floor and interior wall; a skirting board or baseboard
+
+### Sun Jul 4
+- [Steven Seagal's Wikipedia page is just an interesting read in general](https://en.wikipedia.org/wiki/Steven_Seagal)
+
+### Sat Jul 3
+- **Screed**: a long speech or piece of writing, typically one regarded as tedious.
+
+### Fri Jul 2
+- **[Fennoscandia](https://en.wikipedia.org/wiki/Fennoscandia)** is (roughly) Finland, Norway and Sweden
+- **[Scandinavia](https://en.wikipedia.org/wiki/Scandinavia)** is Denmark, Norway and Sweden, and sometimes the Åland Islands, the Faroe Islands, Finland, and Iceland.
+- The **[Scandanavian Peninsula](https://en.wikipedia.org/wiki/Scandinavian_Peninsula)** is the mainland of Sweden, the mainland of Norway, the northwestern area of Finland, and a sliver of Northwest Russia.
+
+### Thu Jul 1
+- [Viviparity](https://en.wikipedia.org/wiki/Viviparity) is development of the embryo inside the body of the parent. This is opposed to oviparity which is a reproductive mode in which females lay developing eggs that complete their development and hatch externally from the mother.
+
 ## June 2021
+
+### Wed Jun 30
+- [SignWriting](https://en.wikipedia.org/wiki/SignWriting) is a system of written Sign Language
+
+### Tue Jun 29
+- The [Democracy Wall](https://en.wikipedia.org/wiki/Democracy_Wall) was a long brick wall of Xidan Street, Xicheng District of Beijing, where thousands of people put up posters to protest about the political and social issues of China.
+
+### Mon Jun 28
+- The [Clipper chip](https://en.wikipedia.org/wiki/Clipper_chip) was a hardware chip developed by the NSA that had a built in backdoor intended for government use. It was introduced in 1993 and completely defunct by 1996. Shocker.
 
 ### Sun Jun 27
 - There's a [giraffe chess piece](https://en.wikipedia.org/wiki/Giraffe_(chess)) in (variant) chess
