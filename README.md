@@ -1,6 +1,101 @@
 # Today I Learned
 
+
+## August 2021
+
+### Sun Aug 8
+- [Apple owns CUPS](https://lwn.net/Articles/242020/)
+- YOU CAN PRINT DIRECTLY FROM NETCAT: `nc <printer ip> 9100 < print.pdf`
+
+### Sun Aug 7
+- Yarmulke is Yiddish, Kippah is Hebrew
+- [Following the assassination of his close friend Moritz Schlick, Kurt Gödel had an obsessive fear of being poisoned; he would eat only food that his wife, Adele, prepared for him. Late in 1977, she was hospitalized for six months and could subsequently no longer prepare her husband's food. In her absence, he refused to eat, eventually starving to death. He weighed 65 lb when he died.](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del#Later_life_and_death)
+
+### Fri Aug 6
+- [Nothern Ireland doesn't have its own official flag](https://en.wikipedia.org/wiki/Flag_of_Northern_Ireland)
+- [Capitol Hill's mystery soda machine](https://en.wikipedia.org/wiki/Capitol_Hill%27s_mystery_soda_machine) was a Coke vending machine in Capitol Hill, Seattle, that was in operation since at least the early 1990s until its disappearance in 2018. n June 2018, the machine mysteriously disappeared and a message was posted to the machine's Facebook page stating "Going for a walk, need to find myself. Maybe take a shower even." A note was taped to the rail where the machine used to be: "Went for a walk".
+
+### Thu Aug 5
+- **Upbraid**: to scold
+- [Microsoft acquisition hoax](https://en.wikipedia.org/wiki/Microsoft_acquisition_hoax) is a bogus 1994 press release suggesting that the information technology company Microsoft had acquired the Roman Catholic Church. It is considered to be the first Internet hoax to reach a mass audience.
+
+### Wed Aug 4
+- [Judeo-Spanish (also called Ladino)](https://en.wikipedia.org/wiki/Judaeo-Spanish) is a Romance language derived from Old Spanish. Originally spoken in Spain, it is today spoken mainly by Sephardic minorities in more than 30 countries, with most of the surviving speakers residing in Israel
+- [Drunk Tank Pink](https://en.wikipedia.org/wiki/Baker-Miller_pink) is a tone of pink which has been observed to reduce hostile, violent or aggressive behavior
+
+### Tue Aug 3
+- [`sfc`](https://en.wikipedia.org/wiki/System_File_Checker) is a utility in Microsoft Windows that allows users to scan for and restore corruptions in Windows system files
+- [`dism`](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/dism---deployment-image-servicing-and-management-technical-reference-for-windows) is a command-line tool that is used to mount and service Windows images before deployment
+
+### Mon Aug 2
+- [Ambulance chasing, or barratry](https://en.wikipedia.org/wiki/Ambulance_chasing) is a term which refers to a lawyer soliciting for clients at a disaster site. The term "ambulance chasing" comes from the stereotype of lawyers who follow ambulances to the emergency room to find clients.
+- [Sword and planet](https://en.wikipedia.org/wiki/Sword_and_planet) is a subgenre of science fantasy that features rousing adventure stories set on other planets, and usually featuring humans as protagonists. The name derives from the heroes of the genre engaging their adversaries in hand-to-hand combat primarily with simple melée weapons such as swords, even in a setting that often has advanced technology.
+
+### Sun Aug 1
+- GmbH stands for Gesellschaft mit beschränkter Haftung, i.e. company with limited liability
+- The [yips](https://en.wikipedia.org/wiki/Yips) are a sudden and unexplained loss of ability to execute certain skills in experienced athletes. Symptoms of the yips are losing fine motor skills and psychological issues that impact on the muscle memory and decision-making of athletes, leaving them unable to perform basic skills of their sport.
+
 ## July 2021
+
+### Sat Jul 31
+- [Goat tower](https://en.wikipedia.org/wiki/Goat_tower) is a multi-story decorative goat house, modeled on a European garden folly, an early example of which was built in Portugal in the 19th century.
+
+### Fri Jul 30
+- There are negative rings in the computer [architecture ring model](https://en.wikipedia.org/wiki/Protection_ring), usually used by hypervisors
+- [Yu-Mex](https://en.wikipedia.org/wiki/Yu-Mex) was a style of popular music in the Socialist Federal Republic of Yugoslavia which incorporated the elements of traditional Mexican music. The style was mostly popular during the 1950s and 60s, when a string of Yugoslav singers began to perform traditional Mexican songs.
+
+### Thu Jul 29
+- [The United States pays rent for Guantanamo Bay, but Cuba has never cashed the check](https://en.wikipedia.org/wiki/Guant%C3%A1namo_Bay#History)
+
+### Wed Jul 28
+- An [epigram](https://en.wikipedia.org/wiki/Epigram) is a brief, interesting, memorable, and sometimes surprising or satirical statement.
+
+### Tue Jul 27
+- The plane that takes horses to the Olympics and the Kentucky Derby is called [Air Horse One](https://www.cnet.com/pictures/air-horse-one-photos/3/)
+
+### Mon Jul 26
+- [Anti-Barney humor](https://en.wikipedia.org/wiki/Anti-Barney_humor)
+- A [Veterstrikdiploma](https://en.wikipedia.org/wiki/Veterstrikdiploma) is a diploma which children between 5 and 6 years can get in the Netherlands and Belgium after they manage to tie their shoelaces by themselves. Veterstrikdiploma is sometimes used as a derogatory term for a diploma or degree which is deemed worthless
+
+### Sun Jul 25
+- Dried peppers have different names than the fresh pepper
+  - E.g. chipotle peppers are just dried jalapeno peppers
+
+### Sat Jul 24
+- The [Public Universal Friend](https://en.wikipedia.org/wiki/Public_Universal_Friend) was an American preacher born in Cumberland, Rhode Island, to Quaker parents. After suffering a severe illness in 1776, the Friend claimed to have died and been reanimated as a genderless evangelist named the Public Universal Friend, and afterward shunned both birth name and gendered pronouns.
+
+### Fri Jul 23
+- [IKEA's naming scheme has different themes for each type of item:](https://www.mentalfloss.com/article/616419/how-ikea-names-its-products)
+  - Bathroom articles = Names of Swedish lakes and bodies of water
+  - Bed textiles = Flowers and plants
+  - Beds, wardrobes, hall furniture = Norwegian place names
+  - Bookcases = Professions, Scandinavian boy’s names
+  - Bowls, vases, candles and candle holders = Swedish place names, adjectives, spices, herbs, fruits and berries
+  - Boxes, wall decoration, pictures and frames, clocks = Swedish slang expressions, Swedish place names
+  - Children’s products = Mammals, birds, adjectives
+  - Desks, chairs and swivel chairs = Scandinavian boy’s names
+  - Fabrics, curtains = Scandinavian girl’s names
+  - Garden furniture = Scandinavian islands
+  - Kitchen accessories = Fish, mushrooms and adjectives
+  - Lighting = Units of measurement, seasons, months, days, shipping and nautical terms, Swedish place names
+  - Rugs = Danish place names
+  - Sofas, armchairs, chairs and dining tables = Swedish place names
+
+### Thu Jul 22
+- [Tarriff engineering](https://en.wikipedia.org/wiki/Tariff_engineering) refers to design and manufacturing decisions made primarily so that the manufactured good is classified at a lower rate than it would have been absent those decisions. It is a loophole whereby an importer pays a lower tariff by "adapting the item [being imported] so that [the importer doesn't] have to pay any levy".
+  - Columbia Sportswear uses so called "Nurse's Pockets", or small pockets near the waist line, on many of its women's shirt, including the PFG Tamiami, because women's shirts with pockets below the waistline are levied a lower import tariff than shirts without such pockets.
+
+### Wed Jul 21
+- Barcodes have different encodings for the right and left side so that they can be scanned correctly whether they are upside down or not
+
+### Tue Jul 20
+- **Tamper evident** - provide clear proof that a product has been accessed or altered by someone other than the end user
+- **Tamper resistant** - deters tampering but does not necessarily leave indicate obvious signs of tampering if such has taken place
+- **Tamper proof** - also known as security labels or tamper-fast labels, are generally waterproof, cannot be peeled off in cold or wet conditions, and often use a holographic design in addition to destructible technology
+
+### Mon Jul 19
+- Horses use leg wraps to protect them from bumps and to support their tendon and ligaments
+- [Pastel QAnon](https://en.wikipedia.org/wiki/Pastel_QAnon) is a collection of techniques and strategies of using feminine-coded aesthetics to indoctrinate predominantly women into the QAnon conspiracy theory
 
 ### Sun Jul 18
 - The [Four Pests campaign](https://en.wikipedia.org/wiki/Four_Pests_campaign) was one of the first actions taken in the Great Leap Forward in China from 1958 to 1962. The four pests to be eliminated were rats, flies, mosquitoes, and sparrows. The extermination of sparrows is also known as smash sparrows campaign or eliminate sparrows campaign which resulted in severe ecological imbalance, being one of the causes of the Great Chinese Famine. In 1960, Mao Zedong ended the campaign against sparrows and redirected the fourth focus to bed bugs.
