@@ -1,13 +1,56 @@
 # Today I Learned
 
-
 ## August 2021
+
+### Sun Aug 22
+- [The Wizard of New Zealand is a New Zealand educator, comedian, magician and politician](https://en.wikipedia.org/wiki/The_Wizard_of_New_Zealand)
+
+### Sat Aug 21
+- [Gef, also referred to as the Talking Mongoose or the Dalby Spook, was the name given to an allegedly talking mongoose which was claimed to inhabit a farmhouse owned by the Irving family. The Irvings' farm was located at Cashen's Gap near the hamlet of Dalby on the Isle of Man](https://en.wikipedia.org/wiki/Gef)
+
+### Fri Aug 20
+- [Elevator street in Oregon is the only vertical street in the United States](https://en.wikipedia.org/wiki/Oregon_City_Municipal_Elevator)
+
+### Thu Aug 19
+- **Excoriate** - censure or criticize severely.
+
+### Wed Aug 18
+- [Frank Lentini was a Sicilian-American sideshow performer who toured with numerous circuses. Born with a parasitic twin, Lentini had three legs](https://en.wikipedia.org/wiki/Frank_Lentini)
+
+### Tue Aug 17
+- [Core rope memory](https://en.wikipedia.org/wiki/Core_rope_memory) is an old form of memory that used rope to encode ones and zeroes. It was very often programmed by female workers, so it was sometimes called LOL Memory-- little old lady memory.
+
+### Mon Aug 16
+- [The Eyes of Sibiu](https://en.wikipedia.org/wiki/Eyes_of_Sibiu) are the iconic eyebrow dormers on the roofs of Sibiu's houses. Sibiu lies in Transylvania, a historical region of Romania. The eyes, which are a symbol and a tourist attraction of the city, have given Sibiu the nicknames of The City with Eyes, The City Where Houses Don't Sleep and the portmanteau Seebiu. They vary in shape – most of them are trapezoid-shaped, others having rounded or elongated forms.
+
+### Sun Aug 15
+- [ACARS](https://en.wikipedia.org/wiki/ACARS), the protocol that planes use to communicate to ground stations, is unencrypted and can be intercepted by anyone. 
+
+### Sat Aug 14
+- [Maplewashing](https://en.wikipedia.org/wiki/Maplewashing) refers to the alleged tendency of Canadian governments, institutions, and media to perpetuate the notion that Canada is morally superior to other countries, thus sanitizing and concealing negative historical and contemporary actions.
+
+### Fri Aug 13
+- [An egg of Columbus or Columbus' egg refers to a brilliant idea or discovery that seems simple or easy after the fact. The expression refers to an apocryphal story, dating from at least the 16th century, in which it is said that Christopher Columbus, having been told that finding a new trade route was inevitable and no great accomplishment, challenges his critics to make an egg stand on its tip. After his challengers give up, Columbus does it himself by tapping the egg on the table to flatten its tip. ](https://en.wikipedia.org/wiki/Egg_of_Columbus)
+
+### Thu Aug 12
+- [Linux kernel oops!](https://en.wikipedia.org/wiki/Linux_kernel_oops)
+- [lp0 on fire](https://en.wikipedia.org/wiki/Lp0_on_fire) is an outdated error message generated on some Unix and Unix-like computer operating systems in response to certain types of printer errors.
+- [Write only memory](https://en.wikipedia.org/wiki/Write-only_memory_(joke))
+
+### Wed Aug 11
+- [Disco Demolition Night](https://en.wikipedia.org/wiki/Disco_Demolition_Night) was a Major League Baseball (MLB) promotion on Thursday, July 12, 1979, at Comiskey Park in Chicago, Illinois, that ended in a riot. At the climax of the event, a crate filled with disco records was blown up on the field between games of the twi-night doubleheader between the Chicago White Sox and the Detroit Tigers. Many of those in attendance had come to see the explosion rather than the games and rushed onto the field after the detonation. The playing field was so damaged by the explosion and by the fans that the White Sox were required to forfeit the second game to the Tigers.
+
+### Tue Aug 10
+- [The lead–crime hypothesis is the association between elevated blood lead levels in children and increased rates of crime, delinquency, and recidivism later in life.](https://en.wikipedia.org/wiki/Lead%E2%80%93crime_hypothesis)
+
+### Mon Aug 9
+- [Nijikon is the affective perception that two-dimensional anime, manga, and light novel characters are more attractive visually, physically or emotionally than people from the real world.](https://en.wikipedia.org/wiki/Nijikon)
 
 ### Sun Aug 8
 - [Apple owns CUPS](https://lwn.net/Articles/242020/)
 - YOU CAN PRINT DIRECTLY FROM NETCAT: `nc <printer ip> 9100 < print.pdf`
 
-### Sun Aug 7
+### Sat Aug 7
 - Yarmulke is Yiddish, Kippah is Hebrew
 - [Following the assassination of his close friend Moritz Schlick, Kurt Gödel had an obsessive fear of being poisoned; he would eat only food that his wife, Adele, prepared for him. Late in 1977, she was hospitalized for six months and could subsequently no longer prepare her husband's food. In her absence, he refused to eat, eventually starving to death. He weighed 65 lb when he died.](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del#Later_life_and_death)
 
