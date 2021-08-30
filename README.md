@@ -2,6 +2,31 @@
 
 ## August 2021
 
+### Sun Aug 29
+- [Hypercorrection](https://en.wikipedia.org/wiki/Hypercorrection) is non-standard use of language that results from the over-application of a perceived rule of language-usage prescription. A speaker or writer who produces a hypercorrection generally believes through a misunderstanding of such rules that the form is more "correct", standard, or otherwise preferable, often combined with a desire to appear formal or educated.
+- [Eye dialect](https://en.wikipedia.org/wiki/Eye_dialect) is the use of deliberately nonstandard spelling to emphasize how a word is being pronounced.
+
+### Sat Aug 28
+- The author of Eragon started working on the book when he was 15, and published it at 20
+
+### Fri Aug 27
+- The [evil maid attack](https://en.wikipedia.org/wiki/Evil_maid_attack) is an attack on an unattended device, in which an attacker with physical access alters it in some undetectable way so that they can later access the device, or the data on it.
+
+### Thu Aug 26
+- Difference between PGP, OpenPGP and GPG
+  - PGP is proprietary software, currently owned by Symantec. PGP supports encryption, decryption, signatures, and verification. PGP can encrypt hard drives.
+  - OpenPGP is an Internet standard, like TLS. Its specifications are outlined in several RFCs, notably RFC 4880.
+  - GnuPG, or GPG is an open source implementation of the OpenPGP standard, kind of like how OpenSSL is an implementation of TLS. GPG supports encryption, decryption, signatures, and verification. Unlike PGP however, GPG cannot encrypt hard drives.
+
+### Wed Aug 25
+- [Quantum suicide](https://en.wikipedia.org/wiki/Quantum_suicide_and_immortality) is a thought experiment in quantum mechanics and the philosophy of physics. Purportedly, it can falsify any interpretation of quantum mechanics other than the Everett many-worlds interpretation by means of a variation of the Schrödinger's cat thought experiment, from the cat's point of view. Quantum immortality refers to the subjective experience of surviving quantum suicide. This concept is sometimes conjectured to be applicable to real-world causes of death as well.
+
+### Tue Aug 24
+- [EMF files](https://en.wikipedia.org/wiki/Windows_Metafile) were Window's version of SVG files
+
+### Mon Aug 23
+- When videos are too wide for their screens and have black bars at the top and bottom, that's called [letterboxing](https://en.wikipedia.org/wiki/Letterboxing_(filming)). The opposite effect (bars on the sides) is called [pillarboxing](https://en.wikipedia.org/wiki/Pillarbox)
+
 ### Sun Aug 22
 - [The Wizard of New Zealand is a New Zealand educator, comedian, magician and politician](https://en.wikipedia.org/wiki/The_Wizard_of_New_Zealand)
 
@@ -24,7 +49,7 @@
 - [The Eyes of Sibiu](https://en.wikipedia.org/wiki/Eyes_of_Sibiu) are the iconic eyebrow dormers on the roofs of Sibiu's houses. Sibiu lies in Transylvania, a historical region of Romania. The eyes, which are a symbol and a tourist attraction of the city, have given Sibiu the nicknames of The City with Eyes, The City Where Houses Don't Sleep and the portmanteau Seebiu. They vary in shape – most of them are trapezoid-shaped, others having rounded or elongated forms.
 
 ### Sun Aug 15
-- [ACARS](https://en.wikipedia.org/wiki/ACARS), the protocol that planes use to communicate to ground stations, is unencrypted and can be intercepted by anyone. 
+- [ACARS](https://en.wikipedia.org/wiki/ACARS), the protocol that planes use to communicate to ground stations, is unencrypted and can be intercepted by anyone.
 
 ### Sat Aug 14
 - [Maplewashing](https://en.wikipedia.org/wiki/Maplewashing) refers to the alleged tendency of Canadian governments, institutions, and media to perpetuate the notion that Canada is morally superior to other countries, thus sanitizing and concealing negative historical and contemporary actions.
