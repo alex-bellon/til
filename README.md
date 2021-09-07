@@ -1,6 +1,33 @@
 # Today I Learned
 
+## September 2021
+
+### Sun Sep 5
+- The [Paraquat murders](https://en.wikipedia.org/wiki/Paraquat_murders) were a series of indiscriminate poisonings carried out in Japan in 1985. Police were unable to gather any evidence about the murders other than they were caused by a poisoned beverage that was left inside or around vending machines. All the beverages were poisoned with the herbicide paraquat except for one which was poisoned with diquat, then placed in or near the vending machine, where the victim would consume the drink, then become poisoned.
+
+### Sat Sep 4
+- **Fomenting** - instigate or stir up
+- The [Cajun Navy](https://en.wikipedia.org/wiki/Cajun_Navy) are informal ad hoc volunteer groups comprising private boat owners who assist in search and rescue efforts in the United States as well as offer Disaster Relief assistance
+
+### Fri Sep 3
+- An [infodemic](https://en.wikipedia.org/wiki/Infodemic) typically refers to a rapid and far-reaching spread of both accurate and inaccurate information about something, such as a disease.
+- **Vitiate** - spoil or impair the quality or efficiency of.
+
+### Thu Sep 2
+- [Gauss is a unit of measurement](https://en.wikipedia.org/wiki/Gauss_(unit))
+
+### Wed Sep 1
+- [Realpolitik](https://en.wikipedia.org/wiki/Realpolitik) is politics or diplomacy based primarily on considerations of given circumstances and factors, rather than explicit ideological notions or moral and ethical premises.
+- [InfoconDB](https://infocondb.org/) has information and metadata about infosec conferences
+
 ## August 2021
+
+### Tue Aug 31
+- **Suffused** - gradually spread through or over
+- [Horseshoe theory](https://en.wikipedia.org/wiki/Horseshoe_theory) asserts that the far-left and the far-right, rather than being at opposite and opposing ends of a linear political continuum, closely resemble one another, analogous to the way that the opposite ends of a horseshoe are close together
+
+### Mon Aug 30
+- [Ghidra servers are a thing](https://byte.how/posts/collaborative-reverse-engineering/#how-do-i-pull-down-a-project-from-a-ghidra-server)
 
 ### Sun Aug 29
 - [Hypercorrection](https://en.wikipedia.org/wiki/Hypercorrection) is non-standard use of language that results from the over-application of a perceived rule of language-usage prescription. A speaker or writer who produces a hypercorrection generally believes through a misunderstanding of such rules that the form is more "correct", standard, or otherwise preferable, often combined with a desire to appear formal or educated.
