@@ -2,6 +2,33 @@
 
 ## September 2021
 
+### Sun Sep 12
+- [Bat bombs](https://en.wikipedia.org/wiki/Bat_bomb) were an experimental World War II weapon developed by the United States. The bomb consisted of a bomb-shaped casing with over a thousand compartments, each containing a hibernating Mexican free-tailed bat with a small, timed incendiary bomb attached. Dropped from a bomber at dawn, the casings would deploy a parachute in mid-flight and open to release the bats, which would then disperse and roost in eaves and attics in a 20–40-mile radius (32–64 km). The incendiaries, which were set on timers, would then ignite and start fires in inaccessible places in the largely wood and paper constructions of the Japanese cities that were the weapon's intended target.
+
+### Sat Sep 11
+- [X currency](https://en.wikipedia.org/wiki/ISO_4217#X_currencies) - in addition to codes for most active national currencies ISO 4217 provides codes for "supranational" currencies, procedural purposes, and several things which are "similar to" currencies:
+  - Codes for the precious metals gold (XAU), silver (XAG), palladium (XPD), and platinum (XPT) are formed by prefixing the element's chemical symbol with the letter "X". These "currency units" are denominated as one troy ounce of the specified metal as opposed to "USD 1" or "EUR 1".
+  - The code XTS is reserved for use in testing.
+  - The code XXX is used to denote a "transaction" involving no currency.
+  - There are also codes specifying certain monetary instruments used in international finance, e.g. XDR is the symbol for special drawing right issued by the International Monetary Fund.
+  - The codes for most supranational currencies, such as the East Caribbean dollar, the CFP franc, the CFA franc BEAC and the CFA franc BCEAO. The predecessor to the euro, the European Currency Unit (ECU), had the code XEU.
+
+### Fri Sep 10
+- The [British pet massacre](https://en.wikipedia.org/wiki/British_pet_massacre) was an event in 1939 in the United Kingdom where over 750,000 pets were killed in preparation for food shortages during World War II.
+- A [ghost gun](https://en.wikipedia.org/wiki/Privately_made_firearm) is a term for a (typically) homemade firearm that lacks commercial serial numbers.
+
+### Thu Sep 9
+- [Project MKUltra](https://en.wikipedia.org/wiki/Project_MKUltra) is the code name given to a program of experiments on human subjects that were designed and undertaken by the U.S. Central Intelligence Agency (CIA), which were illegal. Experiments on humans were intended to develop procedures and identify drugs such as LSD to be used in interrogations in order to weaken the individual and force confessions through brainwashing and psychological torture.
+
+### Wed Sep 8
+- The [least publishable unit](https://en.wikipedia.org/wiki/Least_publishable_unit) is the smallest measurable quantum of publication, the minimum amount of information that can be used to generate a publication in a peer-reviewed venue, such as a journal or a conference.
+
+### Tue Sep 7
+- AES (or any other block cipher) counter mode encrypts a random nonce + counter with the encryption algorithm, and then XORs that encrypted part with the plaintext. This effectively turns the block cipher into a stream cipher
+
+### Mon Sep 6
+- **Pixilated** - crazy, confused
+
 ### Sun Sep 5
 - The [Paraquat murders](https://en.wikipedia.org/wiki/Paraquat_murders) were a series of indiscriminate poisonings carried out in Japan in 1985. Police were unable to gather any evidence about the murders other than they were caused by a poisoned beverage that was left inside or around vending machines. All the beverages were poisoned with the herbicide paraquat except for one which was poisoned with diquat, then placed in or near the vending machine, where the victim would consume the drink, then become poisoned.
 
