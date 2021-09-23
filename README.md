@@ -2,6 +2,44 @@
 
 ## September 2021
 
+### Sun Sep 19
+- [Ed's Easy Diner](https://en.wikipedia.org/wiki/Ed%27s_Easy_Diner) is a British restaurant chain that is themed liek an American 50s diner
+- American cheese is made from cheddar, Colby, or similar cheeses
+- A [chiva](https://en.wikipedia.org/wiki/Chiva_bus) is an artisan rustic bus used in rural Colombia. 
+
+### Sat Sep 18
+- [The Rainbow Series](https://en.wikipedia.org/wiki/Rainbow_Series) is a series of computer security standards and guidelines published by the United States government in the 1980s and 1990s. They were originally published by the U.S. Department of Defense Computer Security Center, and then by the National Computer Security Center.
+  - [Were all the books mentioned in Hackers real?](https://retrocomputing.stackexchange.com/questions/10997/were-any-of-the-books-mentioned-in-this-scene-from-the-movie-hackers-real)
+
+### Fri Sep 17
+- [Gunk](https://en.wikipedia.org/wiki/Gunk_(mereology)) applies to any whole whose parts all have further proper parts. That is, a gunky object is not made of indivisible atoms or simples. Because parthood is transitive, any part of gunk is itself gunk.
+- An alderman is a member of a municipal assembly or council in many jurisdictions founded upon English law.
+
+### Thu Sep 16
+- [Coop](https://en.wikipedia.org/wiki/Coop_(Switzerland)) and [Migros](https://en.wikipedia.org/wiki/Migros) are both co-ops, and Migros has some cool values:
+  - Does not sell any alcoholic beverages nor any tobacco;
+  - Does not pay any dividend;
+  - If the earnings before interest and taxes (EBIT) reaches 5% of the market value of the company, the supermarkets have to lower their prices;
+  - Organised as a cooperative (federation of regional cooperatives), with more than two million shareholders;
+  - Every adult living in Switzerland can become a member (receive a share for free) and vote at the general assembly;
+  - Uses 0.5% of its revenue to social and cultural projects.
+- The terminal command `convert` uses `-flop` for horizontal mirroring, and `-flip` for vertical
+
+### Wed Sep 15
+- [Quick bread](https://en.wikipedia.org/wiki/Quick_bread) is any bread leavened with a chemical leavening agent rather than a biological one like yeast or sourdough starter.
+- [Corn bread is a quick bread made with cornmeal](https://en.wikipedia.org/wiki/Cornbread)
+- [Pone](https://en.wikipedia.org/wiki/Pone_(food)) is a type of baked or fried bread in American cuisine, and the Cuisine of the Southern United States.
+- [Johnnycake](https://en.wikipedia.org/wiki/Johnnycake) is a cornmeal flatbread
+- [Mush](https://en.wikipedia.org/wiki/Mush_(cornmeal)) is a type of cornmeal pudding (or porridge) which is usually boiled in water or milk
+- [Hasty pudding](https://en.wikipedia.org/wiki/Hasty_pudding) is a pudding or porridge of grains cooked in milk or water.
+
+### Tue Sep 14
+- SIM stands for subscriber identity module
+- Data diodes are a thing - they only allow one way data transfer in each direction
+
+### Mon Sep 13
+- [Cubs Win Flag](https://en.wikipedia.org/wiki/Cubs_Win_Flag) is a flag that is flown from the Cubs stadium if they won their game
+
 ### Sun Sep 12
 - [Bat bombs](https://en.wikipedia.org/wiki/Bat_bomb) were an experimental World War II weapon developed by the United States. The bomb consisted of a bomb-shaped casing with over a thousand compartments, each containing a hibernating Mexican free-tailed bat with a small, timed incendiary bomb attached. Dropped from a bomber at dawn, the casings would deploy a parachute in mid-flight and open to release the bats, which would then disperse and roost in eaves and attics in a 20–40-mile radius (32–64 km). The incendiaries, which were set on timers, would then ignite and start fires in inaccessible places in the largely wood and paper constructions of the Japanese cities that were the weapon's intended target.
 
