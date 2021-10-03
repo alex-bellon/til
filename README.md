@@ -2,6 +2,28 @@
 
 ## September 2021
 
+### Sun Sep 26
+- Sprint stands for Southern Pacific Railroad Internal Networking Telephony
+
+### Sat Sep 25
+- [Snoezelen](https://en.wikipedia.org/wiki/Snoezelen) is a therapy for people with autism and other developmental disabilities, dementia or brain injury. It consists of placing the person in a soothing and stimulating environment, called the "Snoezelen room". These rooms are specially designed to deliver stimuli to various senses, using lighting effects, color, sounds, music, scents, etc. The combination of different materials on a wall may be explored using tactile senses, and the floor may be adjusted to stimulate the sense of balance.
+
+### Fri Sep 24
+- The [Rhinoceros Party](https://en.wikipedia.org/wiki/Rhinoceros_Party) is a Canadian federal-level satirical political party, sometimes referred to in English Canada as the Second Rhinoceros Party. It promises, like its predecessor, not to keep any of its promises if elected.
+
+### Thu Sep 23
+- A [river](https://en.wikipedia.org/wiki/River_(typography)) (in typography) is a chain of gaps between lines of text that line up and look like a river
+
+### Wed Sep 22
+- [Jesse Gelsinger](https://en.wikipedia.org/wiki/Jesse_Gelsinger) was the first person publicly identified as having died in a clinical trial for gene therapy. The scientists leading the trial made many unethical decisions that ultimately led to his death
+- [Tearoom Trade](https://en.wikipedia.org/wiki/Tearoom_Trade) s a 1970 book by Laud Humphreys. Humphreys' book is based on his 1968 Ph.D. dissertation, which was entitled "Tearoom Trade: A Study of Homosexual Encounters in Public Places." Tearoom Trade debunked many of the stereotypes associated with individuals who participate in anonymous male-male sexual activity in public places, demonstrating that many of the participants lived otherwise conventional lives as family men and respected members of their communities; further, their activities posed no threat to non-participants. As Humphreys misrepresented his identity and intent to his subjects, and tracked their identities through license plate numbers, Tearoom Trade has been the subject of continued debate over privacy for research participants.
+
+### Tue Sep 21
+- [Keith Haring often collaborated with LA2, and split profits while he was still alive, but since his death his estate doesn't want LA2 to get any profits anymore](http://gallery.98bowery.com/news/artist-collaborator-or-hired-hand-the-story-of-keith-haring-and-angel-ortiz-aka-la2/)
+
+### Mon Sep 20
+- [Thunk](https://en.wikipedia.org/wiki/Thunk) is a subroutine used to inject a calculation into another subroutine. Thunks are primarily used to delay a calculation until its result is needed, or to insert operations at the beginning or end of the other subroutine. They have many other applications in compiler code generation and modular programming.
+
 ### Sun Sep 19
 - [Ed's Easy Diner](https://en.wikipedia.org/wiki/Ed%27s_Easy_Diner) is a British restaurant chain that is themed liek an American 50s diner
 - American cheese is made from cheddar, Colby, or similar cheeses
