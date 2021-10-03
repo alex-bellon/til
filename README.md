@@ -5,7 +5,7 @@
 ### Sun Sep 19
 - [Ed's Easy Diner](https://en.wikipedia.org/wiki/Ed%27s_Easy_Diner) is a British restaurant chain that is themed liek an American 50s diner
 - American cheese is made from cheddar, Colby, or similar cheeses
-- A [chiva](https://en.wikipedia.org/wiki/Chiva_bus) is an artisan rustic bus used in rural Colombia. 
+- A [chiva](https://en.wikipedia.org/wiki/Chiva_bus) is an artisan rustic bus used in rural Colombia.
 
 ### Sat Sep 18
 - [The Rainbow Series](https://en.wikipedia.org/wiki/Rainbow_Series) is a series of computer security standards and guidelines published by the United States government in the 1980s and 1990s. They were originally published by the U.S. Department of Defense Computer Security Center, and then by the National Computer Security Center.
