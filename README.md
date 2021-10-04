@@ -1,6 +1,41 @@
 # Today I Learned
 
+## October 2021
+
+## Sun Oct 3
+- [BASE jumping](https://en.wikipedia.org/wiki/BASE_jumping) is an acronym that stands for buildings, antennae (referring to radio masts), spans (bridges), and earth (cliffs)
+- [ISO 3166](https://en.wikipedia.org/wiki/ISO_3166) is a standard published by the International Organization for Standardization (ISO) that defines codes for the names of countries, dependent territories, special areas of geographical interest, and their principal subdivisions (e.g., provinces or states).
+  - ISO 3166-1, Codes for the representation of names of countries and their subdivisions – Part 1: Country codes, defines codes for the names of countries, dependent territories, and special areas of geographical interest. It defines three sets of country codes:
+    - ISO 3166-1 alpha-2 – two-letter country codes which are the most widely used of the three, and used most prominently for the Internet's country code top-level domains (with a few exceptions).
+    - ISO 3166-1 alpha-3 – three-letter country codes which allow a better visual association between the codes and the country names than the alpha-2 codes.
+    - ISO 3166-1 numeric – three-digit country codes which are identical to those developed and maintained by the United Nations Statistics Division, with the advantage of script (writing system) independence, and hence useful for people or systems using non-Latin scripts.
+  - ISO 3166-2, Codes for the representation of names of countries and their subdivisions – Part 2: Country subdivision code, defines codes for the names of the principal subdivisions (e.g., provinces, states, departments, regions) of all countries coded in ISO 3166-1.
+  - ISO 3166-3, Codes for the representation of names of countries and their subdivisions – Part 3: Code for formerly used names of countries, defines codes for country names which have been deleted from ISO 3166-1 since its first publication in 1974.
+
+## Sat Oct 2
+- The [bogus pipeline](https://en.wikipedia.org/wiki/Bogus_pipeline) is a fake polygraph used to get participants to truthfully respond to emotional/affective questions in survey. It is a technique used by social psychologists to reduce false answers when attempting to collect self-report data. As an example, social desirability is a common reason for warped survey results.
+- **Paucity** - he presence of something only in small or insufficient quantities or amounts; scarcity
+
+## Fri Oct 1
+- You can eavesdrop on data running through a fiber optic cable by slightly bending the cable. Some of the light will continue to go straight past the bend, which can then be captured without having to do anything to the cable.
+  - [Fiber tapping](https://en.wikipedia.org/wiki/Fiber_tapping)
+  - [Optical fiber tapping: methods and precautions](https://faculty.ksu.edu.sa/sites/default/files/06149809-Optical_Fiber_Tapping_Methods__and_Precautions.pdf)
+
 ## September 2021
+
+### Thu Sep 30
+- Each zodiac sign is used to denote a 30° region of the sky. Since the Unicode symbols are consecutive, you can compute the code point of a symbol from the longitude angle θ in degrees: 9800 + floor(\theta / 30)
+  - [Source](https://www.johndcook.com/blog/2019/09/20/zodiac/)
+
+### Wed Sep 29
+- A [joe job](https://en.wikipedia.org/wiki/Joe_job) is a spamming technique that sends out unsolicited e-mails using spoofed sender data. Early joe jobs aimed at tarnishing the reputation of the apparent sender or inducing the recipients to take action against them (see also Email spoofing), but they are now typically used by commercial spammers to conceal the true origin of their messages and to trick recipients into opening emails apparently coming from a trusted source.
+
+### Tue Sep 28
+- BIND stands for BERKELEY INTERNET NAME DOMAIN
+
+### Mon Sep 27
+- Camel urine comes out as a thick syrup, and camel faeces are so dry that they do not require drying when the Bedouins use them to fuel fires.
+  - [Source](https://en.wikipedia.org/wiki/Camel)
 
 ### Sun Sep 26
 - Sprint stands for Southern Pacific Railroad Internal Networking Telephony
