@@ -2,7 +2,63 @@
 
 ## October 2021
 
-## Sun Oct 3
+### Sun Oct 17
+- `A` records are **a**ddress records, and `CNAME` records are **c**anonical **name** records
+- [Chartreuse](https://en.wikipedia.org/wiki/Chartreuse_(liqueur)) is a liquer, and the color was named after it
+
+### Sat Oct 16
+- The little magnifying monocle thingies are called [loupes](https://en.wikipedia.org/wiki/Loupe)
+- Breadboards are called breadboards because people literally used to build their circuits by hand on wooden breadboards
+- [These stick things are called pin headers](https://en.wikipedia.org/wiki/Pin_header)
+
+### Fri Oct 15
+- [Japanese prefecture flags](https://en.wikipedia.org/wiki/List_of_Japanese_flags#Prefectural_flags) are based off of different ["characters"](https://www.reddit.com/r/vexillology/comments/83vm07/japanese_prefecture_flags_but_versions_with/)
+  - Japanese uses (mainly) four character sets: hiragana, katakana, kanji and romaji
+
+### Thu Oct 14
+- [Gloria Ford Gilmer](https://en.wikipedia.org/wiki/Gloria_Ford_Gilmer) was an American mathematician and educator, notable for being the first African American woman to publish research papers (in 1956)
+  - [Ethnomathematics](https://en.wikipedia.org/wiki/Ethnomathematics) - is the study of the relationship between mathematics and culture
+  - [Ethnocomputing](https://en.wikipedia.org/wiki/Ethnocomputing) - is the study of the interactions between computing and culture
+
+### Wed Oct 13
+- You can order the results of `ls` numerically with `ls -v`
+  - [Source](https://stackoverflow.com/questions/39529098/how-to-order-ls-command-display-in-numerical-order)
+- LaTeX versions are just longer and longer substrings of pi
+
+### Tue Oct 12
+- The battery symbol next to the USB port on my laptop means that the port will provide power even when the laptop is off
+  - [Source](https://www.quora.com/Why-does-one-of-the-USB-ports-in-my-lenovo-laptop-has-a-battery-symbol-with-the-USB-symbol)
+- [Sometimes, cellphone towers have to be made to look like trees](https://www.vox.com/2015/4/19/8445213/cell-phone-towers-trees)
+
+### Mon Oct 11
+- A [lemniscate](https://en.wikipedia.org/wiki/Lemniscate) is any figure eight shape (in algebraic geometry)
+- [STIR/SHAKEN](https://en.wikipedia.org/wiki/STIR/SHAKEN) is a protocol aimed at combating caller ID spoofing
+
+### Sun Oct 10
+- [Scrip](https://en.wikipedia.org/wiki/Scrip) is any substitute for legal tender. It is often a form of credit. Scrips have been created for exploitative payment of employees under truck systems, and for use in local commerce at times when regular currency was unavailable, for example in remote coal towns, military bases, ships on long voyages, or occupied countries in wartime.
+
+### Sat Oct 9
+- [Router on a stick](https://en.wikipedia.org/wiki/Router_on_a_stick). The description is nowhere near as fun as the name seems :(
+
+### Fri Oct 8
+- What does `wheel` do? Rather than have to dole out individual permissions on a system, you can add users to the `wheel` group and they can gain access to administrator levels, simply by being in the `wheel` group. It's typically tied directly into `sudo`. Previously you needed to be in the wheel group if you wanted to have access to use certain commands, such as `su`.
+  - [Source](https://unix.stackexchange.com/questions/152442/what-is-the-significance-of-the-wheel-group)
+
+### Thu Oct 7
+- [The Queen's Duck](https://bwiggs.com/notebook/queens-duck/) and the [hairy arm technique](https://lifehacker.com/use-the-hairy-arm-technique-to-deal-with-overly-critica-1475508532) - adding in intentional errors so reviewers find something to fix and don't pry further
+
+### Wed Oct 6
+- [The Blue Banana](https://en.wikipedia.org/wiki/Blue_Banana) is a discontinuous corridor of urbanization spreading over Western and Central Europe, with a population of around 111 million
+
+### Tue Oct 5
+- [There are types of lightning called "elves" and "sprites" that look super scary](https://www.nssl.noaa.gov/education/svrwx101/lightning/types/)
+  - ![](https://www.nssl.noaa.gov/education/svrwx101/lightning/types/img/lightning_sprites2.png)
+
+### Mon Oct 4
+- Furor(e) - an outbreak of public anger or excitement
+- Cox Automotive is the same Cox as the cable company
+
+### Sun Oct 3
 - [BASE jumping](https://en.wikipedia.org/wiki/BASE_jumping) is an acronym that stands for buildings, antennae (referring to radio masts), spans (bridges), and earth (cliffs)
 - [ISO 3166](https://en.wikipedia.org/wiki/ISO_3166) is a standard published by the International Organization for Standardization (ISO) that defines codes for the names of countries, dependent territories, special areas of geographical interest, and their principal subdivisions (e.g., provinces or states).
   - ISO 3166-1, Codes for the representation of names of countries and their subdivisions – Part 1: Country codes, defines codes for the names of countries, dependent territories, and special areas of geographical interest. It defines three sets of country codes:
@@ -12,11 +68,11 @@
   - ISO 3166-2, Codes for the representation of names of countries and their subdivisions – Part 2: Country subdivision code, defines codes for the names of the principal subdivisions (e.g., provinces, states, departments, regions) of all countries coded in ISO 3166-1.
   - ISO 3166-3, Codes for the representation of names of countries and their subdivisions – Part 3: Code for formerly used names of countries, defines codes for country names which have been deleted from ISO 3166-1 since its first publication in 1974.
 
-## Sat Oct 2
+### Sat Oct 2
 - The [bogus pipeline](https://en.wikipedia.org/wiki/Bogus_pipeline) is a fake polygraph used to get participants to truthfully respond to emotional/affective questions in survey. It is a technique used by social psychologists to reduce false answers when attempting to collect self-report data. As an example, social desirability is a common reason for warped survey results.
 - **Paucity** - he presence of something only in small or insufficient quantities or amounts; scarcity
 
-## Fri Oct 1
+### Fri Oct 1
 - You can eavesdrop on data running through a fiber optic cable by slightly bending the cable. Some of the light will continue to go straight past the bend, which can then be captured without having to do anything to the cable.
   - [Fiber tapping](https://en.wikipedia.org/wiki/Fiber_tapping)
   - [Optical fiber tapping: methods and precautions](https://faculty.ksu.edu.sa/sites/default/files/06149809-Optical_Fiber_Tapping_Methods__and_Precautions.pdf)
