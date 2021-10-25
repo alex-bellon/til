@@ -1,6 +1,30 @@
 # Today I Learned
 
+
 ## October 2021
+
+### Sun Oct 24
+- The [broken escalator phenomenon](https://en.wikipedia.org/wiki/Broken_escalator_phenomenon) is the sensation of losing balance or dizziness reported by some people when stepping onto an escalator which is not working.
+
+### Sat Oct 23
+- [F. D. C. Willard](https://en.wikipedia.org/wiki/F._D._C._Willard) was the pen name of a Siamese cat named Chester, who internationally published under this name on physics in scientific journals, once as a co-author and another time as the sole author
+
+### Fri Oct 22
+- A [phased array](https://en.wikipedia.org/wiki/Phased_array) is a series of antenna that allow a beam of radio waves to be turned/angles without physically turning the dish
+
+### Thu Oct 21
+- [The name 'awk' comes from the initials of its creators: Aho, Weinberger, and Kernighan](https://twitter.com/UnixToolTip/status/1451226785300062210?s=20)
+
+### Wed Oct 20
+- The [graveyard orbit](https://en.wikipedia.org/wiki/Graveyard_orbit) is an orbit far away from other common orbits where decommissioned satellites are moved to
+
+### Tue Oct 19
+- Owls can turn their head ~270 degrees (not 360)
+
+### Mon Oct 18
+- [Tetration](https://en.wikipedia.org/wiki/Tetration) is the 4th hyperoperations (1 is addition, 2 is multiplication, 3 is exponentiation)
+  - [Hyperoperation](https://en.wikipedia.org/wiki/Hyperoperation)
+- Common paging protocols include TAP, FLEX, ReFLEX, POCSAG, GOLAY, ERMES and NTT.
 
 ### Sun Oct 17
 - `A` records are **a**ddress records, and `CNAME` records are **c**anonical **name** records
