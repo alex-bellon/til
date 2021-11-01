@@ -3,6 +3,35 @@
 
 ## October 2021
 
+### Sun Oct 31
+- [Publication bias](https://en.wikipedia.org/wiki/Publication_bias) is a type of bias that occurs in published academic research. It occurs when the outcome of an experiment or research study influences the decision whether to publish or otherwise distribute it
+- [p-hacking](https://en.wikipedia.org/wiki/Data_dredging) is the misuse of data analysis to find patterns in data that can be presented as statistically significant, thus dramatically increasing and understating the risk of false positives
+
+### Sat Oct 30
+- Why are even numbered pages only ever on the left side of a book?
+  - > Each of the bound leaves of paper in a book is known in publishing as a folio.
+  - > The front side of a folio, or the "first" side which faces you, is known as the recto. Recto comes from the Latin for "right"and is a shortened form of rectō foliō or "right hand page". It also has the adverbial sense of "on the right hand side".
+  - > Hence the publishing convention that the recto or first page of a bound book is numbered "1" and is normally the right hand page.
+  - > The reverse side of a folio is the verso. This comes from the Latin vertĕre, "to turn", and refers to the side of the folio which faces you once it is turned. This second side is numbered "2" and is conventionally (and logically) a left-hand page.
+  - [Recto and verso](https://en.wikipedia.org/wiki/Recto_and_verso)
+
+### Fri Oct 29
+- [DRAM is accessed by rows first](https://en.wikipedia.org/wiki/Dynamic_random-access_memory#Operations_to_read_a_data_bit_from_a_DRAM_storage_cell)
+
+### Thu Oct 28
+- [Some pacemakers are nuclear powered](http://large.stanford.edu/courses/2015/ph241/degraw2/)
+
+### Wed Oct 27
+- You can use regex in the message entry box of Discord to edit your most recent message
+- [There was a group of civilians that regained control of a NASA satellite, with their headquarters in an abandoned McDonalds](https://en.wikipedia.org/wiki/Bus_bunching)
+
+### Tue Oct 26
+- [Roofnet](https://en.wikipedia.org/wiki/Roofnet) was an experimental mesh network developed by the Computer Science and Artificial Intelligence Laboratory at the Massachusetts Institute of Technology, originally started by grad students who wanted to have better internet access at their home
+
+### Mon Oct 25
+- The hair on your arms doesn't grow as long as the hair on your head because it grows at a slower rate, and by the time it gets long enough, it will fall out
+  - [Source](https://health.howstuffworks.com/skin-care/hair-care/scalp-treatments/question100.htm)
+
 ### Sun Oct 24
 - The [broken escalator phenomenon](https://en.wikipedia.org/wiki/Broken_escalator_phenomenon) is the sensation of losing balance or dizziness reported by some people when stepping onto an escalator which is not working.
 
