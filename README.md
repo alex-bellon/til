@@ -1,6 +1,39 @@
 # Today I Learned
 
 
+## November 2021
+
+### Sun Nov 7
+- [Cryptovirology](https://en.wikipedia.org/wiki/Cryptovirology) is a field that studies how to use cryptography to design powerful malicious software. The field was born with the observation that public-key cryptography can be used to break the symmetry between what an antivirus analyst sees regarding malware and what the attacker sees. The antivirus analyst sees a public key contained in the malware, whereas the attacker sees the public key contained in the malware as well as the corresponding private key (outside the malware) since the attacker created the key pair for the attack. The public key allows the malware to perform trapdoor one-way operations on the victim's computer that only the attacker can undo. 
+
+### Sat Nov 6
+- The term "closed" (versus "open") in "closed captions" indicates that the captions are not visible until activated by the viewer, usually via the remote control or menu option. On the other hand, "open", "burned-in", "baked on", "hard-coded", or simply "hard" captions are visible to all viewers as they are embedded in the video. 
+  - [Source](https://en.wikipedia.org/wiki/Closed_captioning)
+- The United Kingdom, Ireland, and most other countries do not distinguish between subtitles and closed captions and use "subtitles" as the general term. The equivalent of "captioning" is usually referred to as "subtitles for the hard of hearing". Their presence is referenced on screen by notation which says "Subtitles", or previously "Subtitles 888" or just "888" (the latter two are in reference to the conventional videotext channel for captions), which is why the term subtitle is also used to refer to the Ceefax-based videotext encoding that is used with PAL-compatible video. 
+
+### Fri Nov 5
+- [Eroom's law](https://en.wikipedia.org/wiki/Eroom%27s_law) is the observation that drug discovery is becoming slower and more expensive over time, despite improvements in technology (such as high-throughput screening, biotechnology, combinatorial chemistry, and computational drug design), a trend first observed in the 1980s
+  - It's Moore's law spelled backwards
+
+### Thu Nov 4
+- [Whamageddon](https://en.wikipedia.org/wiki/Whamageddon) is a game played during the 24 days before Christmas Eve in which players try to go from December 1 to the start of Christmas Eve as per European celebrations on the 24th December (midnight on the 24th December or 24:00 on the 24th of December) without hearing "Last Christmas" by Wham!
+- In TeX, `\i` and `\j` produce i and j without dots, e.g. so you can put symbols on top without the dot interfering.
+
+### Wed Nov 3
+- In fact the 'rc' extension often seen in shell profiles is directly taken from `RUNCOM`.
+  - [Source](https://murex.rocks/docs/blog/split_personalities.html)
+- [Long Bets](https://longbets.org/) is a site to make, well, long term bets
+
+### Tue Nov 2
+- [Not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong) is a phrase often used to describe pseudoscience or bad science. It describes an argument or explanation that purports to be scientific but uses faulty reasoning or speculative premises, which can be neither affirmed nor denied and thus cannot be discussed rigorously and scientifically.
+- [UsrMerge is the merged /usr directories scheme, i.e. the /{bin,sbin,lib}/ directories becoming symbolic links to /usr/{bin,sbin,lib}/](https://wiki.debian.org/UsrMerge)
+
+### Mon Nov 1
+- [Pierre Brassau](https://en.wikipedia.org/wiki/Pierre_Brassau) was a chimpanzee and the subject of a 1964 hoax perpetrated by Åke "Dacke" Axelsson, a journalist at the Swedish tabloid Göteborgs-Tidningen. Axelsson came up with the idea of exhibiting a series of paintings made by a non-human primate, under the pretense that they were the work of a previously unknown French artist named "Pierre Brassau", in order to test whether critics could tell the difference between true avant-garde modern art and the work of a chimpanzee.
+  - While one critic observed that "only an ape could have done this", most praised the works. Rolf Anderberg of the Göteborgs-Posten wrote, "Brassau paints with powerful strokes, but also with clear determination. His brush strokes twist with furious fastidiousness. Pierre is an artist who performs with the delicacy of a ballet dancer." After the hoax was revealed, Anderberg insisted that Peter's work was "still the best painting in the exhibition". 
+- A [cat organ](https://en.wikipedia.org/wiki/Cat_organ) is a hypothetical musical instrument which consists of a line of cats fixed in place with their tails stretched out underneath a keyboard so that they cry out when a key is pressed. The cats would be arranged according to the natural tone of their voices.
+
+
 ## October 2021
 
 ### Sun Oct 31
