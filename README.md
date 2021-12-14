@@ -1,15 +1,138 @@
 # Today I Learned
 
+## December 2021
+
+### Sun Dec 12
+- **Peaked** - (pronounced peak-ed) gaunt and pale from illness or fatigue.
+
+### Sat Dec 11
+- [Weet-bix](https://en.wikipedia.org/wiki/Weet-Bix) and [Weetabix](https://en.wikipedia.org/wiki/Weetabix) are different things
+- [Tivoization](https://en.wikipedia.org/wiki/Tivoization) is the creation of a system that incorporates software under the terms of a copyleft software license like the GNU General Public License (GNU GPL), but uses hardware restrictions or digital rights management (DRM) to prevent users from running modified versions of the software on that hardware.
+
+### Fri Dec 10
+- [Bus bunching](https://en.wikipedia.org/wiki/Bus_bunching) refers to a group of two or more transit vehicles (such as buses or trains), running along the same route, which were scheduled to be evenly spaced, but instead run in the same place at the same time. 
+
+### Thu Dec 9
+- In radio, a [null](https://en.wikipedia.org/wiki/Null_(radio)) is a direction in an antenna's radiation pattern where the antenna radiates almost no radio waves, so the far field signal strength is a local minimum.
+
+### Wed Dec 8
+- The [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton) is the four-letter Hebrew word יהוה‎ (transliterated as YHWH), the name of the national god of Israel.
+- [You can use DNS for steganographic communications](https://github.com/TryCatchHCF/PacketWhisper)
+
+### Tue Dec 7
+- [Dr. Dobb's Journal](https://en.wikipedia.org/wiki/Dr._Dobb's_Journal) was a "granola" monthly magazine aimed at computer programmers
+
+### Mon Dec 6
+- [Boustrophedon](https://en.wikipedia.org/wiki/Boustrophedon) is a style of writing in which alternate lines of writing are reversed, with reversed letters.
+
+### Sun Dec 5
+- National Parks are maintained by the department of interior, whereas National Forests are maintained by the department of agriculture.
+
+### Sat Dec 4
+- The [game canon](https://en.wikipedia.org/wiki/Game_canon) is a list of video games to be considered for preservation by the Library of Congress.
+- [Urk](https://en.wikipedia.org/wiki/Urk) is a small Dutch town that was formerly an island, has its own dialect which differs significantly from standard Dutch and incorporates several Yiddish loanwords.
+
+### Fri Dec 3
+- The [Mariko Aoki phenomenon](https://en.wikipedia.org/wiki/Mariko_Aoki_phenomenon) is a Japanese expression referring to an urge to [defecate](https://en.wikipedia.org/wiki/Defecation "Defecation") that is suddenly felt after entering bookstores. The phenomenon's name derives from the name of the woman who mentioned the phenomenon in a magazine article in 1985.
+
+### Thu Dec 2
+- Yuca and yucca are not the same plant
+  - Yuca (cassava) is a starchy tuber while a yucca is in the same family as agave (and Joshua Trees)
+
+### Wed Dec 1
+- The [Hush-a-phone](https://en.wikipedia.org/wiki/Hush-A-Phone) was a device designed to attach to the transmitter of a telephone to reduce noise pollution and increase privacy. It was the subject of [Hush-A-Phone Corp. v. United States](https://en.wikipedia.org/wiki/Hush-A-Phone_Corp._v._United_States), where AT&T (who had a monopoly at that point) decided to sue them because you had to rent all phone equipment from AT&T and they claimed that the Hush-A-Phone was messing with company property. 
 
 ## November 2021
 
+### Tue Nov 30
+- An [intracolonic explosion](https://en.wikipedia.org/wiki/Intracolonic_explosion) is an explosion inside the colon of a person due to ignition of explosive gases such as methane. This can happen during colonic exploration, as a result of the electrical nature of a colonoscope. 
+
+### Mon Nov 29
+- [THE NAVY IS TRAINING KILLER DOLPHINS](https://en.wikipedia.org/wiki/Military_marine_mammal)
+- [Earth–Moon–Earth communication](https://en.wikipedia.org/wiki/Earth%E2%80%93Moon%E2%80%93Earth_communication) also known as Moon bounce, is a radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver. 
+
+### Sun Nov 28
+- [Onfim](https://en.wikipedia.org/wiki/Onfim) was a boy who lived in Novgorod (present-day Russia) in the 13th century, some time around 1220 or 1260. He left his notes and homework exercises scratched in soft birch bark which was preserved in the clay soil of Novgorod. Onfim, who was most likely six or seven at the time, wrote in the Old Novgorodian dialect of Old East Slavic. Besides letters and syllables, he drew "battle scenes and drawings of himself and his teacher".
+- A [raga](https://en.wikipedia.org/wiki/Raga) is a melodic framework for improvisation akin to a melodic mode in Indian classical music
+
+### Sat Nov 27
+- [Capitalization of Internet](https://en.wikipedia.org/wiki/Capitalization_of_Internet)
+- A [gay bomb](https://en.wikipedia.org/wiki/Gay_bomb) is a non-lethal psychochemical weapon that a United States Air Force research laboratory speculated about producing. The theories involve discharging sex pheromones over enemy forces in order to make them sexually attracted to each other. 
+
+### Fri Nov 26
+- [Banburismus](https://en.wikipedia.org/wiki/Banburismus) was a cryptanalytic process developed by Alan Turing at Bletchley Park in Britain during the Second World War. The process used sequential conditional probability to infer information about the likely settings of the Enigma machine. It gave rise to Turing's invention of the ban as a measure of the weight of evidence in favour of a hypothesis.
+- The last name "[Menzies](https://en.wikipedia.org/wiki/Menzies)" is sometimes pronounced "ming-iss" because a "z" was used to represent the now obsolete letter yogh (which looked like a z)
+
+### Thu Nov 25
+- **Dramaturg** - a literary adviser or editor in a theatre, opera, or film company who researches, selects, adapts, edits, and interprets scripts, libretti, texts, and printed programmes, consults authors, and does public relations work.
+
+### Wed Nov 24
+- A [folly](https://en.wikipedia.org/wiki/Folly) is a building constructed primarily for decoration, but suggesting through its appearance some other purpose, or of such extravagant appearance that it transcends the range of usual garden buildings. 
+
+### Tue Nov 23
+- In the UK, [ULEZ zones](https://tfl.gov.uk/modes/driving/ultra-low-emission-zone) are areas where vehicles that don't meet pollution regulations have to pay a fee 
+- The [tare weight](https://en.wikipedia.org/wiki/Tare_weight) is the weight that is subtracted to account for the weight of the container
+
+### Mon Nov 22
+- [DNS rebinding](https://en.wikipedia.org/wiki/DNS_rebinding) is an attack where a malicious web page causes visitors to run a client-side script that attacks machines elsewhere on the network. 
+  - The attacker registers a domain (such as attacker.com) and delegates it to a DNS server that is under the attacker's control. The server is configured to respond with a very short time to live (TTL) record, preventing the DNS response from being cached. When the victim browses to the malicious domain, the attacker's DNS server first responds with the IP address of a server hosting the malicious client-side code. For instance, they could point the victim's browser to a website that contains malicious JavaScript or Flash scripts that are intended to execute on the victim's computer. The malicious client-side code makes additional accesses to the original domain name (such as attacker.com). These are permitted by the same-origin policy. However, when the victim's browser runs the script it makes a new DNS request for the domain, and the attacker replies with a new IP address. For instance, they could reply with an internal IP address or the IP address of a target somewhere else on the Internet. 
+
+### Sun Nov 21
+- [List of city name changes](https://en.wikipedia.org/wiki/List_of_city_name_changes)
+- **Stevedore** - a person employed, or a contractor engaged, at a dock to load and unload cargo from ships.
+
+### Sat Nov 20
+- **Oblique** - superficially plausible, but actually wrong
+- "[Tannoy](https://en.wikipedia.org/wiki/Tannoy)" is slang for a loudspeaker in the UK because Tannoy was a company that made a lot of loudspeakers
+
+### Fri Nov 19
+- Post hoc means "after this" and ad hoc means "for this"
+- [Anti-satellite weapons](https://en.wikipedia.org/wiki/Anti-satellite_weapon) are space weapons designed to incapacitate or destroy satellites for strategic or tactical purposes.
+
+### Thu Nov 18
+- [Packet Clearing House](https://www.pch.net) is an international nonprofit organization responsible for providing operational support and security to critical internet infrastructure, including Internet exchange points and the core of the domain name system. 
+- A [clearing house](https://en.wikipedia.org/wiki/Clearing_house_(finance)) is a financial institution formed to facilitate the exchange (i.e., clearance) of payments, securities, or derivatives transactions.
+
+### Wed Nov 17
+- **Propitious** - giving or indicating a good chance of success; favorable.
+- [Identification friend or foe](https://en.wikipedia.org/wiki/Identification_friend_or_foe) is an identification system designed for command and control. It uses a transponder that listens for an interrogation signal and then sends a response that identifies the broadcaster.  It enables military and civilian air traffic control interrogation systems to identify aircraft, vehicles or forces as friendly and to determine their bearing and range from the interrogator. 
+
+### Tue Nov 16
+- [Continental drip](https://en.wikipedia.org/wiki/Continental_drip)  is the observation that southward-pointing landforms are more numerous and prominent than northward-pointing landforms. When published, it has been geological satire. 
+
+### Mon Nov 15
+- [Kernel versions have names too](https://en.wikipedia.org/wiki/Linux_kernel_version_history)
+
+### Sun Nov 14
+- [Operation Vegetarian](https://en.wikipedia.org/wiki/Operation_Vegetarian) was a British military plan in 1942 to disseminate linseed cakes infected with anthrax spores onto the fields of Germany. These cakes would have been eaten by the cattle, which would then be consumed by the civilian population, causing the deaths of millions of German civilians. Furthermore, it would have wiped out the majority of Germany's cattle, creating a massive food shortage for the rest of the population that remained uninfected.
+
+### Sat Nov 13
+- [Conservation-induced extinction](https://en.wikipedia.org/wiki/Conservation-induced_extinction) can happen when trying to preserve a different species. This mostly threatens the parasite and pathogen species that are highly host-specific to critically endangered hosts. When the last individuals of a host species are captured for the purpose of captive breeding and reintroduction programs, they typically undergo anti-parasitic treatments to increase survival and reproductive success. This practice may unintentionally result in the extinction of the species antagonistic to the target species, such as certain parasites.
+
+### Fri Nov 12
+- An [anti-king](https://en.wikipedia.org/wiki/Anti-king) is a would-be king who, due to succession disputes or simple political opposition, declares himself king in opposition to a reigning monarch. The term is usually used in a European historical context where it relates to elective monarchies rather than hereditary ones. In hereditary monarchies such figures are more frequently referred to as pretenders or claimants. 
+
+### Thu Nov 11
+- A [phantom cat](https://en.wikipedia.org/wiki/Phantom_cat) are large felids such as leopards, jaguars and cougars which allegedly appear in regions outside their indigenous range.
+
+### Wed Nov 10
+- Beeper versus pager
+  - A beeper was an older device that simply received a signal that the owner was wanted, just a “beep” and a flashing light. The idea was that the user would call the their phone service number for every beep who would then pass the salient information onto them.
+  - A pager actually allowed the caller to directly send a phone number (or code) to the owner so they could call back directly or be otherwise informed by a coded numeric message
+
+### Tue Nov 9
+- [Coronation chicken](https://en.wikipedia.org/wiki/Coronation_chicken) is a combination of cold cooked chicken meat, herbs and spices, and a creamy mayonnaise-based sauce. It was invented as part of a banquet for Queen Elizabeth II's coronation, hence the name.
+
+### Mon Nov 8
+ - [Gardening forks](https://en.wikipedia.org/wiki/Garden_fork) are not the same as [pitchforks](https://en.wikipedia.org/wiki/Pitchfork): gardening forks are used for moving and turning over soil in gardening, while pitchforks are for moving hay. Reflecting their differing uses, garden forks have shorter, flatter, thicker, and more closely spaced tines than pitchforks. They have comparatively a fairly short, stout, usually wooden handle, typically with a "D" or "T" shaped grab at the end. 
+
 ### Sun Nov 7
-- [Cryptovirology](https://en.wikipedia.org/wiki/Cryptovirology) is a field that studies how to use cryptography to design powerful malicious software. The field was born with the observation that public-key cryptography can be used to break the symmetry between what an antivirus analyst sees regarding malware and what the attacker sees. The antivirus analyst sees a public key contained in the malware, whereas the attacker sees the public key contained in the malware as well as the corresponding private key (outside the malware) since the attacker created the key pair for the attack. The public key allows the malware to perform trapdoor one-way operations on the victim's computer that only the attacker can undo. 
+- [Cryptovirology](https://en.wikipedia.org/wiki/Cryptovirology) is a field that studies how to use cryptography to design powerful malicious software. The field was born with the observation that public-key cryptography can be used to break the symmetry between what an antivirus analyst sees regarding malware and what the attacker sees. The antivirus analyst sees a public key contained in the malware, whereas the attacker sees the public key contained in the malware as well as the corresponding private key (outside the malware) since the attacker created the key pair for the attack. The public key allows the malware to perform trapdoor one-way operations on the victim's computer that only the attacker can undo.
 
 ### Sat Nov 6
-- The term "closed" (versus "open") in "closed captions" indicates that the captions are not visible until activated by the viewer, usually via the remote control or menu option. On the other hand, "open", "burned-in", "baked on", "hard-coded", or simply "hard" captions are visible to all viewers as they are embedded in the video. 
+- The term "closed" (versus "open") in "closed captions" indicates that the captions are not visible until activated by the viewer, usually via the remote control or menu option. On the other hand, "open", "burned-in", "baked on", "hard-coded", or simply "hard" captions are visible to all viewers as they are embedded in the video.
   - [Source](https://en.wikipedia.org/wiki/Closed_captioning)
-- The United Kingdom, Ireland, and most other countries do not distinguish between subtitles and closed captions and use "subtitles" as the general term. The equivalent of "captioning" is usually referred to as "subtitles for the hard of hearing". Their presence is referenced on screen by notation which says "Subtitles", or previously "Subtitles 888" or just "888" (the latter two are in reference to the conventional videotext channel for captions), which is why the term subtitle is also used to refer to the Ceefax-based videotext encoding that is used with PAL-compatible video. 
+- The United Kingdom, Ireland, and most other countries do not distinguish between subtitles and closed captions and use "subtitles" as the general term. The equivalent of "captioning" is usually referred to as "subtitles for the hard of hearing". Their presence is referenced on screen by notation which says "Subtitles", or previously "Subtitles 888" or just "888" (the latter two are in reference to the conventional videotext channel for captions), which is why the term subtitle is also used to refer to the Ceefax-based videotext encoding that is used with PAL-compatible video.
 
 ### Fri Nov 5
 - [Eroom's law](https://en.wikipedia.org/wiki/Eroom%27s_law) is the observation that drug discovery is becoming slower and more expensive over time, despite improvements in technology (such as high-throughput screening, biotechnology, combinatorial chemistry, and computational drug design), a trend first observed in the 1980s
@@ -30,7 +153,7 @@
 
 ### Mon Nov 1
 - [Pierre Brassau](https://en.wikipedia.org/wiki/Pierre_Brassau) was a chimpanzee and the subject of a 1964 hoax perpetrated by Åke "Dacke" Axelsson, a journalist at the Swedish tabloid Göteborgs-Tidningen. Axelsson came up with the idea of exhibiting a series of paintings made by a non-human primate, under the pretense that they were the work of a previously unknown French artist named "Pierre Brassau", in order to test whether critics could tell the difference between true avant-garde modern art and the work of a chimpanzee.
-  - While one critic observed that "only an ape could have done this", most praised the works. Rolf Anderberg of the Göteborgs-Posten wrote, "Brassau paints with powerful strokes, but also with clear determination. His brush strokes twist with furious fastidiousness. Pierre is an artist who performs with the delicacy of a ballet dancer." After the hoax was revealed, Anderberg insisted that Peter's work was "still the best painting in the exhibition". 
+  - While one critic observed that "only an ape could have done this", most praised the works. Rolf Anderberg of the Göteborgs-Posten wrote, "Brassau paints with powerful strokes, but also with clear determination. His brush strokes twist with furious fastidiousness. Pierre is an artist who performs with the delicacy of a ballet dancer." After the hoax was revealed, Anderberg insisted that Peter's work was "still the best painting in the exhibition".
 - A [cat organ](https://en.wikipedia.org/wiki/Cat_organ) is a hypothetical musical instrument which consists of a line of cats fixed in place with their tails stretched out underneath a keyboard so that they cry out when a key is pressed. The cats would be arranged according to the natural tone of their voices.
 
 
