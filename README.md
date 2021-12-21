@@ -2,6 +2,27 @@
 
 ## December 2021
 
+### Sun Dec 19
+- **Succor** - assistance and support in times of hardship and distress
+
+### Sat Dec 18
+- [Nobel disease](https://en.wikipedia.org/wiki/Nobel_disease) is the embracing of strange or scientifically unsound ideas by some Nobel Prize winners, usually later in life
+
+### Fri Dec 17
+- A [phantom island](https://en.wikipedia.org/wiki/Phantom_island) is a purported island which was included on maps for a period of time, but was later found not to exist. They usually originate from the reports of early sailors exploring new regions, and are commonly the result of navigational errors, mistaken observations, unverified misinformation, or deliberate fabrication.
+
+### Thu Dec 16
+- Bodybuilders are chasing sarcoplasmic muscle, and powerlifters are chasing myofibrillar muscle. The difference between the two is weight and rep ranges, though there is an overlap between the muscle types. Sarcoplasmic muscle locks in energy resources (glucose, creatine, etc) between the muscle layers, so looks a bit 'bigger' comparative to strength, i.e. the extra layers created by the resources between muscle layers helps bulk it out, and look a bit bigger. Myofibrillar muscle will have more layers of muscle over any given area when compared to sarcoplasmic muscle. So it will be able to lift more per lb or kg of muscle, but will run out of energy more quickly.
+
+### Wed Dec 15
+- [Kongō Gumi](https://en.wikipedia.org/wiki/Kong%C5%8D_Gumi) is the oldest company in existence, being founded in 578
+
+### Tue Dec 14
+- An [idiot plot](https://en.wikipedia.org/wiki/Idiot_plot) is one which is "kept in motion solely by virtue of the fact that everybody involved is an idiot, and where the story would quickly end, or possibly not even happen, if this were not the case
+
+### Mon Dec 13
+- [When using wildcards, you need to put the pattern in quotes or else the globbing won't work properly](https://blog.robertelder.org/find-command-wildcard-globbing/)
+
 ### Sun Dec 12
 - **Peaked** - (pronounced peak-ed) gaunt and pale from illness or fatigue.
 
