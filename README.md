@@ -1,6 +1,96 @@
 # Today I Learned
 
+## January 2022
+
+### Sun Jan 16
+- Prairie has 2 i's. I always thought it was spelled prarie
+
+### Sat Jan 15
+- [Pedestrianism](https://en.wikipedia.org/wiki/Pedestrianism) was a 19th-century form of competitive walking, often professional and funded by wagering, from which the modern sport of racewalking developed.
+
+### Fri Jan 14
+- Buda and Pest were 2 different cities that combined to make Budapest
+
+### Thu Jan 13
+- The [broken escalator effect](https://en.wikipedia.org/wiki/Broken_escalator_phenomenon) is the sensation of losing balance or dizziness reported by some people when stepping onto an escalator which is not working.
+
+### Wed Jan 12
+- `nm` is a tool that allows you to see symbols in object files
+
+### Tue Jan 11
+- The little squiggle goes under a letter is called a [cedilla](https://en.wikipedia.org/wiki/Cedilla)
+
+### Mon Jan 10
+- The root word 'plex' means weave
+
+### Sun Jan 09
+- A [sneckdown](https://en.wikipedia.org/wiki/Sneckdown) is effectively a curb extension caused by snowfall. A natural form of traffic calming, sneckdowns show where a street can potentially be narrowed to slow motor vehicle speeds and shorten pedestrian crossing distances.
+
+### Sat Jan 08
+- [Room 641A](https://en.wikipedia.org/wiki/Room_641A) is a telecommunication interception facility operated by AT&T for the U.S. National Security Agency, as part of its warrantless surveillance program as authorized by the Patriot Act. The facility commenced operations in 2003 and its purpose was publicly revealed in 2006.
+
+### Fri Jan 07
+- [List of shoe throwing incidents](https://en.wikipedia.org/wiki/List_of_shoe-throwing_incidents)
+  - The oldest incident is from 359
+
+### Thu Jan 06
+- Mary Shelley is the daughter of Mary Wollstonecraft
+
+### Wed Jan 05
+- [Prawo Jazdy](https://en.wikipedia.org/wiki/Prawo_Jazdy_(alleged_criminal)) was a supposed Polish national who was listed by the Garda Síochána in a police criminal database as having committed more than 50 traffic violations in Ireland. A 2007 memorandum stated that an investigation revealed prawo jazdy to be Polish for 'driving licence', with the error arising due to officers mistaking the phrase, printed on Polish driving licences, to be a personal name while issuing traffic tickets.
+
+### Tue Jan 04
+- [In Islam, cats are revered animals](https://en.wikipedia.org/wiki/Islam_and_cats).
+
+### Mon Jan 03
+- [AT&T had a 3 page manual detailing how to sweep floors](http://etler.com/docs/BSP/770/770-130-301_I2.pdf)
+- [The US has previously enacted phone excise taxes to fund wars](https://en.wikipedia.org/wiki/Federal_telephone_excise_tax)
+
+### Sun Jan 02
+- [Wikipedia has a list of drugs that were abandoned due to side effects, lack of efficacy, or other reasons](https://en.wikipedia.org/wiki/Category:Abandoned_drugs)
+
+### San Jan 01
+- The etymology of disaster is `dis` = bad and `astro` = star, meaning an ill-starred event
+
 ## December 2021
+
+### Fri Dec 31
+- The [Cotard delusion](https://en.wikipedia.org/wiki/Cotard_delusion) is a rare mental disorder in which the affected person holds the delusional belief that they are dead, do not exist, are putrefying, or have lost their blood or internal organs.
+
+### Thu Dec 30
+- [Zenzizenzizenzic](https://en.wikipedia.org/wiki/Zenzizenzizenzic) is an obsolete form of mathematical notation representing the eighth power of a number (that is, the zenzizenzizenzic of x is x8), dating from a time when powers were written out in words rather than as superscript numbers.
+
+### Wed Dec 29
+- [Almon Strowger, the inventor of the first automatic phone exchange, created it because his undertaker business was losing clients to a competitor. The competitors wife, a phone operator, was redirecting calls to Strowger to her husband's business.](https://en.wikipedia.org/wiki/Almon_Brown_Strowger#Rotary_dialing)
+
+### Tue Dec 28
+- The two scientists that created the [Cox-Zucker machine](https://en.wikipedia.org/wiki/Cox%E2%80%93Zucker_machine) worked together on purpose because they wanted something named for both of their names combined.
+
+### Mon Dec 25
+- [Italian Sounding](https://en.wikipedia.org/wiki/Italian_Sounding) is the marketing phenomenon consisting of words and images, colour combinations (the Italian tricolour) and geographical references for brands that are evocative of Italy to promote and market products – especially but not exclusively agri-food – that are not actually Made in Italy
+
+### Sun Dec 26
+- While the "hat" of doctoral academic regalia is called a tam, it's actually a [Tudor bonnet](https://en.wikipedia.org/wiki/Tudor_bonnet). It's named after a [Tam o' shanter](https://en.wikipedia.org/wiki/Tam_o'_shanter_(cap)), which is something else.
+
+### Sat Dec 25
+- [Tejo](https://en.wikipedia.org/wiki/Tejo_(sport)) is a Colombian sport in which metal discs are thown toards packets filled with gunpowder
+
+### Fri Dec 24
+- The [Kuleshov effect](https://en.wikipedia.org/wiki/Kuleshov_effect) is the practice of cutting between two shots, which allows the viewers to derive more meaning from the interaction of the two shots than just one shot by itself.
+
+### Thu Dec 23
+- [Bioswale](https://en.wikipedia.org/wiki/Bioswale) are channels designed to concentrate and convey stormwater runoff while removing debris and pollution.
+- [Xeriscaping](https://en.wikipedia.org/wiki/Xeriscaping) is the process of landscaping, or gardening, that reduces or eliminates the need for irrigation.
+
+### Wed Dec 22
+- [Poohsticks](https://en.wikipedia.org/wiki/Poohsticks) is a game from Winnie the Pooh books
+
+### Tue Dec 21
+- Quandary is spelled like that, not "quandry" like I thought it was
+
+### Mon Dec 20
+- An imperative (programming) language is one where you tell the compiler what you want to happen, step by step. In a declarative language, you write what you want in the end, but not explicity how to get it.
+  - Declarative languages often try to eliminate side effects
 
 ### Sun Dec 19
 - **Succor** - assistance and support in times of hardship and distress
@@ -31,7 +121,7 @@
 - [Tivoization](https://en.wikipedia.org/wiki/Tivoization) is the creation of a system that incorporates software under the terms of a copyleft software license like the GNU General Public License (GNU GPL), but uses hardware restrictions or digital rights management (DRM) to prevent users from running modified versions of the software on that hardware.
 
 ### Fri Dec 10
-- [Bus bunching](https://en.wikipedia.org/wiki/Bus_bunching) refers to a group of two or more transit vehicles (such as buses or trains), running along the same route, which were scheduled to be evenly spaced, but instead run in the same place at the same time. 
+- [Bus bunching](https://en.wikipedia.org/wiki/Bus_bunching) refers to a group of two or more transit vehicles (such as buses or trains), running along the same route, which were scheduled to be evenly spaced, but instead run in the same place at the same time.
 
 ### Thu Dec 9
 - In radio, a [null](https://en.wikipedia.org/wiki/Null_(radio)) is a direction in an antenna's radiation pattern where the antenna radiates almost no radio waves, so the far field signal strength is a local minimum.
@@ -61,16 +151,16 @@
   - Yuca (cassava) is a starchy tuber while a yucca is in the same family as agave (and Joshua Trees)
 
 ### Wed Dec 1
-- The [Hush-a-phone](https://en.wikipedia.org/wiki/Hush-A-Phone) was a device designed to attach to the transmitter of a telephone to reduce noise pollution and increase privacy. It was the subject of [Hush-A-Phone Corp. v. United States](https://en.wikipedia.org/wiki/Hush-A-Phone_Corp._v._United_States), where AT&T (who had a monopoly at that point) decided to sue them because you had to rent all phone equipment from AT&T and they claimed that the Hush-A-Phone was messing with company property. 
+- The [Hush-a-phone](https://en.wikipedia.org/wiki/Hush-A-Phone) was a device designed to attach to the transmitter of a telephone to reduce noise pollution and increase privacy. It was the subject of [Hush-A-Phone Corp. v. United States](https://en.wikipedia.org/wiki/Hush-A-Phone_Corp._v._United_States), where AT&T (who had a monopoly at that point) decided to sue them because you had to rent all phone equipment from AT&T and they claimed that the Hush-A-Phone was messing with company property.
 
 ## November 2021
 
 ### Tue Nov 30
-- An [intracolonic explosion](https://en.wikipedia.org/wiki/Intracolonic_explosion) is an explosion inside the colon of a person due to ignition of explosive gases such as methane. This can happen during colonic exploration, as a result of the electrical nature of a colonoscope. 
+- An [intracolonic explosion](https://en.wikipedia.org/wiki/Intracolonic_explosion) is an explosion inside the colon of a person due to ignition of explosive gases such as methane. This can happen during colonic exploration, as a result of the electrical nature of a colonoscope.
 
 ### Mon Nov 29
 - [THE NAVY IS TRAINING KILLER DOLPHINS](https://en.wikipedia.org/wiki/Military_marine_mammal)
-- [Earth–Moon–Earth communication](https://en.wikipedia.org/wiki/Earth%E2%80%93Moon%E2%80%93Earth_communication) also known as Moon bounce, is a radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver. 
+- [Earth–Moon–Earth communication](https://en.wikipedia.org/wiki/Earth%E2%80%93Moon%E2%80%93Earth_communication) also known as Moon bounce, is a radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.
 
 ### Sun Nov 28
 - [Onfim](https://en.wikipedia.org/wiki/Onfim) was a boy who lived in Novgorod (present-day Russia) in the 13th century, some time around 1220 or 1260. He left his notes and homework exercises scratched in soft birch bark which was preserved in the clay soil of Novgorod. Onfim, who was most likely six or seven at the time, wrote in the Old Novgorodian dialect of Old East Slavic. Besides letters and syllables, he drew "battle scenes and drawings of himself and his teacher".
@@ -78,7 +168,7 @@
 
 ### Sat Nov 27
 - [Capitalization of Internet](https://en.wikipedia.org/wiki/Capitalization_of_Internet)
-- A [gay bomb](https://en.wikipedia.org/wiki/Gay_bomb) is a non-lethal psychochemical weapon that a United States Air Force research laboratory speculated about producing. The theories involve discharging sex pheromones over enemy forces in order to make them sexually attracted to each other. 
+- A [gay bomb](https://en.wikipedia.org/wiki/Gay_bomb) is a non-lethal psychochemical weapon that a United States Air Force research laboratory speculated about producing. The theories involve discharging sex pheromones over enemy forces in order to make them sexually attracted to each other.
 
 ### Fri Nov 26
 - [Banburismus](https://en.wikipedia.org/wiki/Banburismus) was a cryptanalytic process developed by Alan Turing at Bletchley Park in Britain during the Second World War. The process used sequential conditional probability to infer information about the likely settings of the Enigma machine. It gave rise to Turing's invention of the ban as a measure of the weight of evidence in favour of a hypothesis.
@@ -88,15 +178,15 @@
 - **Dramaturg** - a literary adviser or editor in a theatre, opera, or film company who researches, selects, adapts, edits, and interprets scripts, libretti, texts, and printed programmes, consults authors, and does public relations work.
 
 ### Wed Nov 24
-- A [folly](https://en.wikipedia.org/wiki/Folly) is a building constructed primarily for decoration, but suggesting through its appearance some other purpose, or of such extravagant appearance that it transcends the range of usual garden buildings. 
+- A [folly](https://en.wikipedia.org/wiki/Folly) is a building constructed primarily for decoration, but suggesting through its appearance some other purpose, or of such extravagant appearance that it transcends the range of usual garden buildings.
 
 ### Tue Nov 23
-- In the UK, [ULEZ zones](https://tfl.gov.uk/modes/driving/ultra-low-emission-zone) are areas where vehicles that don't meet pollution regulations have to pay a fee 
+- In the UK, [ULEZ zones](https://tfl.gov.uk/modes/driving/ultra-low-emission-zone) are areas where vehicles that don't meet pollution regulations have to pay a fee
 - The [tare weight](https://en.wikipedia.org/wiki/Tare_weight) is the weight that is subtracted to account for the weight of the container
 
 ### Mon Nov 22
-- [DNS rebinding](https://en.wikipedia.org/wiki/DNS_rebinding) is an attack where a malicious web page causes visitors to run a client-side script that attacks machines elsewhere on the network. 
-  - The attacker registers a domain (such as attacker.com) and delegates it to a DNS server that is under the attacker's control. The server is configured to respond with a very short time to live (TTL) record, preventing the DNS response from being cached. When the victim browses to the malicious domain, the attacker's DNS server first responds with the IP address of a server hosting the malicious client-side code. For instance, they could point the victim's browser to a website that contains malicious JavaScript or Flash scripts that are intended to execute on the victim's computer. The malicious client-side code makes additional accesses to the original domain name (such as attacker.com). These are permitted by the same-origin policy. However, when the victim's browser runs the script it makes a new DNS request for the domain, and the attacker replies with a new IP address. For instance, they could reply with an internal IP address or the IP address of a target somewhere else on the Internet. 
+- [DNS rebinding](https://en.wikipedia.org/wiki/DNS_rebinding) is an attack where a malicious web page causes visitors to run a client-side script that attacks machines elsewhere on the network.
+  - The attacker registers a domain (such as attacker.com) and delegates it to a DNS server that is under the attacker's control. The server is configured to respond with a very short time to live (TTL) record, preventing the DNS response from being cached. When the victim browses to the malicious domain, the attacker's DNS server first responds with the IP address of a server hosting the malicious client-side code. For instance, they could point the victim's browser to a website that contains malicious JavaScript or Flash scripts that are intended to execute on the victim's computer. The malicious client-side code makes additional accesses to the original domain name (such as attacker.com). These are permitted by the same-origin policy. However, when the victim's browser runs the script it makes a new DNS request for the domain, and the attacker replies with a new IP address. For instance, they could reply with an internal IP address or the IP address of a target somewhere else on the Internet.
 
 ### Sun Nov 21
 - [List of city name changes](https://en.wikipedia.org/wiki/List_of_city_name_changes)
@@ -111,15 +201,15 @@
 - [Anti-satellite weapons](https://en.wikipedia.org/wiki/Anti-satellite_weapon) are space weapons designed to incapacitate or destroy satellites for strategic or tactical purposes.
 
 ### Thu Nov 18
-- [Packet Clearing House](https://www.pch.net) is an international nonprofit organization responsible for providing operational support and security to critical internet infrastructure, including Internet exchange points and the core of the domain name system. 
+- [Packet Clearing House](https://www.pch.net) is an international nonprofit organization responsible for providing operational support and security to critical internet infrastructure, including Internet exchange points and the core of the domain name system.
 - A [clearing house](https://en.wikipedia.org/wiki/Clearing_house_(finance)) is a financial institution formed to facilitate the exchange (i.e., clearance) of payments, securities, or derivatives transactions.
 
 ### Wed Nov 17
 - **Propitious** - giving or indicating a good chance of success; favorable.
-- [Identification friend or foe](https://en.wikipedia.org/wiki/Identification_friend_or_foe) is an identification system designed for command and control. It uses a transponder that listens for an interrogation signal and then sends a response that identifies the broadcaster.  It enables military and civilian air traffic control interrogation systems to identify aircraft, vehicles or forces as friendly and to determine their bearing and range from the interrogator. 
+- [Identification friend or foe](https://en.wikipedia.org/wiki/Identification_friend_or_foe) is an identification system designed for command and control. It uses a transponder that listens for an interrogation signal and then sends a response that identifies the broadcaster.  It enables military and civilian air traffic control interrogation systems to identify aircraft, vehicles or forces as friendly and to determine their bearing and range from the interrogator.
 
 ### Tue Nov 16
-- [Continental drip](https://en.wikipedia.org/wiki/Continental_drip)  is the observation that southward-pointing landforms are more numerous and prominent than northward-pointing landforms. When published, it has been geological satire. 
+- [Continental drip](https://en.wikipedia.org/wiki/Continental_drip)  is the observation that southward-pointing landforms are more numerous and prominent than northward-pointing landforms. When published, it has been geological satire.
 
 ### Mon Nov 15
 - [Kernel versions have names too](https://en.wikipedia.org/wiki/Linux_kernel_version_history)
@@ -131,7 +221,7 @@
 - [Conservation-induced extinction](https://en.wikipedia.org/wiki/Conservation-induced_extinction) can happen when trying to preserve a different species. This mostly threatens the parasite and pathogen species that are highly host-specific to critically endangered hosts. When the last individuals of a host species are captured for the purpose of captive breeding and reintroduction programs, they typically undergo anti-parasitic treatments to increase survival and reproductive success. This practice may unintentionally result in the extinction of the species antagonistic to the target species, such as certain parasites.
 
 ### Fri Nov 12
-- An [anti-king](https://en.wikipedia.org/wiki/Anti-king) is a would-be king who, due to succession disputes or simple political opposition, declares himself king in opposition to a reigning monarch. The term is usually used in a European historical context where it relates to elective monarchies rather than hereditary ones. In hereditary monarchies such figures are more frequently referred to as pretenders or claimants. 
+- An [anti-king](https://en.wikipedia.org/wiki/Anti-king) is a would-be king who, due to succession disputes or simple political opposition, declares himself king in opposition to a reigning monarch. The term is usually used in a European historical context where it relates to elective monarchies rather than hereditary ones. In hereditary monarchies such figures are more frequently referred to as pretenders or claimants.
 
 ### Thu Nov 11
 - A [phantom cat](https://en.wikipedia.org/wiki/Phantom_cat) are large felids such as leopards, jaguars and cougars which allegedly appear in regions outside their indigenous range.
@@ -145,7 +235,7 @@
 - [Coronation chicken](https://en.wikipedia.org/wiki/Coronation_chicken) is a combination of cold cooked chicken meat, herbs and spices, and a creamy mayonnaise-based sauce. It was invented as part of a banquet for Queen Elizabeth II's coronation, hence the name.
 
 ### Mon Nov 8
- - [Gardening forks](https://en.wikipedia.org/wiki/Garden_fork) are not the same as [pitchforks](https://en.wikipedia.org/wiki/Pitchfork): gardening forks are used for moving and turning over soil in gardening, while pitchforks are for moving hay. Reflecting their differing uses, garden forks have shorter, flatter, thicker, and more closely spaced tines than pitchforks. They have comparatively a fairly short, stout, usually wooden handle, typically with a "D" or "T" shaped grab at the end. 
+ - [Gardening forks](https://en.wikipedia.org/wiki/Garden_fork) are not the same as [pitchforks](https://en.wikipedia.org/wiki/Pitchfork): gardening forks are used for moving and turning over soil in gardening, while pitchforks are for moving hay. Reflecting their differing uses, garden forks have shorter, flatter, thicker, and more closely spaced tines than pitchforks. They have comparatively a fairly short, stout, usually wooden handle, typically with a "D" or "T" shaped grab at the end.
 
 ### Sun Nov 7
 - [Cryptovirology](https://en.wikipedia.org/wiki/Cryptovirology) is a field that studies how to use cryptography to design powerful malicious software. The field was born with the observation that public-key cryptography can be used to break the symmetry between what an antivirus analyst sees regarding malware and what the attacker sees. The antivirus analyst sees a public key contained in the malware, whereas the attacker sees the public key contained in the malware as well as the corresponding private key (outside the malware) since the attacker created the key pair for the attack. The public key allows the malware to perform trapdoor one-way operations on the victim's computer that only the attacker can undo.
