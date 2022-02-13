@@ -1,6 +1,91 @@
 # Today I Learned
 
+## February 2022
+
+### Sat Feb 12
+- [Moon type](https://en.wikipedia.org/wiki/Moon_type) is a writing system for the blind, using embossed symbols mostly derived from the Latin script (but simplified). It is claimed by its supporters to be easier to understand than braille, though it is mainly used by people who have lost their sight as adults, and thus already have knowledge of the shapes of letters
+
+### Fri Feb 11
+- `sudo -E` runs a command as sudo while attempting to preserve as much of the environment as possible
+
+### Thu Feb 10
+- [White spaces](https://en.wikipedia.org/wiki/White_spaces_(radio)) refer to radio frequencies allocated to a broadcasting service but not used locally. In addition to white space assigned for technical reasons, there is also unused radio spectrum which has either never been used, or is becoming free as a result of technical changes. In particular, the switchover to digital television frees up large areas between about 50 MHz and 700 MHz. This is because digital transmissions can be packed into adjacent channels, while analog ones cannot. This means that the band can be compressed into fewer channels, while still allowing for more transmissions.
+
+### Wed Feb 9
+- [Elevator surfing](https://en.wikipedia.org/wiki/Elevator_surfing) is an activity involving riding on top of elevators. Rarely, the activity may also involve jumping between moving elevators, although most elevator surfers consider this to be unwise and needlessly dangerous.
+
+### Tue Feb 8
+- There's a public listing of all of the frequencies used by [retail stores/malls](https://wiki.radioreference.com/index.php/US-Nationwide_Businesses-Retail)
+  - [Tips on scanning malls](http://mamageekminis.com/dave/scanning/malls.htm)
+
+### Mon Feb 7
+- Bluetooth advertisement messages are unencrypted
+
+### Sun Feb 6
+- A [party line](https://en.wikipedia.org/wiki/Party_line_(telephony)) is a local loop telephone circuit that is shared by multiple telephone service subscribers. It was called a party line because multiple callers could connect to the line and talk to each other
+
+### Sat Feb 5
+- The [Order of the Smile](https://en.wikipedia.org/wiki/Order_of_the_Smile) is an international award given by children to adults distinguished in their love, care and aid for children.
+
+### Fri Feb 4
+- An [obelisk ship](https://en.wikipedia.org/wiki/Obelisk_ship) was (shockingly) a ship that transported obelisks
+
+### Thu Feb 3
+- In Italian, 'giorno' refers to the full day, while 'giornata' refers to the daytime
+
+### Wed Feb 2
+- [Hiberno-English](https://en.wikipedia.org/wiki/Hiberno-English) is Irish English
+
+### Tue Feb 1
+- Syrup for mixing drinks is called [squash](https://en.wikipedia.org/wiki/Squash_(drink)) in the UK
+
 ## January 2022
+
+### Mon Jan 31
+- [During the 2008 Passover season, kosher-for-Passover margarine in the United States was short in supply due to several issues, leading to a scramble among kosher consumers to obtain the staple since it features prominently in many Passover recipes](https://en.wikipedia.org/wiki/2008_Passover_margarine_shortage)
+
+### Sun Jan 30
+- [Unsinkable aircraft carrier](https://en.wikipedia.org/wiki/Unsinkable_aircraft_carrier) is a term sometimes used to refer to a geographical or political island that is used to extend the power projection of a military force.
+
+### Sat Jan 29
+- [I, Libertine](https://en.wikipedia.org/wiki/I%2C_Libertine) is a literary hoax novel that began as a practical joke by late-night radio raconteur Jean Shepherd. Shepherd was annoyed at the way bestseller lists were compiled in the mid-1950s. These lists were determined from sales figures and from the number of requests for new and upcoming books at bookstores. Shepherd urged his listeners to enter bookstores and ask for a non-existent book. He fabricated the author (Frederick R. Ewing) of this imaginary novel, concocted a title (I, Libertine), and outlined a basic plot for his listeners to use on bookstore clerks. Fans of the show took it further, planting references to the book and author so widely, demand for the book led to its inclusion on The New York Times Best Seller list
+
+### Fri Jan 28
+- [Daughter from California syndrome - Wikipedia](https://en.wikipedia.org/wiki/Daughter_from_California_syndrome) is a phrase used in the medical profession to describe a situation in which a long-lost relative arrives at the hospital at which a dying elderly relative is being treated, and insists that the medical team pursue aggressive measures to prolong the patient's life, or otherwise challenges the care the patient is being given
+
+### Thu Jan 27
+- A [useful idiot](https://en.wikipedia.org/wiki/Useful_idiot) is a derogatory term for a person perceived as propagandizing for a cause without fully comprehending the cause's goals, and who is cynically used by the cause's leaders
+
+### Wed Jan 26
+- A [third place](https://en.wikipedia.org/wiki/Third_place) is the social surroundings separate from the two usual social environments of home ("first place") and the workplace ("second place"). Examples of third places include churches, cafes, clubs, public libraries, bookstores or parks.
+
+### Tue Jan 25
+- The [Internet Research Agency](https://en.wikipedia.org/wiki/Internet_Research_Agency) also known as Glavset and known in Russian Internet slang as the Trolls from Olgino, is a Russian company engaged in online influence operations on behalf of Russian business and political interests.
+
+### Mon Jan 24
+- [Hyperthymesia](https://en.wikipedia.org/wiki/Hyperthymesia) is a condition that leads people to be able to remember an abnormally large number of their life experiences in vivid detail. It is extraordinarily rare, with only about 60 people in the world having been diagnosed with the condition as of 2021.
+
+### Sun Jan 23
+- [In 2009, art historian Gergely Barki, while watching Stuart Little on television with his daughter, noticed a painting that was previously considered lost, and after contacting the studios was able to track down its whereabouts](https://en.wikipedia.org/wiki/Stuart_Little_(film)#Lost_painting_unknowingly_used_on_set)
+
+### Sat Jan 22
+- [Polari](https://en.wikipedia.org/wiki/Polari) is a form of slang or cant used in Britain by some actors, circus and fairground showmen, professional wrestlers, merchant navy sailors, criminals, sex workers, and the gay subculture.
+- A [cant](https://en.wikipedia.org/wiki/Cant_(language)) is the jargon or language of a group, often employed to exclude or mislead people outside the group.
+
+### Fri Jan 21
+- [Jabber](https://networkencyclopedia.com/jabber/) in ethernet is when a packet frame is longer than the 1518 bytes.
+
+### Thu Jan 20
+- SMT is a generalization of SAT solving
+
+### Wed Jan 19
+- [S.r.l.](https://en.wikipedia.org/wiki/Societ%C3%A0_a_responsabilit%C3%A0_limitata) stands for Società a responsabilità limitata
+
+### Tue Jan 18
+- [GEDCOM](https://en.wikipedia.org/wiki/GEDCOM) is an open de facto specification for exchanging genealogical data between different genealogy software. GEDCOM was developed by The Church of Jesus Christ of Latter-day Saints (LDS Church) as an aid to genealogical research.
+
+### Mon Jan 17
+- The word "lynch" comes from the phrase "Lynch law", a term for punishment without trial
 
 ### Sun Jan 16
 - Prairie has 2 i's. I always thought it was spelled prarie
