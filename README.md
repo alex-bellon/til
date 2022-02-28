@@ -2,6 +2,64 @@
 
 ## February 2022
 
+### Sun Feb 27
+- Integrated circuits
+  - > An early attempt at combining several components in one device (like modern ICs) was the Loewe 3NF vacuum tube from the 1920s. Unlike ICs, it was designed with the purpose of tax avoidance, as in Germany, radio receivers had a tax that was levied depending on how many tube holders a radio receiver had. It allowed radio receivers to have a single tube holder.
+- [Chip art](https://en.wikipedia.org/wiki/Chip_art)
+  - [Silicon zoo](https://micro.magnet.fsu.edu/creatures/)
+
+### Sat Feb 26
+- [List of egg topics](https://en.wikipedia.org/wiki/List_of_egg_topics)
+
+### Fri Feb 25
+- **Eleemosynary** - relating to or dependent on charity; charitable
+
+### Thu Feb 24
+- [Larrikin](https://en.wikipedia.org/wiki/Larrikin) is an Australian English term meaning "a mischievous young person, an uncultivated, rowdy but good hearted person", or "a person who acts with apparent disregard for social or political convention"
+
+### Wed Feb 23
+- [Mechanism](https://en.wikipedia.org/wiki/Mechanical_philosophy) is a form of natural philosophy which compares the universe to a large-scale mechanism
+
+### Tue Feb 22
+- [Titivillus](https://en.wikipedia.org/wiki/Titivillus) was a demon said to work on behalf of Belphegor, Lucifer or Satan to introduce errors into the work of scribes
+
+### Mon Feb 21
+- **Penurious** - extrememly poor, poverty stricken
+
+### Sun Feb 20
+- [Michaelmas](https://en.wikipedia.org/wiki/Michaelmas) is a Christian festival observed in some Western liturgical calendars on 29 September. In some denominations a reference to a fourth angel, usually Uriel, is also added. Michaelmas has been one of the four quarter days of the financial, judicial, and academic year.
+
+### Sat Feb 19
+- Aldi Sued owns Aldi USA, and Aldi Nord owns Trader Joe's
+- Aldi is a syllabic abbreviation for Albrecht (brothers who started it) Diskont
+
+### Fri Feb 18
+- **Internecine** - destructive to both sides in a conflict.
+- **Ebullient** - cheerful and full of energy
+
+### Thu Feb 17
+- Ibid means the citation is within the same work
+
+### Wed Feb 16
+- Skirmish etymology
+  - Middle English (as a verb): from Old French eskirmiss-, lengthened stem of eskirmir, from a Germanic verb meaning ‘defend’.
+
+### Tue Feb 15
+- Constructive mathematics is math that does not depend on proofs by contradiction, as it does not take the law of the excluded middle for granted
+- A [setoid](https://en.wikipedia.org/wiki/Setoid) is a set equipped with an equivalence relation
+  - Setoid hell
+
+### Mon Feb 14
+- [An etagere](https://en.wikipedia.org/wiki/%C3%89tag%C3%A8re) is a French set of hanging or standing open shelves for the display of collections of objects or ornaments
+- A [what-not](https://en.wikipedia.org/wiki/What-not) is a piece of furniture derived from the French étagère, which was exceedingly popular in England in the first three-quarters of the 19th century. It usually consists of slender uprights or pillars, supporting a series of shelves for holding china, ornaments, trifles, or "what nots", hence the allusive name.
+
+### Sun Feb 13
+- There are [27 countries](https://www.netherlandsworldwide.nl/documents/frequently-asked-questions/eu-eea-efta-and-schengen-countries) in the EU
+  - 5 candidate countries (Albania, Montenegro, North-Macedonia, Serbia, Turkey)
+  - EEA (European Economic Area) = EU + Iceland, Liechtenstein, Norway
+  - EFTA (European Free Trade Association) = EU + Iceland, Liechtenstein, Norway + Switzerland
+  - Schengen (Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland)
+
 ### Sat Feb 12
 - [Moon type](https://en.wikipedia.org/wiki/Moon_type) is a writing system for the blind, using embossed symbols mostly derived from the Latin script (but simplified). It is claimed by its supporters to be easier to understand than braille, though it is mainly used by people who have lost their sight as adults, and thus already have knowledge of the shapes of letters
 
