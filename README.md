@@ -1,6 +1,75 @@
 # Today I Learned
 
+## March 2022
+
+## Sun Mar 20
+- [Candlepin bowling](https://en.wikipedia.org/wiki/Candlepin_bowling) is a variation of bowling that is played primarily in the Canadian Maritime provinces and the New England region of the United States. It is played with a handheld-sized ball and tall, narrow pins that resemble candles, hence the name.
+- [Duckpin bowling](https://en.wikipedia.org/wiki/Duckpin_bowling) is a variation of the sport of bowling. Duckpin balls are 4+3⁄4 in (12 cm) to 5 in (12.7 cm) in diameter, weigh 3 lb 6 oz (1.5 kg) to 3 lb 12 oz (1.7 kg) each, and lack finger holes. Duckpins, though arranged in a triangle identical to that used in ten-pin bowling, are shorter, slightly thinner, and lighter than their ten-pin equivalents, which makes it more difficult for the smaller ball to achieve a strike.
+
+## Sat Mar 19
+- [Akhfash's goat](https://en.wikipedia.org/wiki/Akhfash's_goat) is a Persian parable in which a philosopher trains his pet goat to nod its head when asked if it had understood a book that it was shown. The term "Akhfash's goat" refers to a person who nods along with a conversation that they do not understand.
+
+## Fri Mar 18
+- The [International Cocoa Quarantine Centre](https://en.wikipedia.org/wiki/International_Cocoa_Quarantine_Centre) is an organization aiming to reduce the amount of disease affecting cocoa plants. Cocoa plants are quarantined in a 1,000-square-metre (11,000 sq ft) greenhouse before being transported across the globe. Quarantining cocoa plants is considered important because over 70% of the global cocoa supply originates from West Africa, and therefore the cocoa market is susceptible to any catastrophic effects that should occur in that region.
+
+## Thu Mar 17
+- [A True Story](https://en.wikipedia.org/wiki/A_True_Story) is a long novella or short novel written in the second century AD by the Greek author Lucian of Samosata. The novel is a satire of outlandish tales that had been reported in ancient sources, particularly those that presented fantastic or mythical events as if they were true. It is Lucian's best-known work. It is the earliest known work of fiction to include travel to outer space, alien lifeforms, and interplanetary warfare. It has been described as "the first known text that could be called science fiction".
+
+## Wed Mar 16
+- [Comparative illusions](https://en.wikipedia.org/wiki/Comparative_illusion) are certain comparative sentences which initially seem to be acceptable but upon closer reflection have no well-formed meaning. The typical example sentence used to typify this phenomenon is "More people have been to Russia than I have".
+
+## Tue Mar 15
+- [Larrikin](https://en.wikipedia.org/wiki/Larrikin) is an Australian English term meaning "a mischievous young person, an uncultivated, rowdy but good hearted person", or "a person who acts with apparent disregard for social or political conventions".
+
+## Mon Mar 14
+- A [half-track](https://en.wikipedia.org/wiki/Half-track) is a civilian or military vehicle with regular wheels at the front for steering and continuous tracks at the back to propel the vehicle and carry most of the load. The purpose of this combination is to produce a vehicle with the cross-country capabilities of a tank and the handling of a wheeled vehicle.
+
+## Sun Mar 13
+- [Mains hum](https://en.wikipedia.org/wiki/Mains_hum) is a sound associated with alternating current which is twice the frequency of the mains electricity. The fundamental frequency of this sound is usually double that of fundamental 50/60 Hz, i.e. 100/120 Hz, depending on the local power-line frequency. The sound often has heavy harmonic content above 50/60 Hz.
+
+## Sat Mar 12
+- [Metonymy](https://en.wikipedia.org/wiki/Metonymy) is a figure of speech in which a thing or concept is referred to by the name of something closely associated with that thing or concept.
+
+## Fri Mar 11
+- [Obscurantism](https://en.wikipedia.org/wiki/Obscurantism) describes the practice of deliberately presenting information in an imprecise, abstruse manner designed to limit further inquiry and understanding. There are two historical and intellectual denotations of obscurantism: (1) the deliberate restriction of knowledge—opposition to disseminating knowledge; and (2) deliberate obscurity—a recondite literary or artistic style, characterized by deliberate vagueness.
+
+## Thu Mar 10
+- [Prisencolinensinainciusol](https://en.wikipedia.org/wiki/Prisencolinensinainciusol) is a song composed by the Italian singer Adriano Celentano, and performed by Celentano and his wife Claudia Mori, a singer/actress-turned-record producer. The song is intended to sound to its Italian audience as if it is sung in English spoken with an American accent, designed to be "Bob Dylan-esque"; however, the lyrics are deliberately unintelligible gibberish with the exception of the words "all right.
+
+## Wed Mar 9
+- Sharks are older than trees
+  - > Trees as we familiarly know them today — a primary trunk, large height, crown of leaves or fronds — didn't appear on the planet until the late Devonian period, some 360 million years ago. You might be surprised to learn that sharks are older than trees as they've been around for at least 400 million years.
+
+## Tue Mar 8
+- [Tap, rack, bang](https://en.wikipedia.org/wiki/Tap,_rack,_bang) is jargon for the response to a failure to fire in a firearm with a removable magazine. This is designated as an "Immediate Action" and involves no investigation of the cause (due to being under fire in a combat or defensive situation), but is effective for common failures, such as defective or improperly seated ammunition magazines.
+
+## Mon Mar 7
+- _Cf_ an abbreviation for the Latin word confer, meaning "compare" or "consult"
+
+## Sun Mar 6
+- [Literary nonsense](https://en.wikipedia.org/wiki/Literary_nonsense) is a broad categorization of literature that balances elements that make sense with some that do not, with the effect of subverting language conventions or logical reasoning.
+
+## Sat Mar 5
+- Ketchup does not have to be made from tomatoes
+  - [Mushroom ketchup](https://en.wikipedia.org/wiki/Mushroom_ketchup)
+  - [Banana ketchup](https://en.wikipedia.org/wiki/Banana_ketchup)
+
+## Fri Mar 4
+- [List of geographic portmanteaus](https://en.wikipedia.org/wiki/List_of_geographic_portmanteaus)
+
+## Thu Mar 3
+- A [garbled circuit](https://en.wikipedia.org/wiki/Garbled_circuit) is a cryptographic protocol that enables two-party secure computation in which two mistrusting parties can jointly evaluate a function over their private inputs without the presence of a trusted third party. In the garbled circuit protocol, the function has to be described as a Boolean circuit.
+
+## Wed Mar 2
+- Lewis Carroll was also a mathematician, and invented [multiple ciphers](https://lewiscarrollresources.net/ciphers/)
+
+## Tue Mar 1
+- [Skilly](https://en.wikipedia.org/wiki/Skilly_%28food%29) was a weak broth that was made with oatmeal mixed with water.
+
 ## February 2022
+
+### Mon Feb 28
+- A [fantasy video game console](https://en.wikipedia.org/wiki/Fantasy_video_game_console) is an emulator for a fictional video game console. In short, it aims to create the experience of retrogaming without the need to emulate a real console, allowing the developer to freely decide what specifications their fictional hardware will have.
 
 ### Sun Feb 27
 - Integrated circuits
