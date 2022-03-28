@@ -2,6 +2,29 @@
 
 ## March 2022
 
+## Sun Mar 27
+- Hawaii is the only U.S. state where no part of the state government performs DMV functions; it has completely delegated vehicle registration and driver licensing to local governments (i.e. the City and County of Honolulu; Hawai'i, Maui, and Kaua'i counties).
+
+## Sat Mar 26
+- The infinitely repeating digit in an infinite decimal is called the [repetend](https://en.wikipedia.org/wiki/Repeating_decimal)
+
+## Fri Mar 25
+- The [warp and woof](https://en.wikipedia.org/wiki/Warp_and_weft) are the two basic components used in weaving to turn thread or yarn into fabric. The lengthwise or longitudinal warp yarns are held stationary in tension on a frame or loom while the transverse woof is drawn through and inserted over and under the warp.
+- Ada Lovelace's mother was also a mathematician
+
+## Thu Mar 24
+- [Kremlinology](https://en.wikipedia.org/wiki/Kremlinology) is the study and analysis of the politics and policies of the Soviet Union while Sovietology is the study of politics and policies of both the Soviet Union and former communist states more generally. These two terms were synonymous until the dissolution of the Soviet Union.
+
+## Wed Mar 23
+- [Mud-puddling](https://en.wikipedia.org/wiki/Mud-puddling) is a behaviour most conspicuous in butterflies, but occurs in other animals as well, mainly insects; they seek out nutrients in certain moist substances such as rotting plant matter, mud and carrion and they suck up the fluid. Where the conditions are suitable, conspicuous insects such as butterflies commonly form aggregations on wet soil, dung or carrion.From the fluids they obtain salts and amino acids that play various roles in their physiology, ethology and ecology.
+
+## Tue Mar 22
+- [Beef on weck](https://en.wikipedia.org/wiki/Beef_on_weck) is a sandwich found primarily in Western New York State, particularly in the city of Buffalo. It is made with roast beef on a kummelweck roll, a roll that is topped with kosher salt and caraway seeds.
+
+## Mon Mar 21
+- [Squaring the circle](https://en.wikipedia.org/wiki/Squaring_the_circle) is a problem proposed by ancient geometers. It is the challenge of constructing a square with the same area as a given circle by using only a finite number of steps with compass and straightedge.
+- The [Indiana Pi Bill](https://en.wikipedia.org/wiki/Indiana_Pi_Bill) is the popular name for bill #246 of the 1897 sitting of the Indiana General Assembly, one of the most notorious attempts to establish mathematical truth by legislative fiat. Despite its name, the main result claimed by the bill is a method to square the circle, although it does imply various incorrect values of the mathematical constant π, the ratio of the circumference of a circle to its diameter. The bill, written by a physician who was an amateur mathematician, never became law due to the intervention of Professor C. A. Waldo of Purdue University, who happened to be present in the legislature on the day it went up for a vote.
+
 ## Sun Mar 20
 - [Candlepin bowling](https://en.wikipedia.org/wiki/Candlepin_bowling) is a variation of bowling that is played primarily in the Canadian Maritime provinces and the New England region of the United States. It is played with a handheld-sized ball and tall, narrow pins that resemble candles, hence the name.
 - [Duckpin bowling](https://en.wikipedia.org/wiki/Duckpin_bowling) is a variation of the sport of bowling. Duckpin balls are 4+3⁄4 in (12 cm) to 5 in (12.7 cm) in diameter, weigh 3 lb 6 oz (1.5 kg) to 3 lb 12 oz (1.7 kg) each, and lack finger holes. Duckpins, though arranged in a triangle identical to that used in ten-pin bowling, are shorter, slightly thinner, and lighter than their ten-pin equivalents, which makes it more difficult for the smaller ball to achieve a strike.
