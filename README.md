@@ -1,37 +1,127 @@
 # Today I Learned
 
-https://en.wikipedia.org/wiki/Psychology_of_eating_meat
-https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy
-https://en.wikipedia.org/wiki/List_of_films_that_most_frequently_use_the_word_%22fuck%22
-https://en.wikipedia.org/wiki/Spitball
-https://en.wikipedia.org/wiki/Great_Resignation
-https://en.wikipedia.org/wiki/Telephone_exchange
-exchange is middle 3 numbers in a phone number
-https://en.wikipedia.org/wiki/Demoscene
-https://en.wikipedia.org/wiki/Crack_intro
-https://en.wikipedia.org/wiki/Assembly_(demoparty)
-https://en.wikipedia.org/wiki/Hacker_culture
-https://en.m.wikipedia.org/wiki/Telephone_exchange_names
-https://en.wikipedia.org/wiki/Fixer_(person)
-https://en.wikipedia.org/wiki/Too_big_to_fail
-https://en.wikipedia.org/wiki/Wind_phone
-https://en.wikipedia.org/wiki/Atmospheric_duct
-https://en.m.wikipedia.org/wiki/Phase-shift_keying
-[Radiation hardening - Wikipedia](https://en.wikipedia.org/wiki/Radiation_hardening)
-[Man bites dog - Wikipedia](https://en.wikipedia.org/wiki/Man_bites_dog)
-[ZAP! Lightning, Gods, and Mushrooms :Cornell Mushroom Blog](https://blog.mycology.cornell.edu/2013/01/20/zap-lightning-gods-and-mushrooms/)
-https://en.wikipedia.org/wiki/Original_North_American_area_codes
-https://en.wikipedia.org/wiki/Tama-Re
-https://en.wikipedia.org/wiki/Akhfash's_goat
-https://en.wikipedia.org/wiki/Sublime_(philosophy)
-https://en.wikipedia.org/wiki/Baby_Train
-https://en.wikipedia.org/wiki/Comparative_illusion
-https://en.wikipedia.org/wiki/Montreal_Protocol
-https://en.wikipedia.org/wiki/Larrikin
-https://en.wikipedia.org/wiki/Half-track
-https://en.wikipedia.org/wiki/Servant_of_the_People
+## April 2022
+
+### Sun Apr 3
+- Redfoo and SkyBlu of LMFAO are uncle and nephew
+
+### Sat Apr 2
+- The [Julian day](https://en.wikipedia.org/wiki/Julian_day) is the continuous count of days since the beginning of the Julian period, and is used primarily by astronomers, and in software for easily calculating elapsed days between two events (e.g. food production date and sell by date).
+
+### Fri Apr 1
+- Newspaper formats
+  - A [tabloid](https://en.wikipedia.org/wiki/Tabloid_(newspaper_format)) is a newspaper with a compact page size smaller than broadsheet. There is no standard size for this newspaper format.
+  - A [broadsheet](https://en.wikipedia.org/wiki/Broadsheet) is the largest newspaper format and is characterized by long vertical pages, typically of 22.5 inches (57 cm).
+  - [Berliner](https://en.wikipedia.org/wiki/Berliner_(format)), or "midi", is a newspaper format with pages normally measuring about 315 by 470 millimetres (12.4 in × 18.5 in). The Berliner format is slightly taller and marginally wider than the tabloid/compact format; and is both narrower and shorter than the broadsheet format.
+  ![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Comparison_newspaper_size.svg)
+
+## March 2022
+
+### Thu Mar 31
+- George Boole was mostly self-taught and had no more than a primary school education
+
+### Wed Mar 30
+- An [autopen](https://en.wikipedia.org/wiki/Autopen) is a device used for the automatic signing of a signature or autograph. Many celebrities, politicians and public figures receive hundreds of letters a day, many of which request a personal reply; this leads to a situation in which either the individual must artificially reproduce their signature or heavily limit the number of recipients who receive a personal response.
+- The [royal sign-manual](https://en.wikipedia.org/wiki/Royal_sign-manual) is the signature of the sovereign, by the affixing of which the monarch expresses his or her pleasure either by order, commission, or warrant. A sign-manual warrant may be either an executive act (for example, an appointment to an office), or an authority for affixing the Great Seal of the pertinent realm.
+
+### Tue Mar 29
+- [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) is a term conceived by Richard P. Gabriel in an essay of the same name to describe the dynamics of software acceptance. It refers to the argument that software quality does not necessarily increase with functionality: that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
+- The [UNIX-HATERS Handbook](https://en.wikipedia.org/wiki/The_UNIX-HATERS_Handbook) is a semi-humorous edited compilation of messages to the UNIX-HATERS mailing list. The book concerns the frustrations of users of the Unix operating system. Many users had come from systems that they felt were far more sophisticated in features and usability, and they were frustrated by the perceived "worse is better" design philosophy that they felt Unix and much of its software encapsulated.
+
+### Mon Mar 28
+- [Lake Vostok](https://en.wikipedia.org/wiki/Lake_Vostok) is the largest of Antarctica's almost 400 known subglacial lakes. The overlying ice provides a continuous paleoclimatic record of 400,000 years, although the lake water itself may have been isolated for 15 to 25 million years. It is hypothesized that unusual forms of life could be found in the lake's liquid layer, a fossil water reserve. Because Lake Vostok may contain an environment sealed off below the ice for millions of years, the conditions could resemble those of ice-covered oceans hypothesized to exist on Jupiter's moon Europa, and Saturn's moon Enceladus.
+
+### Sun Mar 27
+- Hawaii is the only U.S. state where no part of the state government performs DMV functions; it has completely delegated vehicle registration and driver licensing to local governments (i.e. the City and County of Honolulu; Hawai'i, Maui, and Kaua'i counties).
+
+### Sat Mar 26
+- The infinitely repeating digit in an infinite decimal is called the [repetend](https://en.wikipedia.org/wiki/Repeating_decimal)
+
+### Fri Mar 25
+- The [warp and woof](https://en.wikipedia.org/wiki/Warp_and_weft) are the two basic components used in weaving to turn thread or yarn into fabric. The lengthwise or longitudinal warp yarns are held stationary in tension on a frame or loom while the transverse woof is drawn through and inserted over and under the warp.
+- Ada Lovelace's mother was also a mathematician
+
+### Thu Mar 24
+- [Kremlinology](https://en.wikipedia.org/wiki/Kremlinology) is the study and analysis of the politics and policies of the Soviet Union while Sovietology is the study of politics and policies of both the Soviet Union and former communist states more generally. These two terms were synonymous until the dissolution of the Soviet Union.
+
+### Wed Mar 23
+- [Mud-puddling](https://en.wikipedia.org/wiki/Mud-puddling) is a behaviour most conspicuous in butterflies, but occurs in other animals as well, mainly insects; they seek out nutrients in certain moist substances such as rotting plant matter, mud and carrion and they suck up the fluid. Where the conditions are suitable, conspicuous insects such as butterflies commonly form aggregations on wet soil, dung or carrion.From the fluids they obtain salts and amino acids that play various roles in their physiology, ethology and ecology.
+
+### Tue Mar 22
+- [Beef on weck](https://en.wikipedia.org/wiki/Beef_on_weck) is a sandwich found primarily in Western New York State, particularly in the city of Buffalo. It is made with roast beef on a kummelweck roll, a roll that is topped with kosher salt and caraway seeds.
+
+### Mon Mar 21
+- [Squaring the circle](https://en.wikipedia.org/wiki/Squaring_the_circle) is a problem proposed by ancient geometers. It is the challenge of constructing a square with the same area as a given circle by using only a finite number of steps with compass and straightedge.
+- The [Indiana Pi Bill](https://en.wikipedia.org/wiki/Indiana_Pi_Bill) is the popular name for bill #246 of the 1897 sitting of the Indiana General Assembly, one of the most notorious attempts to establish mathematical truth by legislative fiat. Despite its name, the main result claimed by the bill is a method to square the circle, although it does imply various incorrect values of the mathematical constant π, the ratio of the circumference of a circle to its diameter. The bill, written by a physician who was an amateur mathematician, never became law due to the intervention of Professor C. A. Waldo of Purdue University, who happened to be present in the legislature on the day it went up for a vote.
+
+### Sun Mar 20
+- [Candlepin bowling](https://en.wikipedia.org/wiki/Candlepin_bowling) is a variation of bowling that is played primarily in the Canadian Maritime provinces and the New England region of the United States. It is played with a handheld-sized ball and tall, narrow pins that resemble candles, hence the name.
+- [Duckpin bowling](https://en.wikipedia.org/wiki/Duckpin_bowling) is a variation of the sport of bowling. Duckpin balls are 4+3⁄4 in (12 cm) to 5 in (12.7 cm) in diameter, weigh 3 lb 6 oz (1.5 kg) to 3 lb 12 oz (1.7 kg) each, and lack finger holes. Duckpins, though arranged in a triangle identical to that used in ten-pin bowling, are shorter, slightly thinner, and lighter than their ten-pin equivalents, which makes it more difficult for the smaller ball to achieve a strike.
+
+### Sat Mar 19
+- [Akhfash's goat](https://en.wikipedia.org/wiki/Akhfash's_goat) is a Persian parable in which a philosopher trains his pet goat to nod its head when asked if it had understood a book that it was shown. The term "Akhfash's goat" refers to a person who nods along with a conversation that they do not understand.
+
+### Fri Mar 18
+- The [International Cocoa Quarantine Centre](https://en.wikipedia.org/wiki/International_Cocoa_Quarantine_Centre) is an organization aiming to reduce the amount of disease affecting cocoa plants. Cocoa plants are quarantined in a 1,000-square-metre (11,000 sq ft) greenhouse before being transported across the globe. Quarantining cocoa plants is considered important because over 70% of the global cocoa supply originates from West Africa, and therefore the cocoa market is susceptible to any catastrophic effects that should occur in that region.
+
+### Thu Mar 17
+- [A True Story](https://en.wikipedia.org/wiki/A_True_Story) is a long novella or short novel written in the second century AD by the Greek author Lucian of Samosata. The novel is a satire of outlandish tales that had been reported in ancient sources, particularly those that presented fantastic or mythical events as if they were true. It is Lucian's best-known work. It is the earliest known work of fiction to include travel to outer space, alien lifeforms, and interplanetary warfare. It has been described as "the first known text that could be called science fiction".
+
+### Wed Mar 16
+- [Comparative illusions](https://en.wikipedia.org/wiki/Comparative_illusion) are certain comparative sentences which initially seem to be acceptable but upon closer reflection have no well-formed meaning. The typical example sentence used to typify this phenomenon is "More people have been to Russia than I have".
+
+### Tue Mar 15
+- [Larrikin](https://en.wikipedia.org/wiki/Larrikin) is an Australian English term meaning "a mischievous young person, an uncultivated, rowdy but good hearted person", or "a person who acts with apparent disregard for social or political conventions".
+
+### Mon Mar 14
+- A [half-track](https://en.wikipedia.org/wiki/Half-track) is a civilian or military vehicle with regular wheels at the front for steering and continuous tracks at the back to propel the vehicle and carry most of the load. The purpose of this combination is to produce a vehicle with the cross-country capabilities of a tank and the handling of a wheeled vehicle.
+
+### Sun Mar 13
+- [Mains hum](https://en.wikipedia.org/wiki/Mains_hum) is a sound associated with alternating current which is twice the frequency of the mains electricity. The fundamental frequency of this sound is usually double that of fundamental 50/60 Hz, i.e. 100/120 Hz, depending on the local power-line frequency. The sound often has heavy harmonic content above 50/60 Hz.
+
+### Sat Mar 12
+- [Metonymy](https://en.wikipedia.org/wiki/Metonymy) is a figure of speech in which a thing or concept is referred to by the name of something closely associated with that thing or concept.
+
+### Fri Mar 11
+- [Obscurantism](https://en.wikipedia.org/wiki/Obscurantism) describes the practice of deliberately presenting information in an imprecise, abstruse manner designed to limit further inquiry and understanding. There are two historical and intellectual denotations of obscurantism: (1) the deliberate restriction of knowledge—opposition to disseminating knowledge; and (2) deliberate obscurity—a recondite literary or artistic style, characterized by deliberate vagueness.
+
+### Thu Mar 10
+- [Prisencolinensinainciusol](https://en.wikipedia.org/wiki/Prisencolinensinainciusol) is a song composed by the Italian singer Adriano Celentano, and performed by Celentano and his wife Claudia Mori, a singer/actress-turned-record producer. The song is intended to sound to its Italian audience as if it is sung in English spoken with an American accent, designed to be "Bob Dylan-esque"; however, the lyrics are deliberately unintelligible gibberish with the exception of the words "all right.
+
+### Wed Mar 9
+- Sharks are older than trees
+  - > Trees as we familiarly know them today — a primary trunk, large height, crown of leaves or fronds — didn't appear on the planet until the late Devonian period, some 360 million years ago. You might be surprised to learn that sharks are older than trees as they've been around for at least 400 million years.
+
+### Tue Mar 8
+- [Tap, rack, bang](https://en.wikipedia.org/wiki/Tap,_rack,_bang) is jargon for the response to a failure to fire in a firearm with a removable magazine. This is designated as an "Immediate Action" and involves no investigation of the cause (due to being under fire in a combat or defensive situation), but is effective for common failures, such as defective or improperly seated ammunition magazines.
+
+### Mon Mar 7
+- _Cf_ an abbreviation for the Latin word confer, meaning "compare" or "consult"
+
+### Sun Mar 6
+- [Literary nonsense](https://en.wikipedia.org/wiki/Literary_nonsense) is a broad categorization of literature that balances elements that make sense with some that do not, with the effect of subverting language conventions or logical reasoning.
+
+### Sat Mar 5
+- Ketchup does not have to be made from tomatoes
+  - [Mushroom ketchup](https://en.wikipedia.org/wiki/Mushroom_ketchup)
+  - [Banana ketchup](https://en.wikipedia.org/wiki/Banana_ketchup)
+
+### Fri Mar 4
+- [List of geographic portmanteaus](https://en.wikipedia.org/wiki/List_of_geographic_portmanteaus)
+
+### Thu Mar 3
+- A [garbled circuit](https://en.wikipedia.org/wiki/Garbled_circuit) is a cryptographic protocol that enables two-party secure computation in which two mistrusting parties can jointly evaluate a function over their private inputs without the presence of a trusted third party. In the garbled circuit protocol, the function has to be described as a Boolean circuit.
+
+### Wed Mar 2
+- Lewis Carroll was also a mathematician, and invented [multiple ciphers](https://lewiscarrollresources.net/ciphers/)
+
+### Tue Mar 1
+- [Skilly](https://en.wikipedia.org/wiki/Skilly_%28food%29) was a weak broth that was made with oatmeal mixed with water.
 
 ## February 2022
+
+### Mon Feb 28
+- A [fantasy video game console](https://en.wikipedia.org/wiki/Fantasy_video_game_console) is an emulator for a fictional video game console. In short, it aims to create the experience of retrogaming without the need to emulate a real console, allowing the developer to freely decide what specifications their fictional hardware will have.
 
 ### Sun Feb 27
 - Integrated circuits
