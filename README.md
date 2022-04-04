@@ -1,5 +1,36 @@
 # Today I Learned
 
+https://en.wikipedia.org/wiki/Psychology_of_eating_meat
+https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy
+https://en.wikipedia.org/wiki/List_of_films_that_most_frequently_use_the_word_%22fuck%22
+https://en.wikipedia.org/wiki/Spitball
+https://en.wikipedia.org/wiki/Great_Resignation
+https://en.wikipedia.org/wiki/Telephone_exchange
+exchange is middle 3 numbers in a phone number
+https://en.wikipedia.org/wiki/Demoscene
+https://en.wikipedia.org/wiki/Crack_intro
+https://en.wikipedia.org/wiki/Assembly_(demoparty)
+https://en.wikipedia.org/wiki/Hacker_culture
+https://en.m.wikipedia.org/wiki/Telephone_exchange_names
+https://en.wikipedia.org/wiki/Fixer_(person)
+https://en.wikipedia.org/wiki/Too_big_to_fail
+https://en.wikipedia.org/wiki/Wind_phone
+https://en.wikipedia.org/wiki/Atmospheric_duct
+https://en.m.wikipedia.org/wiki/Phase-shift_keying
+[Radiation hardening - Wikipedia](https://en.wikipedia.org/wiki/Radiation_hardening)
+[Man bites dog - Wikipedia](https://en.wikipedia.org/wiki/Man_bites_dog)
+[ZAP! Lightning, Gods, and Mushrooms :Cornell Mushroom Blog](https://blog.mycology.cornell.edu/2013/01/20/zap-lightning-gods-and-mushrooms/)
+https://en.wikipedia.org/wiki/Original_North_American_area_codes
+https://en.wikipedia.org/wiki/Tama-Re
+https://en.wikipedia.org/wiki/Akhfash's_goat
+https://en.wikipedia.org/wiki/Sublime_(philosophy)
+https://en.wikipedia.org/wiki/Baby_Train
+https://en.wikipedia.org/wiki/Comparative_illusion
+https://en.wikipedia.org/wiki/Montreal_Protocol
+https://en.wikipedia.org/wiki/Larrikin
+https://en.wikipedia.org/wiki/Half-track
+https://en.wikipedia.org/wiki/Servant_of_the_People
+
 ## February 2022
 
 ### Sun Feb 27
