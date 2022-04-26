@@ -2,6 +2,80 @@
 
 ## April 2022
 
+### Sun Apr 24
+- [Ben Barres](https://en.wikipedia.org/wiki/Ben_Barres) was an American neurobiologist at Stanford University. His research focused on the interaction between neurons and glial cells in the nervous system. Beginning in 2008, he was chair of the Neurobiology Department at Stanford University School of Medicine. He transitioned to male in 1997, and became the first openly transgender scientist in the National Academy of Sciences in 2013.
+
+### Sat Apr 23
+- [UK stores must provide a battery recycling collection if they sell more than 32kg of batteries a year](https://www.gov.uk/battery-waste-supplier-reponsibilities)
+
+### Fri Apr 22
+- [Travelling gnome](https://en.wikipedia.org/wiki/Travelling_gnome)
+  - **Gnoming as theft**: There have also been a number of criminal incidents in which individuals or groups steal large numbers of garden gnomes without the intention of returning, often with the purported mission of "freeing" gnomes and "returning them to the wild". These crimes can cause distress to the victims of the theft, particularly if the gnomes have sentimental value.
+- [Baby Jesus theft](https://en.wikipedia.org/wiki/Baby_Jesus_theft) is the theft of plastic or ceramic figurines of the infant Jesus from outdoor public and private nativity displays during the Christmas season. It is an "enduring (and illegal) practice" according to New York Times journalist Katie Rogers, "believed to be part of a yearly tradition, often carried out by bored teenagers looking for an easy prank." The prevalence of such thefts has caused the owners of outdoor manger scenes to protect their property with GPS devices, surveillance cameras, or by other mean.
+
+### Thu Apr 21
+- [Many recent Thai restaurants have been funded by the Thai government](https://www.youtube.com/watch?v=W09QCLmnCUU) as part of [culinary diplomacy](https://www.youtube.com/watch?v=W09QCLmnCUU)
+
+### Wed Apr 20
+- The [Crypto Wars](https://en.wikipedia.org/wiki/Crypto_Wars) is an unofficial name for the attempts of the United States (US) and allied governments to limit the public's and foreign nations' access to cryptography strong enough to thwart decryption by national intelligence agencies, especially the National Security Agency (NSA).
+
+### Tue Apr 19
+- Mozart wrote two songs about licking asses:
+  - [Leck mich im Arsch](https://en.wikipedia.org/wiki/Leck_mich_im_Arsch)
+  - [Leck mir den Arsch fein recht schön sauber](https://en.wikipedia.org/wiki/Leck_mir_den_Arsch_fein_recht_sch%C3%B6n_sauber)
+
+### Mon Apr 18
+- The [Gävle Goat](https://en.wikipedia.org/wiki/G%C3%A4vle_goat) is a traditional Christmas display erected annually at Slottstorget in central Gävle, Sweden. It is a giant version of a traditional Swedish Yule Goat figure made of straw. It is erected each year by local community groups at the beginning of Advent over a period of two days. It has been the subject of repeated arson attacks, and, despite security measures and a nearby fire station, the goat has been burned to the ground most years since its first appearance in 1966. As of December 2021, 38 out of 56 goats have been destroyed or damaged in some way. Burning or destroying the goat in some way is illegal, and the Svea Court of Appeal has stated that the offence should normally carry a 3-month prison sentence; in 2018, it sentenced a 27-year-old man to a suspended sentence and day fines for aggravated property damage for burning the goat.
+
+### Sun Apr 17
+- The oft-quoted line "Do you think God stays in heaven because he too lives in fear of what he has created?" was first written for Spy Kids 2: The Island Of Lost Dreams.
+
+### Sat Apr 16
+- [Well-known URIs](https://en.wikipedia.org/wiki/Well-known_URI) a Uniform Resource Identifier for a URL path prefixes that start with /.well-known/. They are implemented in webservers so that requests to the servers for well-known services or information are available at URLs consistent well-known locations across servers.
+
+### Fri Apr 15
+- The [Underhanded C Contest](http://www.underhanded-c.org/) is a programming contest to turn out code that is malicious, but passes a rigorous inspection, and looks like an honest mistake even if discovered. The contest rules define a task, and a malicious component. Entries must perform the task in a malicious manner as defined by the contest, and hide the malice. Contestants are allowed to use C-like compiled languages to make their programs.
+
+### Thu Apr 14
+- [Sprezzatura](https://en.wikipedia.org/wiki/Sprezzatura) is an Italian word that first appears in Baldassare Castiglione's 1528 The Book of the Courtier, where it is defined by the author as "a certain nonchalance, so as to conceal all art and make whatever one does or says appear to be without effort and almost without any thought about it". It is the ability of the courtier to display "an easy facility in accomplishing difficult actions which hides the conscious effort that went into them". Sprezzatura has also been described "as a form of defensive irony: the ability to disguise what one really desires, feels, thinks, and means or intends behind a mask of apparent reticence and nonchalance".
+
+### Wed Apr 13
+- A [beetle bank](https://en.wikipedia.org/wiki/Beetle_bank) in agriculture and horticulture, is a form of biological pest control. It is a strip, preferably raised, planted with grasses (bunch grasses) and/or perennial plants, within a crop field or a garden, that fosters and provides habitat for beneficial insects, birds, and other fauna that prey on pests.
+- An [insect hotel](https://en.wikipedia.org/wiki/Insect_hotel), also known as a bug hotel or insect house, is a manmade structure created to provide shelter for insects. They can come in a variety of shapes and sizes depending on the specific purpose or specific insect it is catered to. Most consist of several different sections that provide insects with nesting facilities – particularly during winter, offering shelter or refuge for many types of insects. Their purposes include hosting pollinators.
+
+### Tue Apr 12
+- [Noble cause corruption](https://en.wikipedia.org/wiki/Noble_cause_corruption) is corruption caused by the adherence to a teleological ethical system, suggesting that people will use unethical or illegal means to attain desirable goals, a result which appears to benefit the greater good. Where traditional corruption is defined by personal gain, noble cause corruption forms when someone is convinced of their righteousness, and will do anything within their powers to achieve the desired result. An example of noble cause corruption is police misconduct "committed in the name of good ends" or neglect of due process through "a moral commitment to make the world a safer place to live.".
+
+### Mon Apr 11
+- [The first account of genital reassignment surgery was written in the first century BCE, describing a person who lived in the second century BCE. Here's what we know about Callon of Epidaurus, as recorded by Diodorus Siculus.](https://twitter.com/vagina_museum/status/1513465737679192066?s=20&t=2krShrcYdDRqezGVsGemKw)
+  - [Source](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/32*.html)
+
+### Sun Apr 10
+- [Doctor's sausage](https://en.wikipedia.org/wiki/Doctor%27s_sausage) is a popular variety of boiled sausage in Russia and the former Soviet republics, corresponding to GOST standard 23670-79, a sort of low-fat bologna. In accordance with the legislation of the Eurasian Economic Union, no meat products may be released using names that are similar to the names of meat products established by interstate (regional) standards, with the exception of meat products manufactured according to these standards. In the technical regulations, as an example of such a name, "Doctor's sausage" (along with some others) is given.
+
+### Sat Apr 9
+- A [lunchtime attack](https://en.wikipedia.org/wiki/Chosen-ciphertext_attack#Lunchtime_attacks) is a variant of the chosen-ciphertext attack, in which an attacker may make adaptive chosen-ciphertext queries but only up until a certain point, after which the attacker must demonstrate some improved ability to attack the system. The term "lunchtime attack" refers to the idea that a user's computer, with the ability to decrypt, is available to an attacker while the user is out to lunch. This form of the attack was the first one commonly discussed: obviously, if the attacker has the ability to make adaptive chosen ciphertext queries, no encrypted message would be safe, at least until that ability is taken away.
+
+### Fri Apr 8
+- [Bedtime procrastination](https://en.wikipedia.org/wiki/Bedtime_procrastination) is a psychological phenomenon in which people stay up later than they desire in an attempt to have control over the night because they perceive themselves (perhaps subconsciously) to lack influence over events during the day.
+  - This article personally attacked me
+
+### Thu Apr 7
+- [Bilingual tautological expressions](https://en.wikipedia.org/wiki/Pleonasm#Bilingual_tautological_expressions) is a phrase that combines words that mean the same thing in two different languages, for example:
+  - River Avon, literally "River River", from Welsh
+  - the Sahara Desert, literally "the The Desert Desert", from Arabic.
+  - the La Brea Tar Pits, literally "the The Tar Tar Pits", from Spanish.
+  - the hoi polloi, literally "the the many", from Greek.
+
+### Wed Apr 6
+- [Extreme ironing](https://en.wikipedia.org/wiki/Extreme_ironing) is an extreme sport in which people take ironing boards to remote locations and iron items of clothing. According to the Extreme Ironing Bureau, extreme ironing is "the latest danger sport that combines the thrills of an extreme outdoor activity with the satisfaction of a well-pressed shirt."
+
+### Tue Apr 5
+- [Thomas Midgely Jr.](https://en.wikipedia.org/wiki/Thomas_Midgley_Jr.) was called a "one-man environmental disaster", having contributed to the discovery of Freon and leaded gasoline.
+
+### Mon Apr 4
+- [Conscientious objection to military taxation](https://en.wikipedia.org/wiki/Conscientious_objection_to_military_taxation) is a legal theory that attempts to extend into the realm of taxation the concessions to conscientious objectors that many governments allow in the case of conscription, thereby allowing conscientious objectors to insist that their tax payments not be spent for military purposes.
+
 ### Sun Apr 3
 - Redfoo and SkyBlu of LMFAO are uncle and nephew
 
