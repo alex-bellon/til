@@ -1,6 +1,39 @@
 # Today I Learned
 
+## May 2022
+
+### Sun May 1
+- [8-N-1](https://en.wikipedia.org/wiki/8-N-1) is a common shorthand notation for a serial port parameter setting or configuration in asynchronous mode, in which there is one start bit, eight (8) data bits, no (N) parity bit, and one (1) stop bit. As such, 8-N-1 is the most common configuration for PC serial communications today.
+
 ## April 2022
+
+### Sat Apr 30
+- [There are 51 discontinued flavors of Girl Scout Cookies](https://en.wikipedia.org/wiki/Girl_Scout_Cookies#Discontinued_(51_total))
+
+### Fri Apr 29
+- The [Free Speech Flag](https://en.wikipedia.org/wiki/Free_Speech_Flag) is a symbol of personal liberty used to promote freedom of speech. Designed by artist John Marcotte, the flag and its colors correspond to a cryptographic key which enabled users to copy HD DVDs and Blu-ray Discs. It was created on May 1, 2007, during the AACS encryption key controversy.
+
+### Thu Apr 28
+- A [serious game](https://en.wikipedia.org/wiki/Serious_game) is a game designed for a primary purpose other than pure entertainment. The "serious" adjective is generally prepended to refer to video games used by industries like defense, education, scientific exploration, health care, emergency management, city planning, engineering, and politics.
+
+### Wed Apr 27
+- [Buffer state](https://en.wikipedia.org/wiki/Buffer_state) is a country lying between two rival or potentially hostile great powers. Its existence can sometimes be thought to prevent conflict between them. A buffer state is sometimes a mutually agreed upon area lying between two greater powers, which is demilitarized in the sense of not hosting the military of either power (though it will usually have its own military forces). The invasion of a buffer state by one of the powers surrounding it will often result in war between the powers.
+
+### Tue Apr 26
+- [List of unusual deaths](https://en.wikipedia.org/wiki/List_of_unusual_deaths)
+
+### Mon Apr 25
+- [Combination Utensils](https://en.wikipedia.org/wiki/List_of_eating_utensils#Combination_utensils)
+  - **Chopfork** – A utensil with a fork at one end and chopsticks/tongs at the other
+  - **Chork** – Pointed and slightly curved tongs, which can be used like chopsticks (as pincers) or as a fork (for spearing). A different kind of chork is a fork with a split handle, which can be broken in half to make two chopsticks
+  - **Forkchops** – Used in a pair, these are basically a pair of chopsticks with a small fork and knife on the non-pointed ends
+  - **Knork** – A knife with a single tine, sharpened or serrated, set into the anterior end of the blade. (from knife and fork)
+  - **Pastry** fork – A fork with a cutting edge along one of the tines
+  - **Spoon** straw – A scoop-ended drinking straw intended for slushies and milkshakes
+  - **Sporf** – A utensil consisting of a spoon on one end, a fork on the other, and edge tines that are sharpened or serrated
+  - **Spork** – Spoon and fork
+  - **Splayd** – Spoon and fork and knife
+  - **Spife** – Spoon and knife
 
 ### Sun Apr 24
 - [Ben Barres](https://en.wikipedia.org/wiki/Ben_Barres) was an American neurobiologist at Stanford University. His research focused on the interaction between neurons and glial cells in the nervous system. Beginning in 2008, he was chair of the Neurobiology Department at Stanford University School of Medicine. He transitioned to male in 1997, and became the first openly transgender scientist in the National Academy of Sciences in 2013.
