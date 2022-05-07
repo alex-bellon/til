@@ -2,6 +2,32 @@
 
 ## May 2022
 
+### Sun May 8
+- [Hipster PDA](https://en.wikipedia.org/wiki/Hipster_PDA) is a paper-based personal organizer. Originally a tongue-in-cheek reaction to the increasing expense and complexity of personal digital assistants (PDA), the Hipster PDA (said to stand for "Parietal Disgorgement Aid" and often abbreviated to "hPDA") simply comprises a sheaf of index cards held together with a binder clip.
+- [Mung](https://en.wikipedia.org/wiki/Mung_(computer_term)) is computer jargon for a series of potentially destructive or irrevocable changes to a piece of data or a file. It is sometimes used for vague data transformation steps that are not yet clear to the speaker. Common munging operations include removing punctuation or HTML tags, data parsing, filtering, and transformation.
+- The [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) is named after the tomato kitchen timer the inventor initially used
+
+### Sat May 7
+- [Snatiation](https://en.wikipedia.org/wiki/Snatiation) is a term coined to refer to the a medical condition originally termed "stomach sneeze reflex", which is characterized by uncontrollable bursts of sneezing brought on by fullness of the stomach, typically immediately after a large meal.
+- [Response to sneezing](https://en.wikipedia.org/wiki/Response_to_sneezing)
+
+### Fri May 6
+- The [Sonnenberg Tunnel](https://en.wikipedia.org/wiki/Sonnenberg_Tunnel) in Lucerne was at its completion, the world's largest civilian nuclear fallout shelter, designed to protect 20,000 civilians in the eventuality of war or disaster.
+
+### Thu May 5
+- A [palimpsest](https://en.wikipedia.org/wiki/Palimpsest) is a manuscript page, either from a scroll or a book, from which the text has been scraped or washed off so that the page can be reused for another document.
+
+### Wed May 4
+- The [chokeslam](https://en.wikipedia.org/wiki/Chokeslam) may have been invented by Abraham Lincoln:
+  - > The chokeslam was innovated by Paul Heyman for use by the wrestler 911, though one of the earliest accounts of the move dates back to a 19th-century recounting that describes Abraham Lincoln (himself a wrestler in his youth) using a technique very similar in description.
+
+### Tue May 3
+- An [Engineer's ring](https://en.wikipedia.org/wiki/Engineer's_Ring) is a ring worn by members of the United States Order of the Engineer, a fellowship of engineers who must be a certified Professional Engineer or graduated from an accredited engineering program (or be within one academic year of graduation to participate). The ring is usually a stainless steel band worn on the little finger of the dominant hand. This is so that it makes contact with all work done by the engineer. Rings used to be cast in iron in the most unattractive and simple form to show the nature of work. The ring is symbolic of the oath taken by the wearer, and symbolizes the unity of the profession in its goal of benefitting mankind. The stainless steel from which the ring is made depicts the strength of the profession.
+- The [Iron Ring](https://en.wikipedia.org/wiki/Iron_Ring) is a ring worn by many Canadian-trained engineers, as a symbol and reminder of the obligations and ethics associated with their profession.
+
+### Mon May 2
+- [List of colossal sculptures in situ](https://en.wikipedia.org/wiki/List_of_colossal_sculpture_in_situ): A colossal statue is one that is more than twice life-size.[1] This is a list of colossal statues and other sculptures that were created, mostly or all carved, and remain in situ. This list includes two colossal stones that were intended to be moved. However, they were never broken free of the quarry in which they were carved, and therefore they would be considered carved in situ. Most of these were carved in ancient times.
+
 ### Sun May 1
 - [8-N-1](https://en.wikipedia.org/wiki/8-N-1) is a common shorthand notation for a serial port parameter setting or configuration in asynchronous mode, in which there is one start bit, eight (8) data bits, no (N) parity bit, and one (1) stop bit. As such, 8-N-1 is the most common configuration for PC serial communications today.
 
