@@ -2,6 +2,35 @@
 
 ## May 2022
 
+### Sun May 15
+- [Bicycle culture](https://en.wikipedia.org/wiki/Bicycle_culture)
+  - [Alleycat race](https://en.wikipedia.org/wiki/Alleycat_race) is an unsanctioned bicycle race. Alley cats almost always take place in cities, and are often organized by bicycle messengers. The informality of the organization is matched by the emphasis on taking part, rather than simple competition. For instance, many alleycats present prizes for the last competitor to finish (sometimes known as Dead Fucking Last or DFL)
+  - A [spoke card](https://en.wikipedia.org/wiki/Spoke_card) is a card placed in the spokes of a bicycle wheel. They lie parallel to the entire wheel. One origin of the spoke card was laminated cards inserted in spokes with numbers used to identify competitors in competitive races held by bicycle messengers, in official competitions and in unofficial alleycat races. Tarot cards with the racers number written on them were used initially, but nowadays cards are often custom printed.
+  - [Cycle Messenger World Championship](https://en.wikipedia.org/wiki/Cycle_Messenger_World_Championships)
+
+### Sat May 14
+- **frob** - To manipulate in some ill-defined way; to tweak or mess about with
+- [Dazzle camouflage](https://en.wikipedia.org/wiki/Dazzle_camouflage) was a family of ship camouflage used extensively in World War I, and to a lesser extent in World War II and afterwards. Unlike other forms of camouflage, the intention of dazzle is not to conceal but to make it difficult to estimate a target's range, speed, and heading.
+
+### Fri May 13
+- [Van Eck phreaking](https://en.wikipedia.org/wiki/Van_Eck_phreaking) is a form of eavesdropping in which special equipment is used to pick up side-band electromagnetic emissions from electronic devices that correlate to hidden signals or data to recreate these signals or data to spy on the electronic device. Side-band electromagnetic radiation emissions are present in (and with the proper equipment, can be captured from) keyboards, computer displays, printers, and other electronic devices.
+- A [ewer](https://en.wiktionary.org/wiki/ewer) is a kind of widemouthed pitcher or jug with a shape like a vase and a handle.
+
+### Thu May 12
+- [Free range parenting](https://en.wikipedia.org/wiki/Free-range_parenting) is the concept of raising children in the spirit of encouraging them to function independently and with limited parental supervision, in accordance of their age of development and with a reasonable acceptance of realistic personal risks.
+  - [Children's street culture](https://en.wikipedia.org/wiki/Children%27s_street_culture) refers to the cumulative culture created by young children
+  - [Childhood secret club](https://en.wikipedia.org/wiki/Childhood_secret_club)
+- A [woonerf](https://en.wikipedia.org/wiki/Woonerf) is a living street, as originally implemented in the Netherlands and in Flanders (Belgium). Techniques include shared space, traffic calming, and low speed limits.
+
+### Wed May 11
+- In ancient Rome, an [itinerarium](https://en.wikipedia.org/wiki/Itinerarium) was a travel guide in the form of a listing of cities, villages (vici) and other stops on the way, including the distances between each stop and the next
+
+### Tue May 10
+- [Eigenface](https://en.wikipedia.org/wiki/Eigenface) is the name given to a set of eigenvectors when used in the computer vision problem of human face recognition.
+
+### Mon May 9
+- [Sui generis](https://en.wikipedia.org/wiki/Sui_generis) is a Latin phrase that means "of its/his/her/their own kind", "in a class by itself", therefore "unique"
+
 ### Sun May 8
 - [Hipster PDA](https://en.wikipedia.org/wiki/Hipster_PDA) is a paper-based personal organizer. Originally a tongue-in-cheek reaction to the increasing expense and complexity of personal digital assistants (PDA), the Hipster PDA (said to stand for "Parietal Disgorgement Aid" and often abbreviated to "hPDA") simply comprises a sheaf of index cards held together with a binder clip.
 - [Mung](https://en.wikipedia.org/wiki/Mung_(computer_term)) is computer jargon for a series of potentially destructive or irrevocable changes to a piece of data or a file. It is sometimes used for vague data transformation steps that are not yet clear to the speaker. Common munging operations include removing punctuation or HTML tags, data parsing, filtering, and transformation.
