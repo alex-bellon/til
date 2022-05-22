@@ -2,6 +2,31 @@
 
 ## May 2022
 
+### Sun May 22
+- A [slug](https://en.wikipedia.org/wiki/Slug) is a common name for any apparently shell-less terrestrial gastropod mollusc. The word slug is also often used as part of the common name of any gastropod mollusc that has no shell, a very reduced shell, or only a small internal shell, particularly sea slugs and semislugs (this is in contrast to the common name snail, which applies to gastropods that have a coiled shell large enough that they can fully retract their soft parts into it).
+  - SOME SLUGS HAVE INTERNAL SHELLS
+
+### Sat May 21
+- A [mezuzah](https://en.wikipedia.org/wiki/Mezuzah) is a piece of parchment, known as a klaf, contained in a decorative case and inscribed with specific Hebrew verses from the Torah. These verses consist of the Jewish prayer Shema Yisrael, beginning with the phrase: "Hear, O Israel, the Lord (is) our God, the Lord is One". In mainstream Rabbinic Judaism, a mezuzah is affixed to the doorpost of Jewish homes to fulfill the mitzvah (Biblical commandment) to "write the words of God on the gates and doorposts of your house" (Deuteronomy 6:9).
+  - [...Rabbenu Tam, felt that mezuzot should be affixed horizontally for the sake of tradition, because the scrolls in their leather cases were originally pushed horizontally into the crevices between the stones around the doorways of homes. Rashi argued that mezuzot should be affixed vertically, in such a way that the top pointed toward the Almighty. They eventually compromised, and agreed that a mezuzah should be hung on the diagonal, with its top inclined toward the inside.](https://www.jfedgmw.org/the-mezuzah-why-isnt-it-straight/)
+
+### Fri May 20
+- [Lab lit](https://en.wikipedia.org/wiki/Lab_lit) is a loosely defined genre of fiction, distinct from science fiction, that centers on realistic portrayals of scientists and on science as a profession
+- [Mundane science fiction](https://en.wikipedia.org/wiki/Mundane_science_fiction) is a niche literary movement within science fiction that developed in the early 2000s, characterized by its setting on Earth or within the Solar System; a lack of interstellar travel, intergalactic travel or human contact with extraterrestrials; and a believable use of technology and science as it exists at the time the story is written or a plausible extension of existing technology.
+- [Hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) is a category of science fiction characterized by concern for scientific accuracy and logic.
+
+### Thu May 19
+- [Bus factor](https://en.wikipedia.org/wiki/Bus_factor) is a measurement of the risk resulting from information and capabilities not being shared among team members, derived from the phrase "in case they get hit by a bus". It is also known as the bus problem, lottery factor, truck factor, bus/truck number, or lorry factor.
+
+### Wed May 18
+- TikZ is an acronym for "TikZ ist kein Zeichenprogramm" (TikZ is not a drawing program)
+
+### Tue May 17
+- [Calentao](https://en.wikipedia.org/wiki/Calentao) is a Paisa and Antioquia, Colombian cuisine dish made from reheated leftovers including rice, egg, pasta, beans, potatoes and other foods such as arepa, chorizo, and ground beef. It is generally eaten for breakfast and is often accompanied by aguapanela, arepa, coffee, juice or hot chocolate.
+
+### Mon May 16
+- [Flyting](https://en.wikipedia.org/wiki/Flyting) is a contest consisting of the exchange of insults between two parties, often conducted in verse.
+
 ### Sun May 15
 - [Bicycle culture](https://en.wikipedia.org/wiki/Bicycle_culture)
   - [Alleycat race](https://en.wikipedia.org/wiki/Alleycat_race) is an unsanctioned bicycle race. Alley cats almost always take place in cities, and are often organized by bicycle messengers. The informality of the organization is matched by the emphasis on taking part, rather than simple competition. For instance, many alleycats present prizes for the last competitor to finish (sometimes known as Dead Fucking Last or DFL)
