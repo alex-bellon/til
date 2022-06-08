@@ -1,6 +1,68 @@
 # Today I Learned
 
+## June 2022
+
+### Sun Jun 5
+- [Morganatic marriage](https://en.wikipedia.org/wiki/Morganatic_marriage), sometimes called a left-handed marriage, is a marriage between people of unequal social rank, which in the context of royalty or other inherited title prevents the principal's position or privileges being passed to the spouse, or any children born of the marriage.
+
+### Sat Jun 4
+- [Zealand](https://en.wikipedia.org/wiki/Zealand) is the largest and most populous island in Denmark proper (thus excluding Greenland and Disko Island, which are larger in size
+- [Zeeland](https://en.wikipedia.org/wiki/Zeeland) is the westernmost and least populous province of the Netherlands. The country of New Zealand was named after Zeeland after it was sighted by Dutch explorer Abel Tasman.
+
+### Fri Jun 3
+- The [Maple syrup event](https://en.wikipedia.org/wiki/Maple_syrup_event) was the presence of a particular scent in New York City in the late 2000s, and the response to this smell by the residents, various media outlets, and government agencies.
+
+### Thu Jun 2
+- [TEMPEST](https://en.wikipedia.org/wiki/Tempest_(codename)) is a U.S. National Security Agency specification and a NATO certification referring to spying on information systems through leaking emanations, including unintentional radio or electrical signals, sounds, and vibrations. TEMPEST covers both methods to spy upon others and how to shield equipment against such spying.
+
+### Wed Jun 1
+- [East Asian age reckoning](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)
+  - Many countries consider babies 1 "year old" when they are born, and their age increases on New Year's Day or Lunar New Year. They also track the traditional "age" of years since day of birth
+- [List of list of lists!](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
+- [List of flags by design](https://en.wikipedia.org/wiki/List_of_flags_by_design)
+
 ## May 2022
+
+### Tue May 31
+- In ancient Roman culture, [infamia](https://en.wikipedia.org/wiki/Infamia) was a loss of legal or social standing. As a technical term of Roman law, infamia was an official exclusion from the legal protections enjoyed by a Roman citizen, as imposed by a censor or praetor. More generally, especially during the Republic and Principate, infamia was informal damage to one's esteem or reputation. A person who suffered infamia was an infamis (plural infames).
+
+### Mon May 30
+- A [Tyrolean traverse](https://en.wikipedia.org/wiki/Tyrolean_traverse) is a method of crossing through free space between two high points on a rope without a hanging cart or cart equivalent. This is used in a range of mountaineering activities: rock climbing, technical tree climbing, caving, water crossings and mountain rescue.
+
+### Sun May 29
+- [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number) is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person. By using the average human brain size and extrapolating from the results of primates, he proposed that humans can comfortably maintain 150 stable relationships.
+
+### Sat May 28
+- [Amor fati](https://en.wikipedia.org/wiki/Amor_fati) is a Latin phrase that may be translated as "love of fate" or "love of one's fate". It is used to describe an attitude in which one sees everything that happens in one's life, including suffering and loss, as good or, at the very least, necessary.
+
+### Fri May 27
+- A [doublet](https://en.wikipedia.org/wiki/Doublet_(linguistics)) two or more words in the same language are called doublets or etymological twins or twinlings (or possibly triplets, and so forth) when they have different phonological forms but the same etymological root
+- [Reborrowing](https://en.wikipedia.org/wiki/Reborrowing) is the process where a word travels from one language to another and then back to the originating language in a different form or with a different meaning. This path is indicated by A→B→A, where A is the originating language, and can take many forms. A reborrowed word is sometimes called a Rückwanderer (German, a 'returner')
+- [Garaigo](https://en.wikipedia.org/wiki/Gairaigo) is Japanese for "loan word", and indicates a transcription into Japanese. In particular, the word usually refers to a Japanese word of foreign origin that was not borrowed in ancient times from Old or Middle Chinese (especially Literary Chinese), but in modern times, primarily from English, Portuguese, Dutch, and modern Chinese dialects, such as Standard Chinese and Cantonese
+- An [inkhorn term](https://en.wikipedia.org/wiki/Inkhorn_term) is a loanword, or a word coined from existing roots, which is deemed to be unnecessary or overly pretentious
+- [Aureation](https://en.wikipedia.org/wiki/Aureation) is a device in arts of rhetoric that involves the "gilding" (or supposed heightening) of diction in one language by the introduction of terms from another, typically a classical language considered to be more prestigious. Aureation commonly involves other mannered rhetorical features in diction; for example circumlocution, which bears a relation to more native literary devices such as the kenning.
+- [Circumlocution](https://en.wikipedia.org/wiki/Circumlocution) is the use of an unnecessarily large number of words to express an idea. It is sometimes necessary in communication (for example, to work around lexical gaps that might otherwise lead to untranslatability), but it can also be undesirable (when an uncommon or easily misunderstood figure of speech is used)
+- [Language contact](https://en.wikipedia.org/wiki/Language_contact) occurs when speakers of two or more languages or varieties interact and influence each other. The common products include pidgins, creoles, code-switching, and mixed languages. In many other cases, contact between speakers occurs but the lasting effects on the language are less visible; they may, however, include loan words, calques or other types of borrowed material.
+- A [wanderwort](https://en.wikipedia.org/wiki/Wanderwort) is a word that has spread as a loanword among numerous languages and cultures, especially those that are far away from one another, usually in connection with trade.
+
+### Thu May 26
+- A [trattoria](https://en.wikipedia.org/wiki/Trattoria) is an Italian-style eating establishment that is generally much less formal than a ristorante, but more formal than an osteria.
+  - An [osteria](https://en.wikipedia.org/wiki/Osteria) in Italy was originally a place serving wine and simple food. Lately, the emphasis has shifted to the food, but menus tend to be short, with the emphasis on local specialities such as pasta and grilled meat or fish, often served at shared tables.
+  - An [enoteca](https://ruralhotelstuscany.com/difference-trattoria-osteria-ristorante-enoteca/) serves no food; they were just a place to go and drink wine.
+
+### Wed May 25
+- There are [cryptosystems that are based on the complexity of the knapsack problem](https://en.wikipedia.org/wiki/Knapsack_cryptosystems)
+
+### Tue May 24
+- [Armenian orthography reform](https://en.wikipedia.org/wiki/Armenian_orthography_reform) occurred between 1922 and 1924 in Soviet Armenia and was partially reviewed in 1940. Its main features were neutralization of classical etymological writing and the adjustment of phonetic realization and writing.
+- [Armenian alphabet](https://en.wikipedia.org/wiki/Armenian_alphabet)
+- [Armenian Braille](https://en.wikipedia.org/wiki/Armenian_Braille)
+  - [International uniformity of brailler alphabets](https://en.wikipedia.org/wiki/International_uniformity_of_braille_alphabets): the goal of braille uniformity is to unify the braille alphabets of the world as much as possible, so that literacy in one braille alphabet readily transfers to another
+  - [Braille pattern dots-6](https://en.wikipedia.org/wiki/Braille_pattern_dots-6)
+
+### Mon May 23
+- [Soap operas](https://en.wikipedia.org/wiki/Soap_opera) are called soap operas because they used to be sponsored by soap companies
+- [Horse operas](https://en.wikipedia.org/wiki/Horse_opera) is a Western movie or television series that is clichéd or formulaic, in the manner of a soap opera
 
 ### Sun May 22
 - A [slug](https://en.wikipedia.org/wiki/Slug) is a common name for any apparently shell-less terrestrial gastropod mollusc. The word slug is also often used as part of the common name of any gastropod mollusc that has no shell, a very reduced shell, or only a small internal shell, particularly sea slugs and semislugs (this is in contrast to the common name snail, which applies to gastropods that have a coiled shell large enough that they can fully retract their soft parts into it).
