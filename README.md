@@ -2,6 +2,32 @@
 
 ## June 2022
 
+### Sun Jun 12
+- The [Inverted Jenny](https://en.wikipedia.org/wiki/Inverted_Jenny) is a 24 cent United States postage stamp first issued on May 10, 1918, in which the image of the Curtiss JN-4 airplane in the center of the design is printed upside-down; it is probably the most famous error in American philately. Only one pane of 100 of the invert stamps was ever found, making this error one of the most prized in philately.
+  - [Philately](https://en.wikipedia.org/wiki/Philately) is the study of postage stamps and postal history.
+- A [stamp hinge](https://en.wikipedia.org/wiki/Stamp_hinge) is a small, folded, transparent, rectangular pieces of paper coated with a mild gum. They are used by stamp collectors to affix postage stamps onto the pages of a stamp album.
+
+### Sat Jun 11
+- [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona) is a philosophical artistic constructed language (philosophical artlang) known for its small vocabulary, simplicity, and ease of acquisition. It was created by Sonja Lang, a Canadian linguist and translator, to simplify thoughts and communication.
+
+### Fri Jun 10
+- An [autostereogram](https://en.wikipedia.org/wiki/Autostereogram) is a single-image stereogram (SIS), designed to create the visual illusion of a three-dimensional (3D) scene from a two-dimensional image.
+
+### Thu Jun 9
+- [Scholia](https://en.wikipedia.org/wiki/Scholia) are grammatical, critical, or explanatory comments – original or copied from prior commentaries – which are inserted in the margin of the manuscript of ancient authors, as glosses.
+- A [gloss](https://en.wikipedia.org/wiki/Gloss_(annotation)) is a brief notation, especially a marginal one or an interlinear one, of the meaning of a word or wording in a text. It may be in the language of the text or in the reader's language if that is different.
+  - [Glossator](https://en.wikipedia.org/wiki/Glossator) - scholars of the 11th- and 12th-century legal schools in Italy, France and Germany
+
+### Wed Jun 8
+- [Scorched rice](https://en.wikipedia.org/wiki/Scorched_rice) is a thin crust of slightly browned rice at the bottom of the cooking pot. It is produced during the cooking of rice over direct heat from a flame.
+
+### Tue Jun 7
+- [Grimm's law](https://en.wikipedia.org/wiki/Grimm%27s_law) is a set of sound laws describing the Proto-Indo-European (PIE) stop consonants as they developed in Proto-Germanic in the 1st millennium BC.
+  - It's named after one of the Brothers Grimm.
+
+### Mon Jun 6
+- The [Laser Kiwi flag](https://en.wikipedia.org/wiki/Laser_Kiwi_flag) was created by Lucy Gray in 2015 as a proposed flag of New Zealand. During the 2015–2016 New Zealand flag referendums, the Laser Kiwi flag became a large social media phenomenon, and was used in comedy routines by comedians, such as John Oliver, discussing the flag referendum and New Zealand in general. The flag features a New Zealand fern and a kiwi shooting a green laser beam from its eyes. The description of the flag was that "the laser beam projects a powerful image of New Zealand. I believe my design is so powerful it does not need to be discussed."
+
 ### Sun Jun 5
 - [Morganatic marriage](https://en.wikipedia.org/wiki/Morganatic_marriage), sometimes called a left-handed marriage, is a marriage between people of unequal social rank, which in the context of royalty or other inherited title prevents the principal's position or privileges being passed to the spouse, or any children born of the marriage.
 
