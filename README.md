@@ -1,6 +1,89 @@
 # Today I Learned
 
+## July 2022
+### Sun Jul 3
+- [Wardriving](https://en.wikipedia.org/wiki/Wardriving) is the act of searching for Wi-Fi wireless networks, usually from a moving vehicle, using a laptop or smartphone. Software for wardriving is freely available on the internet.
+
+### Sat Jul 2
+- [Seasteading](https://en.wikipedia.org/wiki/Seasteading) is the concept of creating permanent dwellings at sea, called seasteads, in international waters outside the territory claimed by any government. No one has yet created a structure on the high seas that has been recognized as a sovereign state. Proposed structures have included modified cruise ships, refitted oil platforms, and custom-built floating islands.
+
+### Fri Jul 1
+- Tribeca - triangle below Canal Street
+
 ## June 2022
+### Thu Jun 30
+- The [Yankees](https://en.wikipedia.org/wiki/New_York_Yankees_appearance_policy) have maintained a strict appearance policy, specifying that players' hair must not touch their collars and that they may have mustaches but no other facial hair.
+
+### Wed Jun 29
+- [Wendy Carlos](https://en.wikipedia.org/wiki/Wendy_Carlos) is an American musician and composer best known for her electronic music and film scores. Studying and working with various electronic musicians and technicians at the city's Columbia-Princeton Electronic Music Center, she helped in the development of the Moog synthesizer, the first commercially available keyboard instrument created by Robert Moog. In 1979, Carlos raised public awareness of transgender issues by disclosing she had been living as a woman since at least 1968, and in 1972 had undergone sex reassignment surgery.
+- [Delia Derbyshire](https://en.wikipedia.org/wiki/Delia_Derbyshire) was an English musician and composer of electronic music. She carried out pioneering work with the BBC Radiophonic Workshop during the 1960s, including her electronic arrangement of the theme music to the British science-fiction television series Doctor Who. She has been referred to as "the unsung heroine of British electronic music", having influenced musicians including Aphex Twin, the Chemical Brothers and Paul Hartnoll of Orbital.
+- [White Noise](https://en.wikipedia.org/wiki/White_Noise_(band)) is an English experimental electronic music band formed in London in 1968, after American-born David Vorhaus, a classical bass player with a background in physics and electronic engineering, attended a lecture by Delia Derbyshire, a sound scientist at the BBC Radiophonic Workshop. Derbyshire and Brian Hodgson, then both former members of electronic music project Unit Delta Plus, joined Vorhaus to form the band.
+
+### Tue Jun 28
+- [Louver](https://en.wikipedia.org/wiki/Louver) is a window blind or shutter with horizontal slats that are angled to admit light and air, but to keep out rain and direct sunshine. The angle of the slats may be adjustable, usually in blinds and windows, or fixed.
+
+### Mon Jun 27
+- [Provinces of Ireland](https://en.wikipedia.org/wiki/Provinces_of_Ireland)
+  - [Counties of Ireland](https://en.wikipedia.org/wiki/Counties_of_Ireland)
+- [Irish language in Newfoundland](https://en.wikipedia.org/wiki/Irish_language_in_Newfoundland)
+- [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) is part of the ISO 3166 standard published by the International Organization for Standardization (ISO), and defines codes for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.
+- [Alternative names for Northern Ireland](https://en.wikipedia.org/wiki/Alternative_names_for_Northern_Ireland)
+
+### Sun Jun 26
+- [Diapering](https://en.wikipedia.org/wiki/Diapering) is any of a wide range of decorative patterns used in a variety of works of art, such as stained glass, heraldic shields, architecture, and silverwork. Its chief use is in the enlivening of plain surfaces.
+- Histrionics is not etymologically related to hysterical
+
+### Sat Jun 25
+- A [union station](https://en.wikipedia.org/wiki/Union_station) is a railway station at which the tracks and facilities are shared by two or more separate railway companies, allowing passengers to connect conveniently between them. The term 'union station' is used in North America and 'joint station' is used in Europe.
+
+### Fri Jun 24
+- To **prescribe** means to recommend something in an official way. **Proscribe** is a rare and more formal word, meaning to forbid something or to demand a stop to it.
+
+### Thu Jun 23
+- [Cold welding](https://en.wikipedia.org/wiki/Cold_welding) is a solid-state welding process in which joining takes place without fusion or heating at the interface of the two parts to be welded. Unlike in fusion welding, no liquid or molten phase is present in the joint.
+- A [Boston marriage](https://en.wikipedia.org/wiki/Boston_marriage) was, historically, the cohabitation of two wealthy women, independent of financial support from a man. The term is said to have been in use in New England in the late 19th/early 20th century. Some of these relationships were romantic in nature and might now be considered a lesbian relationship; others were not.
+
+### Wed Jun 22
+- [Pepper](https://en.wikipedia.org/wiki/Pepper_%28cryptography%29) is a secret added to an input such as a password during hashing with a cryptographic hash function. This value differs from a salt in that it is not stored alongside a password hash, but rather the pepper is kept separate in some other medium, such as a Hardware Security Module
+
+### Tue Jun 21
+- [Rice's theorem](https://en.wikipedia.org/wiki/Rice%27s_theorem) states that all non-trivial semantic properties of programs are undecidable. A semantic property is one about the program's behavior (for instance, does the program terminate for all inputs), unlike a syntactic property (for instance, does the program contain an if-then-else statement). A property is non-trivial if it is neither true for every partial computable function, nor false for every partial computable function.
+- [Idiosyncrasy credit](https://en.wikipedia.org/wiki/Idiosyncrasy_credit) is a concept in social psychology that describes an individual's capacity to acceptably deviate from group expectations. Idiosyncrasy credits are increased (earned) each time an individual conforms to a group's expectations, and decreased (spent) each time an individual deviates from a group's expectations.
+
+### Mon Jun 20
+- [Tohu va Vohu](https://en.wikipedia.org/wiki/Tohu_wa-bohu) is a Biblical Hebrew phrase found in the Genesis creation narrative (Genesis 1:2) that describes the condition of the earth ('éretz) immediately before the creation of light in Genesis 1:3. Numerous interpretations of this phrase are made by various theological sources. The King James Version translation of the phrase is "without form, and void", corresponding to Septuagint ἀόρατος καὶ ἀκατασκεύαστος, "unseen and unformed".
+- [Abzu](https://en.wikipedia.org/wiki/Abzu) is the name for fresh water from underground aquifers which was given a religious fertilising quality in Sumerian and Akkadian mythology. Lakes, springs, rivers, wells, and other sources of fresh water were thought to draw their water from the abzu. In Sumerian and Akkadian mythology, it is referred to as the primeval sea below the void space of the underworld (Kur) and the earth (Ma) above.
+  - [Cosmic ocean](https://en.wikipedia.org/wiki/Cosmic_ocean) is a mythological motif found in the mythology of many cultures and civilizations, representing the world or cosmos as enveloped by primordial waters.
+- [Tehom](https://en.wikipedia.org/wiki/Tehom) was the mythological cosmic ocean of Biblical cosmology, covering the Earth until God created the firmament to divide it into upper and lower portions and reveal the dry land; the world has been protected from the cosmic ocean ever since by the solid dome of the firmament.
+- [Hundun](https://en.wikipedia.org/wiki/Hundun) is both a "legendary faceless being" in Chinese mythology and the "primordial and central chaos" in Chinese cosmogony, comparable with the world egg.
+
+### Sun Jun 19
+- [Magic debug values](https://en.wikipedia.org/wiki/Magic_number_(programming)#Magic_debug_values)
+- [List of Chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants)
+
+### Sat Jun 18
+- [Flash of unstyled content](https://en.wikipedia.org/wiki/Flash_of_unstyled_content) is an instance where a web page appears briefly with the browser's default styles prior to loading an external CSS stylesheet, due to the web browser engine rendering the page before all information is retrieved. The page corrects itself as soon as the style rules are loaded and applied; however, the shift may be distracting. Related problems include flash of invisible text and flash of faux text.
+- [List of games Buddha would not play](https://en.wikipedia.org/wiki/List_of_games_that_Buddha_would_not_play) is a list of games that Gautama Buddha is reputed to have said that he would not play and that his disciples should likewise not play, because he believed them to be a 'cause for negligence'.
+
+### Fri Jun 17
+- [Crypto-Judaism](https://en.wikipedia.org/wiki/Crypto-Judaism) is the secret adherence to Judaism while publicly professing to be of another faith; practitioners are referred to as "crypto-Jews"
+
+### Thu Jun 16
+- A [proscenium](https://en.wikipedia.org/wiki/Proscenium) is the metaphorical vertical plane of space in a theatre, usually surrounded on the top and sides by a physical proscenium arch (whether or not truly "arched") and on the bottom by the stage floor itself, which serves as the frame into which the audience observes from a more or less unified angle the events taking place upon the stage during a theatrical performance.
+- A [theater in the round](https://en.wikipedia.org/wiki/Theatre_in_the_round) is a space for theatre in which the audience surrounds the stage.
+- A [thrust stage](https://en.wikipedia.org/wiki/Thrust_stage) is one that extends into the audience on three sides and is connected to the backstage area by its upstage end.
+
+### Wed Jun 15
+- [Schnauzer](https://en.wikipedia.org/wiki/Schnauzer) comes from the German word for "snout" and means colloquially "moustache", or "whiskered snout", because of the dog's distinctively bearded snout
+
+### Tue Jun 14
+- [Lord Voldemort's name was reworked in other languages to still make sense as an acronym](https://www.languagerealm.com/hplang/lordvoldemort.php)
+
+### Mon Jun 13
+- A [null-subject language](https://en.wikipedia.org/wiki/Null-subject_language) is a language whose grammar permits an independent clause to lack an explicit subject; such a clause is then said to have a null subject.
+- [Home sign](https://en.wikipedia.org/wiki/Home_sign) is a gestural communication system, often invented spontaneously by a deaf child who lacks accessible linguistic input. Home sign systems often arise in families where a deaf child is raised by hearing parents and is isolated from the Deaf community. Because the deaf child does not receive signed or spoken language input, these children are referred to as linguistically isolated.
+- [Nicaraguan sign language](https://en.wikipedia.org/wiki/Nicaraguan_Sign_Language) is a sign language that was developed, largely spontaneously, by deaf children in a number of schools in Nicaragua in the 1980s. It is of particular interest to the linguists who study it because it offers a unique opportunity to study what they believe to be the birth of a new language.
+- [Simultaneous communication](https://en.wikipedia.org/wiki/Simultaneous_communication) is a technique sometimes used by deaf, hard-of-hearing or hearing sign language users in which both a spoken language and a manual variant of that language (such as English and manually coded English) are used simultaneously.
 
 ### Sun Jun 12
 - The [Inverted Jenny](https://en.wikipedia.org/wiki/Inverted_Jenny) is a 24 cent United States postage stamp first issued on May 10, 1918, in which the image of the Curtiss JN-4 airplane in the center of the design is printed upside-down; it is probably the most famous error in American philately. Only one pane of 100 of the invert stamps was ever found, making this error one of the most prized in philately.
