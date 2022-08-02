@@ -1,6 +1,129 @@
 # Today I Learned
 
 ## July 2022
+
+### Sun Jul 31
+- A [mellified man](https://en.wikipedia.org/wiki/Mellified_man) also known as a human mummy confection, was a legendary medicinal substance created by steeping a human cadaver in honey.
+
+### Sat Jul 30
+- [Mousetrapping](https://en.wikipedia.org/wiki/Mousetrapping) is a technique used by some websites (often tech support scam sites) to keep visitors from leaving their website, either by launching an endless series of pop-up ads, redirects or by re-launching their website in a window that cannot be easily closed (sometimes this window runs like a stand-alone application, and the taskbar and the browser's menu become inaccessible). Many websites that do this also employ browser hijackers to reset the user's default homepage.
+
+### Fri Jul 29
+- A [tronie](https://en.wikipedia.org/wiki/Tronie) is a type of work common in Dutch Golden Age painting and Flemish Baroque painting that depicts an exaggerated or characteristic facial expression. These works were not intended as portraits but as studies of expression, type, physiognomy or an interesting character such as an old man or woman, a young woman, the soldier, the shepherdess, the Oriental, or a person of a particular race, etc.
+
+### Thu Jul 28
+- [Apatheism](https://en.wikipedia.org/wiki/Apatheism) is the attitude of apathy towards the existence or non-existence of God(s). It is more of an attitude rather than a belief, claim, or belief system.
+
+### Wed Jul 27
+- The Exploratorium in SF has an .edu website because they got it before there were rules about who could have them
+
+### Tue Jul 26
+- [List of women who obtained doctoral degrees before 1800](https://en.wikipedia.org/wiki/List_of_women_who_obtained_doctoral_degrees_before_1800)
+
+### Mon Jul 25
+- An [incunable](https://en.wikipedia.org/wiki/Incunable) is a book, pamphlet, or broadside that was printed in the earliest stages of printing in Europe, up to the year 1500. Incunabula were produced before the printing press became widespread on the continent and are distinct from manuscripts, which are documents written by hand.
+
+### Sun Jul 24
+- [Memory of the World Programme](https://en.wikipedia.org/wiki/Memory_of_the_World_Programme) is an international initiative launched to safeguard the documentary heritage of humanity against collective amnesia, neglect, the ravages of time and climatic conditions, and willful and deliberate destruction. It calls for the preservation of valuable archival holdings, library collections, and private individual compendia all over the world for posterity, the reconstitution of dispersed or displaced documentary heritage, and increased accessibility to, and dissemination of, these items.
+
+### Sat Jul 23
+- [Absolute time in pregroove](https://en.wikipedia.org/wiki/Absolute_Time_in_Pregroove) is a method of storing information on an optical medium, used on CD-R and CD-RW . ATIP information is only readable on CD-R and CD-RW drives, as read-only drives don't need the information stored on it. The information indicates if the disk is writable and information needed to correctly write to the disk. 
+- ATIP is used as a method of putting data on an optical medium, specifically:
+  - Manufacturer
+  - Writable/Rewritable
+  - Dye type
+  - Spiral length in blocks
+  - Rated speed
+  - Audio
+
+### Fri Jul 22
+**CONTENT WARNING**
+- [Chick culling](https://en.wikipedia.org/wiki/Chick_culling) is the process of separating and killing unwanted (male and unhealthy female) chicks for which the intensive animal farming industry has no use. It occurs in all industrialised egg production, whether free range, organic, or battery cage. However, some certified pasture-raised egg farms are making steps to eliminate the practice in entirety.
+
+### Thu Jul 21
+- [Napier's bones](https://en.wikipedia.org/wiki/Napier's_bones) is a manually-operated calculating device created by John Napier of Merchiston, Scotland for the calculation of products and quotients of numbers. The method was based on lattice multiplication, and also called 'rabdology', a word invented by Napier.
+
+### Wed Jul 20
+- [NIST SELLS A $1000 STANDARD JAR OF PEANUT BUTTER](https://www-s.nist.gov/srmors/view_detail.cfm?srm=2387)
+
+### Tue Jul 19
+- The [Stingray](https://en.wikipedia.org/wiki/Stingray_phone_tracker) is an IMSI-catcher, a cellular phone surveillance device, manufactured by Harris Corporation. Initially developed for the military and intelligence community, the StingRay and similar Harris devices are in widespread use by local and state law enforcement agencies across Canada, the United States, and in the United Kingdom.
+
+### Mon Jul 18
+- [Clock-face scheduling](https://en.wikipedia.org/wiki/Clock-face_scheduling) is a timetable system under which public transport services run at consistent intervals, as opposed to a timetable that is purely driven by demand and has irregular headways.
+
+### Sun Jul 17
+- [Epanalepsis](https://en.wikipedia.org/wiki/Epanalepsis) is the repetition of the initial part of a clause or sentence at the end of that same clause or sentence: "The king is dead; long live the king!"
+- [Antimetabole](https://en.wikipedia.org/wiki/Antimetabole) is the repetition of words in successive clauses, but in transposed order; for example, "I know what I like, and I like what I know". It is related to, and sometimes considered a special case of, chiasmus. 
+- [Chiasmus](https://en.wikipedia.org/wiki/Chiasmus) or, less commonly, chiasm, is a "reversal of grammatical structures in successive phrases or clauses – but no repetition of words": Despised, if ugly; if she's fair, betrayed.
+- [Symploce](https://en.wikipedia.org/wiki/Symploce) is a figure of speech in which a word or phrase is used successively at the beginning of two or more clauses or sentences and another word or phrase with a similar wording is used successively at the end of them. It is the combination of anaphora and epistrophe.
+  - "When there is talk of hatred, let us stand up and talk against it. When there is talk of violence, let us stand up and talk against it."
+- [Epistrophe](https://en.wikipedia.org/wiki/Epistrophe) is the repetition of the same word or words at the end of successive phrases, clauses or sentences.
+- [Anaphora](https://en.wikipedia.org/wiki/Anaphora_(rhetoric)) is a rhetorical device that consists of repeating a sequence of words at the beginnings of neighboring clauses, thereby lending them emphasis.
+- [Anadiplosis](https://en.wikipedia.org/wiki/Anadiplosis) is the repetition of the last word of a preceding clause. The word is used at the end of a sentence and then used again at the beginning of the next sentence.
+
+### Sat Jul 16
+- [Mehran Karimi Nasseri](https://en.wikipedia.org/wiki/Mehran_Karimi_Nasseri) also known as Sir Alfred Mehran, is an Iranian refugee who lived in the departure lounge of Terminal One in Charles de Gaulle Airport from 26 August 1988 until July 2006, when he was hospitalized. 
+
+### Fri Jul 15
+- [Bricks have different names based on the orientation they're laid in](https://en.wikipedia.org/wiki/Brickwork#Orientation)
+  - Stretcher or stretching brick: A brick laid flat with its long narrow side exposed.
+  - Header or heading brick: A brick laid flat with its width exposed.
+  - Soldier: A brick laid vertically with its long narrow side exposed.
+  - Sailor: A brick laid vertically with the broad face of the brick exposed.
+  - Rowlock: A brick laid on the long narrow side with the short end of the brick exposed.
+  - Shiner or rowlock stretcher: A brick laid on the long narrow side with the broad face of the brick exposed.
+- The [EICAR test file](https://en.wikipedia.org/wiki/EICAR_test_file) is a computer file that was developed by the European Institute for Computer Antivirus Research (EICAR) and Computer Antivirus Research Organization (CARO), to test the response of computer antivirus (AV) programs. Instead of using real malware, which could cause real damage, this test file allows people to test anti-virus software without having to use a real computer virus.
+
+### Thu Jul 14
+- [Floating island](https://en.wikipedia.org/wiki/Floating_island_(dessert)) is a dessert consisting of meringue floating on crème anglaise (a vanilla custard).
+- A [larder](https://en.wikipedia.org/wiki/Larder) is a cool area for storing food prior to use. Originally, it was where raw meat was larded—covered in fat—to be preserved.
+
+### Wed Jul 13
+- [Horizontal blanking interval](https://en.wikipedia.org/wiki/Horizontal_blanking_interval) refers to a part of the process of displaying images on a computer monitor or television screen via raster scanning. CRT screens display images by moving beams of electrons very quickly across the screen. Once the beam of the monitor has reached the edge of the screen, the beam is switched off, and the deflection circuit voltages (or currents) are returned to the values they had for the other edge of the screen; this would have the effect of retracing the screen in the opposite direction, so the beam is turned off during this time. This part of the line display process is the Horizontal Blank. In detail, the Horizontal blanking interval consists of:
+  - front porch – blank while still moving right, past the end of the scanline,
+  - sync pulse – blank while rapidly moving left; in terms of amplitude, "blacker than black".
+  - back porch – blank while moving right again, before the start of the next scanline. Colorburst occurs during the back porch, and unblanking happens at the end of the back porch.
+- [EIA-608](https://en.wikipedia.org/wiki/EIA-608), also known as "line 21 captions" and "CEA-608", was once the standard for closed captioning for NTSC TV broadcasts in the United States, Canada and Mexico. It also specifies an "Extended Data Service", which is a means for including a VCR control service with an electronic program guide for NTSC transmissions that operates on the even line 21 field, similar to the TeleText based VPS that operates on line 16 which is used in PAL countries.
+- [CTA-708](https://en.wikipedia.org/wiki/CTA-708) is the standard for closed captioning for ATSC digital television (DTV) streams in the United States and Canada. It was developed by the Consumer Electronics sector of the Electronic Industries Alliance, which is now a standalone organization Consumer Technology Association. 
+
+### Tue Jul 12
+- [List of dumplings](https://en.wikipedia.org/wiki/List_of_dumplings)
+  - Including calzone, eclair, garlic knot, and Hot Pocket
+- [List of rolled foods](https://en.wikipedia.org/wiki/List_of_rolled_foods)
+  - Including Fruit by the Foot, Tootsie Roll
+
+### Mon Jul 11
+- [Literate programming](https://en.wikipedia.org/wiki/Literate_programming) is a programming paradigm introduced by Donald Knuth in which a computer program is given an explanation of its logic in a natural language, such as English, interspersed (embedded) with snippets of macros and traditional source code, from which compilable source code can be generated
+
+### Sun Jul 10
+- [Christine Collins](https://en.wikipedia.org/wiki/Christine_Collins) was an American woman who made national headlines during the late 1920s and 1930s after her nine-year-old son, Walter Collins, went missing in 1928. Five months after Walter's disappearance, a boy claiming to be Walter was found in DeKalb, Illinois. At the reunion, Collins said that the boy was not Walter. Under pressure to resolve the case, the officer in charge, Captain J.J. Jones, convinced her to "try the boy out" by taking him home. She returned three weeks later, again saying that he was not her son. The police had Collins committed to the psychiatric ward at Los Angeles County Hospital under a "Code 12" internment – a term used to jail or commit someone who was deemed difficult or an inconvenience.
+
+### Sat Jul 9
+- [Buck v Bell](https://en.wikipedia.org/wiki/Buck_v._Bell) is a decision of the United States Supreme Court, in which the Court ruled that a state statute permitting compulsory sterilization of the unfit, including the intellectually disabled, "for the protection and health of the state" did not violate the Due Process Clause of the Fourteenth Amendment to the United States Constitution. Despite the changing attitudes in the coming decades regarding sterilization, the Supreme Court has never expressly overturned Buck v. Bell.
+- [Eugenics in the United States](https://en.wikipedia.org/wiki/Eugenics_in_the_United_States)
+- [Sterilization law in the United States](https://en.wikipedia.org/wiki/Sterilization_law_in_the_United_States)
+- [Compulsory sterilization](https://en.wikipedia.org/wiki/Compulsory_sterilization)
+  - [Compulsory sterilization of disabled people in the U.S. prison system](https://en.wikipedia.org/wiki/Compulsory_sterilization_of_disabled_people_in_the_U.S._prison_system)
+
+### Fri Jul 8
+- [ABC Notation](https://en.wikipedia.org/wiki/ABC_notation) is a shorthand form of musical notation for computers. In basic form it uses the letter notation with a–g, A–G, and z, to represent the corresponding notes and rests, with other elements used to place added value on these – sharp, flat, raised or lowered octave, the note length, key, and ornamentation. 
+- fast (v.):
+  - "abstain from food," Old English fæstan "to fast" (as a religious duty), also "to make firm; establish, confirm, pledge," from Proto-Germanic *fastanan "to hold, guard," extended to the religious act "observe abstinence" (source also of Old Frisian festia, Old High German fasten, German fasten, Old Norse fasta "abstain from food"), from the same root as fast (adj.). The original meaning in prehistoric Germanic was "hold firmly," and the sense evolved via "have firm control of oneself," to "hold oneself to observance" (compare Gothic fastan "to keep, observe," also "to fast"). Perhaps the Germanic sense shifted through use of the native words to translate Medieval Latin observare in its sense "to fast," or it might have been a loan-translation of a Greek expression brought to the Goths by Arian missionaries and spread from them to other Germanic peoples. The verb in the sense "to make fast" continued in Middle English, but was superseded by fasten. 
+
+### Thu Jul 7
+- [The vibes on `systemd`](https://en.wikipedia.org/wiki/Systemd#Reception)
+- [Comparison of free software for audio](https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio)
+
+### Wed Jul 6
+- [Ekistics](https://en.wikipedia.org/wiki/Ekistics) is the science of human settlements including regional, city, community planning and dwelling design.
+
+### Tue Jul 5
+- A [Pittsburgh toilet](https://en.wikipedia.org/wiki/Pittsburgh_toilet) is a common fixture in pre-World War II houses built in Pittsburgh, Pennsylvania, United States and the surrounding region. It consists of an ordinary flush toilet installed in the basement, with no surrounding walls. Most of these toilets are paired with a crude basement shower apparatus and large sink, which often doubles as a laundry basin.
+
+### Mon Jul 4
+- [House numbering](https://en.wikipedia.org/wiki/House_numbering) 
+
 ### Sun Jul 3
 - [Wardriving](https://en.wikipedia.org/wiki/Wardriving) is the act of searching for Wi-Fi wireless networks, usually from a moving vehicle, using a laptop or smartphone. Software for wardriving is freely available on the internet.
 
