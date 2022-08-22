@@ -1,6 +1,261 @@
 # Today I Learned
 
+https://en.wikipedia.org/wiki/Psychology_of_eating_meat
+https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy
+https://en.wikipedia.org/wiki/List_of_films_that_most_frequently_use_the_word_%22fuck%22
+https://en.wikipedia.org/wiki/Spitball
+https://en.wikipedia.org/wiki/Great_Resignation
+https://en.wikipedia.org/wiki/Telephone_exchange
+exchange is middle 3 numbers in a phone number
+https://en.wikipedia.org/wiki/Demoscene
+https://en.wikipedia.org/wiki/Crack_intro
+https://en.wikipedia.org/wiki/Assembly_(demoparty)
+https://en.wikipedia.org/wiki/Hacker_culture
+https://en.m.wikipedia.org/wiki/Telephone_exchange_names
+https://en.wikipedia.org/wiki/Fixer_(person)
+https://en.wikipedia.org/wiki/Too_big_to_fail
+https://en.wikipedia.org/wiki/Wind_phone
+https://en.wikipedia.org/wiki/Atmospheric_duct
+https://en.m.wikipedia.org/wiki/Phase-shift_keying
+https://en.wikipedia.org/wiki/Radiation_hardening
+https://en.wikipedia.org/wiki/Man_bites_dog
+[ZAP! Lightning, Gods, and Mushrooms :Cornell Mushroom Blog](https://blog.mycology.cornell.edu/2013/01/20/zap-lightning-gods-and-mushrooms/)
+https://en.wikipedia.org/wiki/Original_North_American_area_codes
+https://en.wikipedia.org/wiki/Tama-Re
+https://en.wikipedia.org/wiki/Sublime_(philosophy)
+https://en.wikipedia.org/wiki/Baby_Train
+https://en.wikipedia.org/wiki/Montreal_Protocol
+https://en.wikipedia.org/wiki/Servant_of_the_People
+https://en.wikipedia.org/wiki/Lions_led_by_donkeys
+https://en.wikipedia.org/wiki/Folk_etymology
+https://en.wikipedia.org/wiki/Dateline
+https://en.wikipedia.org/wiki/Pointer_swizzling
+https://en.wikipedia.org/wiki/Sponge_function
+https://en.wikipedia.org/wiki/Escalator#Etymology
+https://en.wikipedia.org/wiki/Swabian_salute
+https://en.wikipedia.org/wiki/Gesticulation_in_Italian
+https://en.wikipedia.org/wiki/Metagaming
+https://en.m.wikipedia.org/wiki/Genocide_Convention
+https://en.wikipedia.org/wiki/Boy_or_Girl_paradox
+https://en.wikipedia.org/wiki/Techno_Viking
+https://en.wikipedia.org/wiki/Tanis_(fossil_site)
+https://en.wikipedia.org/wiki/Julian_day
+https://en.wikipedia.org/wiki/Clitellum
+https://en.wikipedia.org/wiki/Shit_flow_diagram
+https://en.wikipedia.org/wiki/List_of_pizza_varieties_by_country#Legislation_for_traditional_Italian_pizza
+https://en.wikipedia.org/wiki/List_of_pizza_varieties_by_country
+https://en.wikipedia.org/wiki/Multiple_encryption
+https://en.wikipedia.org/wiki/Russian_copulation
+https://en.wikipedia.org/wiki/Confused_deputy_problem
+https://en.wikipedia.org/wiki/Cis_(mathematics)
+https://en.wikipedia.org/wiki/Nenets_languages
+https://en.wikipedia.org/wiki/Stone_(unit)
+https://en.wikipedia.org/wiki/Erfurt_latrine_disaster
+https://en.wikipedia.org/wiki/Cornucopian
+https://en.wikipedia.org/wiki/Cincinnati_Subway
+https://en.wikipedia.org/wiki/Scream_queen
+https://en.wikipedia.org/wiki/Date_of_Easter
+https://en.wikipedia.org/wiki/Hamlet_and_His_Problems
+https://en.wikipedia.org/wiki/Santiago_(name)
+https://en.wikipedia.org/wiki/Death_during_consensual_sex
+https://en.wikipedia.org/wiki/Hearing_range
+https://en.wikipedia.org/wiki/Gettier_problem
+https://en.wikipedia.org/wiki/Art_manifesto
+https://en.wikipedia.org/wiki/Effects_of_the_car_on_societies
+https://en.wikipedia.org/wiki/David_Wojnarowicz
+https://en.wikipedia.org/wiki/Wazir
+https://en.wikipedia.org/wiki/Epiphyte
+https://en.wikipedia.org/wiki/Parklet
+https://it.wikipedia.org/wiki/Sbrisolona
+https://en.wikipedia.org/wiki/ThinThread
+https://en.wikipedia.org/wiki/Committee_to_End_Pay_Toilets_in_America
+https://en.wikipedia.org/wiki/Helmholtz%E2%80%93Kohlrausch_effect
+https://en.wikipedia.org/wiki/Ringing_(signal)
+https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs
+https://en.wikipedia.org/wiki/Student_Information_Processing_Board
+https://en.wikipedia.org/wiki/Lintel
+https://en.wikipedia.org/wiki/Portal_(architecture)
+https://en.wikipedia.org/wiki/Rabbinic_Judaism
+https://en.wikipedia.org/wiki/Pele%27s_hair
+https://en.wikipedia.org/wiki/Wacky_cake
+https://en.wikipedia.org/wiki/Three_Wolf_Moon
+https://en.wikipedia.org/wiki/Pressure-sensitive_tape
+https://en.wikipedia.org/wiki/Spike_(stagecraft)
+https://en.wikipedia.org/wiki/24-hour_clock
+https://en.wikipedia.org/wiki/Hot_mic
+https://en.wikipedia.org/wiki/Political_gaffe
+https://en.wikiquote.org/wiki/Misquotations
+https://en.wikipedia.org/wiki/Category:Political_quotes
+https://en.wikipedia.org/wiki/Le_bruit_et_l%27odeur
+https://en.wikipedia.org/wiki/List_of_U.S._state_soils
+https://en.wikipedia.org/wiki/Null_Island
+https://en.wikipedia.org/wiki/Quad_Cities
+https://en.wikipedia.org/wiki/NTRU
+https://en.wikipedia.org/wiki/List_of_days_of_the_year
+https://en.wikipedia.org/wiki/Boles%C5%82aw_IV_the_Curly
+https://en.wikipedia.org/wiki/List_of_non-standard_dates
+https://en.wikipedia.org/wiki/Tibb%27s_Eve
+https://en.wikipedia.org/wiki/UndecimberThe
+Brothers Grimm was a linguist
+The term etymon refers to a word or morpheme (e.g., stem[6] or root[7]) from which a later word or morpheme derives. For example, the Latin word candidus, which means "white", is the etymon of English candid. Relationships are often less transparent, however. English place names such as Winchester, Gloucester, Tadcaster share in different modern forms a suffixed etymon that was once meaningful, Latin castrum 'fort'.
+Buca di Beppo is an American restaurant chain specializing in Italian-American food. The name roughly translates as "Joe's small place" from Italian (buca, which literally means "hole" or "pit", can be a dialectal word in Tuscany for a small room or place, and Beppo is a diminutive of the name Giuseppe).
+https://en.wikipedia.org/wiki/Barnum_effect
+https://en.wikipedia.org/wiki/Chicago_Gaylords
+https://en.wikipedia.org/wiki/Unobtainium
+https://en.wikipedia.org/wiki/Gauge_block
+https://en.wikipedia.org/wiki/The_Bitches
+https://en.wikipedia.org/wiki/Embanking_of_the_tidal_Thames
+https://en.wikipedia.org/wiki/Musical_saw
+https://en.wikipedia.org/wiki/Syncretism
+https://en.wikipedia.org/wiki/Signing_Exact_English
+https://en.wikipedia.org/wiki/Quotation_mark
+https://en.wikipedia.org/wiki/The_Mother_of_All_Demos
+https://en.wikipedia.org/wiki/Wow!_signal
+https://en.wikipedia.org/wiki/Reduced_relative_clause
+https://en.wikipedia.org/wiki/Utamakura
+https://en.wikipedia.org/wiki/Kakekotoba
+https://en.wikipedia.org/wiki/Swiss_Italian
+https://en.wikipedia.org/wiki/Blowing_up
+https://en.wikipedia.org/wiki/Pronunciation_of_GIF
+https://en.wikipedia.org/wiki/Tattooed_lady
+https://en.wikipedia.org/wiki/Sensitive_compartmented_information_facility
+https://en.wikipedia.org/wiki/Fionn_mac_Cumhaill
+https://en.wikipedia.org/wiki/Salmon_of_Knowledge
+https://en.wikipedia.org/wiki/Hallucinogenic_fish
+https://en.wikipedia.org/wiki/Mead_of_poetry
+https://en.wikipedia.org/wiki/List_of_Mcface_spoofs
+https://en.wikipedia.org/wiki/Encyclopedia_of_Triangle_Centers
+https://en.wikipedia.org/wiki/Color_difference
+https://en.wikipedia.org/wiki/L%27esprit_de_l%27escalier
+https://en.wikipedia.org/wiki/Acme_Corporation
+https://en.wikipedia.org/wiki/Clerical_collar
+https://en.wikipedia.org/wiki/Mothers_of_the_Plaza_de_Mayo
+https://en.wikipedia.org/wiki/Boxed_warning
+https://en.wiktionary.org/wiki/taikonaut
+https://en.wikipedia.org/wiki/Jitney
+https://en.wikipedia.org/wiki/Jeepney
+https://en.wikipedia.org/wiki/Seasteading
+https://en.wikipedia.org/wiki/Andy_(goose)
+https://en.wikipedia.org/wiki/Marathon,_Greece#History
+https://en.wikipedia.org/wiki/Boontling
+https://en.wikipedia.org/wiki/Half-sider_budgerigar
+https://en.wikipedia.org/wiki/Cassandra_(metaphor)
+https://en.wikipedia.org/wiki/Radiotrophic_fungus
+https://en.wikipedia.org/wiki/Sword_of_Islam_(Mussolini)
+https://en.wikipedia.org/wiki/Dolgopolsky_list
+https://en.wikipedia.org/wiki/Curse_of_knowledge
+https://en.wikipedia.org/wiki/Fool's_errand
+https://en.wikipedia.org/wiki/Ark_of_Taste
+https://en.wikipedia.org/wiki/English_usage_controversies
+https://en.wikipedia.org/wiki/Flat_adverb
+https://en.wikipedia.org/wiki/Split_infinitive
+https://en.wikipedia.org/wiki/English_possessive#Double_genitive
+https://en.wikipedia.org/wiki/Oblique_case
+https://en.wikipedia.org/wiki/English_modal_verbs#Double_modals
+https://en.wikipedia.org/wiki/Dangling_modifier
+https://en.wikipedia.org/wiki/Folsom_Street_Fair
+https://en.wikipedia.org/wiki/Gay_village
+https://en.wikipedia.org/wiki/Nuclear_pasta
+https://en.wikipedia.org/wiki/List_of_cocktails_named_after_New_York_City_boroughs
+https://en.wikipedia.org/wiki/Urban_canyon
+https://en.wikipedia.org/wiki/Stage_(cooking)
+https://en.wikipedia.org/wiki/Family_meal
+https://en.wikipedia.org/wiki/List_of_restaurant_terminology
+https://en.wikipedia.org/wiki/Diner_lingo
+https://en.wikipedia.org/wiki/Hyperbolic_discounting
+https://en.wikipedia.org/wiki/Unicorn_Cave
+https://en.wikipedia.org/wiki/Chinese_room
+https://en.wikipedia.org/wiki/Voice_coil
+https://en.wikipedia.org/wiki/George_H._W._Bush_vomiting_incident
+https://en.wikipedia.org/wiki/Jimmy_Carter_rabbit_incident
+https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident
+https://en.wikipedia.org/wiki/Public_image_of_Bill_Clinton#%22Haircutgate%22
+https://en.wikipedia.org/wiki/Dick_Cheney_hunting_accident
+https://en.wikipedia.org/wiki/Bush_shoeing_incident
+https://en.wikipedia.org/wiki/Obama_tan_suit_controversy
+https://en.wikipedia.org/wiki/Seersucker_Thursday
+https://en.wikipedia.org/wiki/Feast_of_the_Ass
+https://en.wikipedia.org/wiki/Red_letter_day
+https://en.wikipedia.org/wiki/Ti%C3%B3_de_Nadal
+https://en.wikipedia.org/wiki/Badalisc
+https://en.wikipedia.org/wiki/Real_tennis
+https://en.wikipedia.org/wiki/Crystal_detector
+https://en.wikipedia.org/wiki/Ladies'_Mile_Historic_District
+https://en.wikipedia.org/wiki/The_Wing_(workspace)
+https://en.wikipedia.org/wiki/Cargo_bike
+https://en.wikipedia.org/wiki/Motsoalle
+https://en.wikipedia.org/wiki/A_language_is_a_dialect_with_an_army_and_navy
+https://en.wikipedia.org/wiki/Geomagnetic_reversal
+https://en.wikipedia.org/wiki/True_north
+https://en.wikipedia.org/wiki/Runway
+https://en.wikipedia.org/wiki/Runway#Naming
+https://en.wikipedia.org/wiki/Court_dwarf
+https://en.wikipedia.org/wiki/Monopoly_on_violence
+https://en.wikipedia.org/wiki/Pole_of_inaccessibility
+https://en.wikipedia.org/wiki/Questioned_document_examination
+https://en.wikipedia.org/wiki/Waldorf_education
+https://en.wikipedia.org/wiki/Hollywood_accounting
+
+
 ## August 2022
+
+### Sun Aug 21
+- The [Candy Desk](https://en.wikipedia.org/wiki/Candy_Desk) has been a tradition of the United States Senate since 1968, whereby a senator who sits at a particular desk near a busy entrance keeps a drawer full of candy for members of the body. The current occupant of the candy desk is Pennsylvania Senator Pat Toomey. 
+- The [Parliamentary snuff box](https://en.wikipedia.org/wiki/Parliamentary_snuff_box) is a wooden snuff box at the door of the House of Commons of the United Kingdom where snuff is stored for use by Members of Parliament. It originated after 1694 when smoking was banned in the House of Commons. It is the responsibility of the Principal Doorkeeper to ensure it is kept stocked.
+
+### Sat Aug 20
+- A [greeble](https://en.wikipedia.org/wiki/Greeble_(psychology)) are artificial objects designed to be used as stimuli in psychological studies of object and face recognition.
+
+### Fri Aug 19
+- Runways are labeled based on the angle you have to approach from (from magnetic north). Because magnetic north moves, the runway numbers have to be relabeled.
+
+### Thu Aug 18
+- A [signum manus](https://en.wikipedia.org/wiki/Signum_manus) refers to the medieval practice, current from the Merovingian period until the 14th century in the Frankish Empire and its successors, of signing a document or charter with a special type of monogram or royal cypher. 
+- The [rota](https://en.wikipedia.org/wiki/Rota_(papal_signature)) is one of the symbols used by the Pope to authenticate documents such as papal bulls. It is a cross inscribed in two concentric circles. Pope Leo IX was the first pope to use it. 
+
+### Wed Aug 17
+- [Fe, Fi, Fo, Fum and Phooey](https://en.wikipedia.org/wiki/Fe,_Fi,_Fo,_Fum,_and_Phooey) were five mice who traveled to the Moon and circled it 75 times on the 1972 Apollo 17 mission. NASA gave them identification numbers A3305, A3326, A3352, A3356, and A3400, and their nicknames were given by the Apollo 17 crew, Eugene Cernan, Harrison Schmitt, and Ronald Evans. The four male mice, one female mouse, and Evans orbited the Moon for a record-setting six days and four hours in the Apollo command module America as Cernan and Schmitt performed the Apollo program's last lunar excursions. 
+
+### Tue Aug 16
+- A [cork hat](https://en.wikipedia.org/wiki/Cork_hat) is a type of headgear with corks strung from the brim, to ward off insects. Pieces of cork, typically bottle corks, are hung on strings from the brim of the hat. The low density of cork means a number of pieces may hang from a hat without significantly increasing its weight. Movement of the head causes the corks to swing, discouraging insects, particularly bush flies, from swarming around the wearer's head, or entering the nose or mouth. The shape and material of cork hats varies but, typically, they are similar to a slouch hat. 
+
+### Mon Aug 15
+- The [Dutch angle](https://en.wikipedia.org/wiki/Dutch_angle) is a type of camera shot which involves setting the camera at an angle on its roll axis so that the shot is composed with vertical lines at an angle to the side of the frame, or so that the horizon line of the shot is not parallel with the bottom of the camera frame.
+
+### Sun Aug 14
+- [Hash House Harriers](https://en.wikipedia.org/wiki/Hash_House_Harriers) is an international group of non-competitive running social clubs. An event organized by a club is known as a Hash or Run, or a Hash Run. 
+- A [paper chase](https://en.wikipedia.org/wiki/Paper_Chase_(game)) is a racing game played outdoors (best played within a wood or even a shrubbery maze) with any number of players. At the start of the game, one person is designated the 'hare' and everyone else in the group are the 'hounds'. The 'hare' starts off ahead of everyone else leaving behind a trail of paper shreds (or chalk marks in an urban environment) which represents the scent of the hare. Just as scent is carried on the wind, so too are the bits of paper, sometimes making for a difficult game. After some designated time, the hounds must chase after the hare and attempt to catch them before they reach the ending point of the race. 
+
+### Sat Aug 13
+- [Countertop](https://www.etymonline.com/word/countertop) came from the fact that countertops where businesspeople did calculations, counting, etc. with abaci (abacuses?). 
+
+### Fri Aug 12
+- [Roald Dahl was a spy in WW2](https://en.wikipedia.org/wiki/Roald_Dahl#Diplomat,_writer_and_intelligence_officer)
+
+### Thu Aug 11
+- The [Orphan Train](https://en.wikipedia.org/wiki/Orphan_Train) was a supervised welfare program that transported children from crowded Eastern cities of the United States to foster homes located largely in rural areas of the Midwest. The orphan trains operated between 1854 and 1929, relocating about 250,000 children. The co-founders of the Orphan Train movement claimed that these children were orphaned, abandoned, abused, or homeless, but this was not always true. They were mostly the children of new immigrants and the children of the poor and destitute families living in these cities. Criticisms include ineffective screening of caretakers, insufficient follow-ups on placements, and that many children were used as strictly slave farm labor.
+
+### Wed Aug 10
+- [Texas German](https://en.wikipedia.org/wiki/Texas_German) is a group of German language dialects spoken in Texas by descendants of German immigrants who settled there in the mid-19th century.
+
+### Tue Aug 9
+- [Rubber tyred metro](https://en.wikipedia.org/wiki/Rubber-tyred_metro) is a form of rapid transit system that uses a mix of road and rail technology. The vehicles have wheels with rubber tires that run on rolling pads inside guide bars for traction, as well as traditional railway steel wheels with deep flanges on steel tracks for guidance through conventional switches as well as guidance in case a tyre fails.
+- [Platform screen doors](https://en.wikipedia.org/wiki/Platform_screen_doors) also known as platform edge doors (PEDs), are used at some train, rapid transit and people mover stations to separate the platform from train tracks, as well as on some bus rapid transit, tram and light rail systems. 
+- An [articulated bus](https://en.wikipedia.org/wiki/Articulated_bus) also referred to as a banana bus, bendy bus, tandem bus, vestibule bus, wiggle wagon, stretch bus, or an accordion bus, (either a motor bus or trolleybus) is an articulated vehicle used in public transportation. 
+  - A [bi-articulated bus](https://en.wikipedia.org/wiki/Bi-articulated_bus) is a type of high-capacity articulated bus with an extra axle and a second articulation joint, as well as extended length. Bi-articulated buses tend to be employed in high-frequency core routes or bus rapid transit schemes rather than in conventional bus routes. 
+- [Guided buses](https://en.wikipedia.org/wiki/Guided_bus) are buses capable of being steered by external means, usually on a dedicated track or roll way that excludes other traffic, permitting the maintenance of schedules even during rush hours. Unlike trolleybuses or rubber-tired trams, for part of their routes guided buses are able to share road space with general traffic along conventional roads, or with conventional buses on standard bus lanes. 
+- [Automated guideway transit](https://en.wikipedia.org/wiki/Automated_guideway_transit) is a type of fixed guideway transit infrastructure with a riding or suspension track that supports and physically guides one or more driverless vehicles along its length.
+- The [Kassel kerb](https://en.wikipedia.org/wiki/Kassel_kerb) is a special kerb (curb in US English) designed for low-floor buses that serve an elevated bus stop platform. 
+- [Bus rapid transit creep](https://en.wikipedia.org/wiki/Bus_rapid_transit_creep) is a phenomenon commonly defined as a bus rapid transit (BRT) system that fails to meet the requirements to be considered "true BRT". These systems are often marketed as a fully realized bus rapid transit system, but end up being described as more of an improvement to regular bus service by proponents of the "BRT creep" term.
+- A [road rail vehicle](https://en.wikipedia.org/wiki/Road%E2%80%93rail_vehicle) is a dual-mode vehicle which can operate both on rail tracks and roads.
+- [Transit Elevated Bus](https://en.wikipedia.org/wiki/Transit_Elevated_Bus) was a proposed new bus concept where a guided bus straddles above road traffic, giving it the alternative names such as straddling bus, straddle bus, land airbus, or tunnel bus by international media. 
+- [Translohr](https://en.wikipedia.org/wiki/Translohr) is a rubber-tired tramway (or guided bus) system, originally developed by Lohr Industrie of France and now run by a consortium of Alstom Transport and Fonds stratégique d'investissement (FSI) as newTL, which took over from Lohr in 2012.
+- A [trolleybus](https://en.wikipedia.org/wiki/Trolleybus) is an electric bus that draws power from dual overhead wires (generally suspended from roadside posts) using spring-loaded trolley poles.
+- A [trackless train](https://en.wikipedia.org/wiki/Trackless_train) is a road-going articulated vehicle used for the transport of passengers, comprising a driving vehicle pulling one or more carriages connected by drawbar couplings, in the manner of a road-going railway train. 
+- A [dual mode bus](https://en.wikipedia.org/wiki/Dual-mode_bus) is a hybrid bus that can run independently on power from two different sources, typically electricity from overhead lines (in the same way as trolleybuses) or batteries, alternated with conventional fossil fuel (generally diesel fuel).
+
+### Mon Aug 8
+- [Sputtering](https://en.wikipedia.org/wiki/Sputtering) is a phenomenon in which microscopic particles of a solid material are ejected from its surface, after the material is itself bombarded by energetic particles of a plasma or gas.
 
 ### Sun Aug 7
 - A [rappen](https://en.wikipedia.org/wiki/Rappen) originally was a variant of the medieval Pfennig ("penny") common to the Alemannic German regions Alsace, Sundgau and northern Switzerland. As with other German pennies, its half-piece was a Haller, the smallest piece which was struck. Today, one-hundredth of a Swiss franc is still officially called a Rappen in German and Swiss German and rap in Romansh.
