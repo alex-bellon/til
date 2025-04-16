@@ -1,6 +1,24 @@
 * Today I Learned
 
+* I DECLARE FUN FACT BANKRUPTCY!!!! 
+
+Below, I tried to have a new thing almost every day, but my backlog grew really big and eventually I had saved the link so long ago that I was just making up what day I learned it on. From here on out I'm just going to add facts when I can, and try to prevent another huge backlog. Not sure how/if I'm going to organize it.
+
+Also, a lot of this just ended up being the same content as from my Wikipedia repo... 
+
 ** Aug 2023
+
+*** Thu Aug 10
+- [[https://en.wikipedia.org/wiki/Chicago_Gaylords][The Almighty Gaylords Nation is a Chicago street gang that was most active during the mid and late 20th century. The original president of the Gaylords selected the name after reading about the Gaylords in the public library (the Gaillards, later anglicized to Gaylord, were people from Normandy who lived near the Château Gaillard, constructed by Richard I).]]
+
+*** Wed Aug 9
+- [[https://en.wikipedia.org/wiki/Equal_Credit_Opportunity_Act][Women couldn't get their own credit cards until 1974]]
+
+*** Tue Aug 8
+- Nabisco = [Na]tional [Bis]cuit [Co]mpany
+
+*** Mon Aug 7
+- Pot shot: a shot taken for the (cooking) pot, namely for food, rather than for a trophy or presentation
 
 *** Sun Aug 6
 - The [[https://en.wikipedia.org/wiki/Encyclopedia_of_Triangle_Centers][Encyclopedia of Triangle Centers]] (ETC) is an online list of thousands of points or "centers" associated with the geometry of a triangle. 
@@ -46,7 +64,7 @@
 - [[https://en.wikipedia.org/wiki/Gauge_block][Gauge block]]s (also known as gage blocks, Johansson gauges, slip gauges, or Jo blocks) are a system for producing precision lengths. The individual gauge block is a metal or ceramic block that has been precision ground and lapped to a specific thickness. 
 
 *** Wed Jul 26
-- [[https://en.wikipedia.org/wiki/Chicago_Gaylords][The Almighty Gaylords Nation is a Chicago street gang that was most active during the mid and late 20th century. The original president of the Gaylords selected the name after reading about the Gaylords in the public library (the Gaillards, later anglicized to Gaylord, were people from Normandy who lived near the Château Gaillard, constructed by Richard I).]]
+- B&H Photo: The owner of the company, Herman Schreiber, and many of the store's employees are observant Satmar Hasidic Jews. The company’s only brick-and-mortar store located in Manhattan is closed on Shabbat, most Jewish holidays, and Christmas. Although the B&H Web site is accessible on Shabbat, checkout and processing of online orders are unavailable during that time (from sundown Friday evening till Saturday evening) along with Jewish holidays according to local (New York) time.
 
 *** Tue Jul 25
 - [[https://en.wikipedia.org/wiki/List_of_non-standard_dates][Several non-standard dates are used in calendars. Some are used sarcastically, some for scientific or mathematical purposes, and some for exceptional or fictional calendars.]]
@@ -55,6 +73,7 @@
 
 *** Mon Jul 24
 - The [[https://en.wikipedia.org/wiki/Quad_Cities][Quad Cities]] is a region of cities in the U.S. states of Iowa and Illinois: Davenport and Bettendorf in southeastern Iowa, and Rock Island, Moline and East Moline in northwestern Illinois. These cities are the center of the Quad Cities metropolitan area, which as of 2013 had a population estimate of 383,781 and a Combined Statistical Area (CSA) population of 474,937, making it the 90th-largest CSA in the nation.
+- TODO [[https://en.wikipedia.org/wiki/Gematria][Gematria]] -- this was from a ted chiang story
 
 *** Sun Jul 23
 - [[https://en.wikipedia.org/wiki/Null_Island][Null Island]] is the name of an imaginary place located at zero degrees latitude and zero degrees longitude (0°N 0°E), i.e., where the prime meridian and the equator intersect. The fictitious island, usually defined as 1 meter square, is often used in mapping software as a placeholder to help find and correct database entries that have erroneously been assigned the coordinates 0,0. Although Null Island started as a joke within the geospatial community, it has become a useful means of addressing a recurring issue in geographic information science.
@@ -79,6 +98,7 @@
 
 *** Mon Jul 17
 - [[https://en.wikipedia.org/wiki/Pele's_hair][Pele's hair]] is a volcanic glass formation produced from cooled lava stretched into thin strands, usually from  lava fountains, lava cascades, or vigorous lava flows. It is named after Pele, the Hawaiian goddess of volcanoes.
+- TODO [[https://en.wikipedia.org/wiki/BowieNet][BowieNet]] 
 
 *** Sun Jul 16
 - A [[https://en.wikipedia.org/wiki/Portal_(architecture)][portal]] is an opening in a wall of a building, gate or fortification, especially a grand entrance to an important structure. Doors, metal gates, or portcullis in the opening can be used to control entry or exit. 
